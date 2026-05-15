@@ -1,0 +1,1493 @@
+Customer ID,Age,Gender,Loyalty Member,Product Type,SKU,Rating,Order Status,Payment Method,Total Price,Unit Price,Quantity,Purchase Date,Shipping Type,Add-ons Purchased,Add-on Total
+1015,22,Male,No,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-02,Standard,"Accessory,Accessory,Accessory",80.0
+1031,20,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,103.75,20.75,5,2024-09-03,Overnight,"Accessory,Accessory",17.79
+1038,56,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,5538.33,791.19,7,2024-09-23,Overnight,"Extended Warranty,Accessory",26.01
+1073,46,Female,Yes,Tablet,SKU1002,3,Completed,Credit Card,1976.24,247.03,8,2024-09-12,Express,Extended Warranty,46.38
+1079,64,Male,Yes,Smartphone,SKU1004,2,Completed,Paypal,3164.76,791.19,4,2024-09-12,Overnight,Impulse Item,8.16
+1079,64,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,2373.57,791.19,3,2024-09-15,Overnight,"Extended Warranty,Accessory,Extended Warranty",101.06
+1105,42,Female,No,Tablet,SKU1002,3,Completed,Debit Card,1482.18,247.03,6,2024-09-20,Overnight,"Impulse Item,Accessory,Extended Warranty",102.0
+1115,31,Female,No,Tablet,SKU1002,3,Completed,Debit Card,247.03,247.03,1,2024-09-10,Standard,,0.0
+1122,69,Male,Yes,Smartphone,SKU1004,2,Cancelled,Paypal,5538.33,791.19,7,2024-09-15,Express,,0.0
+1124,24,Female,No,Smartphone,SKU1004,2,Completed,Paypal,3164.76,791.19,4,2024-09-05,Overnight,"Impulse Item,Extended Warranty,Impulse Item",104.82
+1139,56,Female,No,Smartphone,SKU1004,2,Cancelled,Debit Card,6329.52,791.19,8,2024-09-21,Overnight,"Extended Warranty,Extended Warranty,Accessory",46.71
+1145,75,Female,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,5068.98,844.83,6,2024-09-13,Express,Extended Warranty,12.0
+1154,70,Female,No,Laptop,SKU1005,3,Completed,Credit Card,463.96,463.96,1,2024-09-09,Overnight,,0.0
+1160,22,Female,Yes,Smartphone,SKU1001,5,Cancelled,Debit Card,83.0,20.75,4,2024-09-04,Express,"Impulse Item,Extended Warranty",57.28
+1171,50,Male,No,Tablet,SKU1002,3,Completed,Paypal,741.09,247.03,3,2024-09-07,Overnight,,0.0
+1175,62,Male,No,Laptop,SKU1005,3,Completed,Credit Card,3247.72,463.96,7,2024-09-17,Express,"Extended Warranty,Accessory,Extended Warranty",108.15
+1183,80,Male,Yes,Tablet,SKU1002,3,Cancelled,Paypal,247.03,247.03,1,2024-09-18,Standard,,0.0
+1192,60,Male,No,Smartphone,SKU1001,5,Cancelled,Paypal,207.5,20.75,10,2024-09-14,Overnight,"Accessory,Accessory,Extended Warranty",51.93
+1197,77,Female,No,Laptop,SKU1005,3,Cancelled,Cash,4175.64,463.96,9,2024-09-21,Express,,0.0
+1215,47,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,7120.71,791.19,9,2024-09-15,Overnight,"Accessory,Impulse Item,Impulse Item",121.35
+1216,35,Female,Yes,Smartphone,SKU1004,2,Completed,Cash,2373.57,791.19,3,2024-09-20,Express,"Extended Warranty,Extended Warranty,Impulse Item",60.11
+1234,58,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,8448.3,844.83,10,2024-09-23,Overnight,Extended Warranty,24.63
+1236,55,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,6329.52,791.19,8,2024-09-01,Overnight,"Impulse Item,Accessory",20.42
+1265,29,Female,No,Smartphone,SKU1001,5,Cancelled,Debit Card,20.75,20.75,1,2024-09-21,Standard,"Accessory,Extended Warranty",67.15
+1271,36,Female,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,6758.64,844.83,8,2024-09-19,Express,Impulse Item,24.46
+1314,30,Male,No,Laptop,SKU1005,3,Cancelled,Paypal,3247.72,463.96,7,2024-09-07,Express,,0.0
+1316,52,Male,Yes,Smartwatch,SKU1003,3,Completed,Cash,4224.15,844.83,5,2024-09-05,Standard,,0.0
+1327,80,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,494.06,247.03,2,2024-09-20,Standard,"Extended Warranty,Impulse Item,Impulse Item",112.83
+1350,77,Male,No,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-11,Standard,,0.0
+1352,19,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-07,Express,,0.0
+1355,30,Male,No,Laptop,SKU1005,3,Completed,Credit Card,4175.64,463.96,9,2024-09-15,Overnight,"Impulse Item,Impulse Item",65.14
+1357,30,Female,Yes,Smartphone,SKU1001,5,Cancelled,Paypal,145.25,20.75,7,2024-09-05,Overnight,,0.0
+1375,45,Female,No,Laptop,SKU1005,3,Completed,Cash,2783.76,463.96,6,2024-09-22,Express,"Extended Warranty,Extended Warranty,Extended Warranty",84.06
+1389,22,Male,Yes,Smartwatch,SKU1003,3,Completed,Credit Card,8448.3,844.83,10,2024-09-07,Express,Accessory,49.96
+1402,77,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,3955.95,791.19,5,2024-09-23,Overnight,"Accessory,Accessory,Extended Warranty",99.39
+1411,23,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,3955.95,791.19,5,2024-09-17,Standard,Impulse Item,18.6
+1422,62,Female,Yes,Smartwatch,SKU1003,3,Completed,Credit Card,7603.47,844.83,9,2024-09-20,Overnight,"Accessory,Impulse Item,Extended Warranty",58.85
+1461,65,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,6758.64,844.83,8,2024-09-01,Overnight,,0.0
+1461,65,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,7120.71,791.19,9,2024-09-08,Overnight,,0.0
+1480,48,Male,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,7603.47,844.83,9,2024-09-19,Express,,0.0
+1483,52,Female,No,Smartphone,SKU1001,5,Cancelled,Cash,103.75,20.75,5,2024-09-05,Express,"Accessory,Extended Warranty",54.94
+1484,63,Male,No,Laptop,SKU1005,3,Completed,Credit Card,3711.68,463.96,8,2024-09-20,Overnight,,0.0
+1495,45,Female,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,2534.49,844.83,3,2024-09-14,Express,,0.0
+1504,41,Male,No,Laptop,SKU1005,3,Completed,Paypal,3247.72,463.96,7,2024-09-05,Express,"Accessory,Impulse Item",51.66
+1559,59,Male,No,Laptop,SKU1005,3,Completed,Paypal,927.92,463.96,2,2024-09-12,Standard,,0.0
+1574,31,Female,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,5068.98,844.83,6,2024-09-10,Express,"Impulse Item,Accessory",67.21
+1601,40,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,4224.15,844.83,5,2024-09-18,Standard,,0.0
+1602,23,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,2223.27,247.03,9,2024-09-11,Standard,Extended Warranty,36.33
+1616,39,Female,No,Smartphone,SKU1004,2,Completed,Paypal,7120.71,791.19,9,2024-09-10,Express,"Accessory,Accessory,Accessory",111.47
+1673,43,Male,Yes,Smartwatch,SKU1003,3,Cancelled,Credit Card,2534.49,844.83,3,2024-09-22,Express,"Accessory,Accessory",63.66
+1689,31,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,7911.9,791.19,10,2024-09-05,Standard,Extended Warranty,31.67
+1695,75,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,7120.71,791.19,9,2024-09-18,Overnight,,0.0
+1698,42,Female,No,Tablet,SKU1002,3,Completed,Paypal,247.03,247.03,1,2024-09-21,Overnight,Extended Warranty,16.73
+1727,24,Male,Yes,Smartphone,SKU1004,2,Completed,Cash,5538.33,791.19,7,2024-09-10,Express,Accessory,9.9
+1742,43,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,3379.32,844.83,4,2024-09-10,Overnight,,0.0
+1789,69,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,988.12,247.03,4,2024-09-05,Overnight,,0.0
+1794,80,Male,No,Smartphone,SKU1004,2,Completed,Paypal,5538.33,791.19,7,2024-09-12,Overnight,"Extended Warranty,Impulse Item",78.72
+1799,73,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,4224.15,844.83,5,2024-09-20,Standard,,0.0
+1803,44,Female,No,Smartphone,SKU1001,5,Completed,Cash,166.0,20.75,8,2024-09-18,Express,,0.0
+1863,55,Male,Yes,Smartphone,SKU1001,5,Completed,Paypal,103.75,20.75,5,2024-09-15,Overnight,"Extended Warranty,Extended Warranty",78.88
+1878,39,Female,No,Tablet,SKU1002,3,Completed,Credit Card,494.06,247.03,2,2024-09-16,Express,"Accessory,Extended Warranty,Accessory",83.53
+1880,48,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,6329.52,791.19,8,2024-09-15,Overnight,"Extended Warranty,Impulse Item",70.19
+1883,75,Female,No,Smartphone,SKU1004,2,Completed,Cash,1582.38,791.19,2,2024-09-01,Standard,"Accessory,Extended Warranty",66.67
+1893,51,Female,No,Smartphone,SKU1001,5,Completed,Cash,145.25,20.75,7,2024-09-07,Express,"Extended Warranty,Accessory,Extended Warranty",56.2
+1907,18,Female,No,Smartphone,SKU1001,5,Cancelled,Debit Card,83.0,20.75,4,2024-09-02,Express,,0.0
+1909,29,Male,No,Laptop,SKU1005,3,Cancelled,Cash,1391.88,463.96,3,2024-09-18,Express,"Extended Warranty,Impulse Item",54.21
+1921,23,Female,No,Smartphone,SKU1004,2,Cancelled,Debit Card,7911.9,791.19,10,2024-09-11,Overnight,Impulse Item,18.11
+1936,53,Female,Yes,Smartphone,SKU1004,2,Completed,Paypal,6329.52,791.19,8,2024-09-15,Overnight,"Accessory,Extended Warranty,Accessory",117.03
+1945,31,Male,No,Tablet,SKU1002,3,Cancelled,Cash,2223.27,247.03,9,2024-09-04,Express,,0.0
+1965,28,Male,No,Smartphone,SKU1001,5,Completed,Paypal,166.0,20.75,8,2024-09-04,Express,"Extended Warranty,Accessory,Extended Warranty",66.2
+1972,37,Female,Yes,Smartwatch,SKU1003,3,Cancelled,Paypal,7603.47,844.83,9,2024-09-14,Overnight,"Extended Warranty,Impulse Item,Extended Warranty",108.74
+2022,37,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,5538.33,791.19,7,2024-09-23,Express,"Accessory,Accessory",29.44
+2037,37,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,791.19,791.19,1,2024-09-13,Overnight,Extended Warranty,16.96
+2076,69,Female,Yes,Tablet,SKU1002,3,Cancelled,Debit Card,1976.24,247.03,8,2024-09-18,Standard,"Accessory,Impulse Item",33.49
+2082,19,Male,Yes,Smartphone,SKU1001,5,Completed,Credit Card,145.25,20.75,7,2024-09-22,Express,,0.0
+2087,61,Female,No,Tablet,SKU1002,3,Cancelled,Debit Card,1976.24,247.03,8,2024-09-09,Standard,"Impulse Item,Extended Warranty",62.29
+2099,79,Male,No,Smartphone,SKU1001,5,Completed,Credit Card,41.5,20.75,2,2024-09-13,Standard,,0.0
+2112,20,Male,No,Laptop,SKU1005,3,Completed,Debit Card,2319.8,463.96,5,2024-09-11,Express,Accessory,10.87
+2114,29,Female,No,Smartphone,SKU1001,5,Completed,Paypal,62.25,20.75,3,2024-09-08,Standard,"Impulse Item,Accessory",60.48
+2134,35,Female,No,Laptop,SKU1005,3,Completed,Paypal,2319.8,463.96,5,2024-09-18,Overnight,"Accessory,Impulse Item,Accessory",89.44
+2147,61,Male,No,Laptop,SKU1005,3,Completed,Credit Card,3247.72,463.96,7,2024-09-21,Overnight,,0.0
+2150,63,Female,No,Tablet,SKU1002,3,Completed,Credit Card,1729.21,247.03,7,2024-09-17,Overnight,Impulse Item,6.77
+2156,75,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,7603.47,844.83,9,2024-09-01,Express,Accessory,16.45
+2156,75,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,5068.98,844.83,6,2024-09-07,Express,,0.0
+2164,29,Female,No,Laptop,SKU1005,3,Completed,Cash,4639.6,463.96,10,2024-09-23,Express,"Extended Warranty,Extended Warranty",69.07
+2180,26,Male,No,Smartphone,SKU1001,5,Completed,Paypal,62.25,20.75,3,2024-09-13,Overnight,"Accessory,Accessory,Impulse Item",128.38
+2181,44,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,6758.64,844.83,8,2024-09-05,Standard,"Accessory,Accessory,Accessory",65.34
+2182,41,Male,No,Smartphone,SKU1001,5,Completed,Paypal,124.5,20.75,6,2024-09-13,Overnight,"Accessory,Accessory,Accessory",99.9
+2212,69,Female,No,Tablet,SKU1002,3,Cancelled,Credit Card,988.12,247.03,4,2024-09-16,Overnight,Extended Warranty,20.63
+2215,65,Male,No,Smartphone,SKU1001,5,Completed,Paypal,166.0,20.75,8,2024-09-13,Overnight,"Extended Warranty,Impulse Item,Impulse Item",38.19
+2215,65,Male,No,Smartphone,SKU1004,2,Completed,Cash,6329.52,791.19,8,2024-09-15,Express,"Accessory,Accessory",45.22
+2244,43,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,6329.52,791.19,8,2024-09-10,Standard,Impulse Item,33.33
+2254,57,Female,No,Tablet,SKU1002,3,Completed,Debit Card,1235.15,247.03,5,2024-09-07,Overnight,"Impulse Item,Impulse Item",53.55
+2258,25,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,4224.15,844.83,5,2024-09-14,Standard,"Accessory,Impulse Item,Accessory",100.46
+2297,61,Female,No,Smartwatch,SKU1003,3,Completed,Cash,1689.66,844.83,2,2024-09-01,Standard,,0.0
+2300,36,Male,No,Laptop,SKU1005,3,Completed,Debit Card,3247.72,463.96,7,2024-09-20,Standard,Impulse Item,44.79
+2337,65,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,3379.32,844.83,4,2024-09-01,Express,"Impulse Item,Impulse Item",57.31
+2396,58,Male,No,Tablet,SKU1002,3,Completed,Debit Card,494.06,247.03,2,2024-09-19,Overnight,"Accessory,Impulse Item",59.41
+2413,56,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,1689.66,844.83,2,2024-09-13,Standard,,0.0
+2460,72,Male,Yes,Smartphone,SKU1001,5,Cancelled,Cash,83.0,20.75,4,2024-09-22,Standard,"Accessory,Impulse Item,Accessory",61.85
+2473,69,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,83.0,20.75,4,2024-09-12,Express,Accessory,28.05
+2486,65,Female,No,Tablet,SKU1002,3,Completed,Credit Card,1482.18,247.03,6,2024-09-22,Overnight,"Accessory,Extended Warranty",76.95
+2496,55,Female,No,Tablet,SKU1002,3,Cancelled,Credit Card,1235.15,247.03,5,2024-09-01,Standard,"Impulse Item,Accessory,Impulse Item",49.16
+2513,40,Female,No,Smartphone,SKU1004,2,Completed,Cash,5538.33,791.19,7,2024-09-03,Standard,"Accessory,Impulse Item,Extended Warranty",72.2
+2526,22,Male,No,Smartphone,SKU1001,5,Cancelled,Paypal,186.75,20.75,9,2024-09-05,Express,"Accessory,Impulse Item",46.21
+2526,22,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,6329.52,791.19,8,2024-09-16,Overnight,Accessory,26.53
+2547,60,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,7911.9,791.19,10,2024-09-21,Overnight,"Accessory,Impulse Item",64.64
+2556,35,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,3955.95,791.19,5,2024-09-15,Express,,0.0
+2556,35,Female,No,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-21,Express,Accessory,21.26
+2562,23,Male,No,Smartphone,SKU1001,5,Completed,Credit Card,103.75,20.75,5,2024-09-20,Express,,0.0
+2587,28,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,83.0,20.75,4,2024-09-21,Overnight,"Impulse Item,Accessory,Accessory",89.29
+2589,73,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,7120.71,791.19,9,2024-09-16,Express,"Impulse Item,Impulse Item,Accessory",93.92
+2593,44,Female,No,Tablet,SKU1002,3,Cancelled,Paypal,247.03,247.03,1,2024-09-12,Overnight,Impulse Item,43.94
+2605,33,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,207.5,20.75,10,2024-09-13,Express,"Accessory,Impulse Item,Extended Warranty",128.57
+2607,68,Male,No,Laptop,SKU1005,3,Cancelled,Paypal,4175.64,463.96,9,2024-09-03,Express,"Extended Warranty,Impulse Item,Accessory",135.92
+2610,36,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,1391.88,463.96,3,2024-09-12,Overnight,Extended Warranty,25.44
+2621,30,Female,No,Smartphone,SKU1004,2,Cancelled,Paypal,4747.14,791.19,6,2024-09-23,Standard,,0.0
+2629,49,Male,Yes,Laptop,SKU1005,3,Completed,Debit Card,1855.84,463.96,4,2024-09-08,Express,"Impulse Item,Impulse Item,Accessory",62.38
+2658,28,Male,Yes,Smartphone,SKU1004,2,Cancelled,Cash,3955.95,791.19,5,2024-09-06,Overnight,"Extended Warranty,Accessory",25.16
+2671,78,Male,Yes,Smartphone,SKU1004,2,Cancelled,Cash,6329.52,791.19,8,2024-09-02,Overnight,,0.0
+2671,78,Male,No,Smartphone,SKU1001,5,Completed,Cash,103.75,20.75,5,2024-09-16,Overnight,"Impulse Item,Impulse Item",54.87
+2671,78,Male,No,Tablet,SKU1002,3,Completed,Cash,2223.27,247.03,9,2024-09-23,Express,Accessory,24.14
+2699,66,Male,No,Smartphone,SKU1001,5,Completed,Cash,124.5,20.75,6,2024-09-10,Standard,"Impulse Item,Impulse Item",31.56
+2720,28,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,20.75,20.75,1,2024-09-20,Express,"Extended Warranty,Impulse Item",44.16
+2738,30,Female,No,Tablet,SKU1002,3,Cancelled,Cash,2470.3,247.03,10,2024-09-14,Standard,Accessory,7.91
+2745,75,Male,Yes,Laptop,SKU1005,3,Completed,Credit Card,2783.76,463.96,6,2024-09-18,Overnight,Extended Warranty,45.08
+2750,28,Female,No,Tablet,SKU1002,3,Completed,Paypal,1729.21,247.03,7,2024-09-14,Standard,Impulse Item,28.71
+2755,41,Male,No,Smartphone,SKU1004,2,Completed,Cash,6329.52,791.19,8,2024-09-13,Standard,Accessory,5.58
+2778,28,Male,No,Smartphone,SKU1001,5,Completed,Credit Card,103.75,20.75,5,2024-09-08,Standard,,0.0
+2778,28,Male,Yes,Smartphone,SKU1004,2,Completed,Credit Card,3164.76,791.19,4,2024-09-19,Standard,,0.0
+2800,19,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,6758.64,844.83,8,2024-09-12,Standard,"Accessory,Impulse Item",33.05
+2806,26,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,1235.15,247.03,5,2024-09-08,Overnight,Impulse Item,48.37
+2817,44,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,7120.71,791.19,9,2024-09-08,Overnight,,0.0
+2822,71,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,3164.76,791.19,4,2024-09-04,Express,"Impulse Item,Impulse Item,Extended Warranty",77.7
+2839,47,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,186.75,20.75,9,2024-09-23,Overnight,"Accessory,Impulse Item",53.86
+2859,63,Female,No,Laptop,SKU1005,3,Completed,Cash,3711.68,463.96,8,2024-09-22,Standard,,0.0
+2861,48,Female,Yes,Smartphone,SKU1001,5,Completed,Cash,124.5,20.75,6,2024-09-08,Express,Extended Warranty,12.6
+2879,55,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,7120.71,791.19,9,2024-09-21,Express,,0.0
+2880,43,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,6329.52,791.19,8,2024-09-02,Express,"Impulse Item,Accessory,Impulse Item",73.27
+2881,64,Female,Yes,Laptop,SKU1005,3,Completed,Paypal,3247.72,463.96,7,2024-09-20,Overnight,"Accessory,Impulse Item",37.44
+2890,54,Male,Yes,Smartphone,SKU1001,5,Cancelled,Cash,103.75,20.75,5,2024-09-11,Overnight,,0.0
+2898,37,Male,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,5068.98,844.83,6,2024-09-21,Express,"Accessory,Impulse Item",83.9
+2922,39,Female,No,Laptop,SKU1005,3,Completed,Debit Card,2319.8,463.96,5,2024-09-09,Standard,,0.0
+2943,49,Male,Yes,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-08,Express,"Impulse Item,Extended Warranty,Accessory",45.77
+2961,18,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,7120.71,791.19,9,2024-09-16,Overnight,"Accessory,Extended Warranty,Accessory",71.37
+3001,22,Female,No,Tablet,SKU1002,3,Cancelled,Debit Card,1729.21,247.03,7,2024-09-22,Standard,,0.0
+3013,43,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,1689.66,844.83,2,2024-09-18,Overnight,"Extended Warranty,Accessory",43.55
+3026,74,Male,Yes,Smartphone,SKU1001,5,Completed,Paypal,166.0,20.75,8,2024-09-03,Standard,,0.0
+3040,28,Female,No,Tablet,SKU1002,3,Completed,Cash,741.09,247.03,3,2024-09-06,Overnight,"Accessory,Accessory,Extended Warranty",61.69
+3085,35,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,7603.47,844.83,9,2024-09-02,Standard,"Impulse Item,Accessory",75.34
+3122,72,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,2373.57,791.19,3,2024-09-21,Overnight,,0.0
+3123,29,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,5068.98,844.83,6,2024-09-03,Standard,"Extended Warranty,Impulse Item",24.17
+3129,61,Male,Yes,Smartphone,SKU1004,2,Completed,Paypal,3164.76,791.19,4,2024-09-05,Express,"Extended Warranty,Accessory,Extended Warranty",130.01
+3143,34,Male,No,Laptop,SKU1005,3,Completed,Paypal,1391.88,463.96,3,2024-09-06,Overnight,,0.0
+3146,62,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,7911.9,791.19,10,2024-09-15,Express,,0.0
+3165,28,Male,No,Laptop,SKU1005,3,Completed,Credit Card,1855.84,463.96,4,2024-09-22,Standard,"Accessory,Accessory,Extended Warranty",87.43
+3168,56,Male,Yes,Smartwatch,SKU1003,3,Cancelled,Cash,2534.49,844.83,3,2024-09-03,Overnight,Impulse Item,23.46
+3170,68,Male,No,Laptop,SKU1005,3,Completed,Cash,4175.64,463.96,9,2024-09-19,Overnight,"Impulse Item,Accessory",59.13
+3194,24,Female,No,Smartphone,SKU1004,2,Completed,Cash,3164.76,791.19,4,2024-09-11,Standard,"Extended Warranty,Extended Warranty",77.46
+3197,56,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,6758.64,844.83,8,2024-09-18,Overnight,Extended Warranty,19.38
+3207,60,Male,Yes,Smartwatch,SKU1003,3,Completed,Debit Card,8448.3,844.83,10,2024-09-10,Standard,"Extended Warranty,Impulse Item",67.65
+3225,47,Male,Yes,Laptop,SKU1005,3,Completed,Debit Card,3711.68,463.96,8,2024-09-02,Standard,,0.0
+3255,55,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,4224.15,844.83,5,2024-09-23,Overnight,"Accessory,Accessory,Extended Warranty",83.41
+3281,76,Male,Yes,Tablet,SKU1002,3,Completed,Paypal,247.03,247.03,1,2024-09-11,Overnight,"Accessory,Accessory,Accessory",130.55
+3294,26,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,7603.47,844.83,9,2024-09-22,Overnight,"Extended Warranty,Accessory",72.43
+3331,44,Male,No,Smartphone,SKU1001,5,Completed,Paypal,186.75,20.75,9,2024-09-11,Overnight,,0.0
+3340,46,Female,No,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-04,Standard,"Impulse Item,Impulse Item,Impulse Item",70.31
+3340,46,Female,No,Tablet,SKU1002,3,Completed,Debit Card,1729.21,247.03,7,2024-09-11,Overnight,,0.0
+3393,50,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,6329.52,791.19,8,2024-09-21,Overnight,"Extended Warranty,Extended Warranty",80.51
+3420,69,Male,Yes,Smartwatch,SKU1003,3,Cancelled,Cash,5068.98,844.83,6,2024-09-22,Standard,"Impulse Item,Extended Warranty",59.25
+3442,80,Male,No,Tablet,SKU1002,3,Cancelled,Credit Card,2223.27,247.03,9,2024-09-16,Standard,"Impulse Item,Extended Warranty",55.26
+3445,18,Male,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,2783.76,463.96,6,2024-09-05,Express,,0.0
+3464,32,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,1235.15,247.03,5,2024-09-19,Express,"Accessory,Accessory",33.67
+3476,30,Male,No,Laptop,SKU1005,3,Cancelled,Paypal,3711.68,463.96,8,2024-09-04,Overnight,Impulse Item,35.02
+3494,58,Male,Yes,Smartphone,SKU1004,2,Cancelled,Paypal,4747.14,791.19,6,2024-09-07,Standard,Impulse Item,42.72
+3502,67,Male,No,Tablet,SKU1002,3,Completed,Debit Card,2470.3,247.03,10,2024-09-20,Express,"Impulse Item,Accessory,Extended Warranty",85.17
+3515,67,Female,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,2534.49,844.83,3,2024-09-19,Standard,"Extended Warranty,Impulse Item,Accessory",97.24
+3575,49,Male,Yes,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-20,Express,,0.0
+3588,22,Male,Yes,Smartwatch,SKU1003,3,Cancelled,Debit Card,6758.64,844.83,8,2024-09-04,Standard,Accessory,11.06
+3590,45,Male,Yes,Smartphone,SKU1004,2,Completed,Debit Card,4747.14,791.19,6,2024-09-01,Express,"Impulse Item,Extended Warranty",27.34
+3593,72,Female,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-22,Standard,Extended Warranty,34.27
+3614,54,Female,Yes,Smartphone,SKU1001,5,Cancelled,Debit Card,103.75,20.75,5,2024-09-12,Express,Extended Warranty,36.07
+3641,33,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,7603.47,844.83,9,2024-09-13,Standard,"Accessory,Impulse Item",57.54
+3649,42,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,3955.95,791.19,5,2024-09-12,Express,,0.0
+3659,73,Female,No,Smartphone,SKU1004,2,Completed,Paypal,4747.14,791.19,6,2024-09-18,Express,,0.0
+3670,53,Female,No,Smartphone,SKU1001,5,Completed,Cash,186.75,20.75,9,2024-09-01,Express,"Extended Warranty,Impulse Item,Accessory",75.71
+3689,53,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,5538.33,791.19,7,2024-09-03,Overnight,Extended Warranty,9.99
+3704,74,Male,No,Tablet,SKU1002,3,Cancelled,Credit Card,494.06,247.03,2,2024-09-22,Standard,Accessory,20.69
+3727,80,Male,No,Laptop,SKU1005,3,Cancelled,Debit Card,463.96,463.96,1,2024-09-17,Standard,"Impulse Item,Accessory,Impulse Item",53.27
+3737,24,Female,No,Smartphone,SKU1004,2,Completed,Cash,5538.33,791.19,7,2024-09-17,Express,"Extended Warranty,Extended Warranty",34.64
+3738,44,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,6758.64,844.83,8,2024-09-02,Overnight,"Extended Warranty,Extended Warranty",54.01
+3761,42,Female,No,Laptop,SKU1005,3,Completed,Debit Card,3711.68,463.96,8,2024-09-09,Overnight,,0.0
+3770,28,Male,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,1855.84,463.96,4,2024-09-09,Overnight,Extended Warranty,8.47
+3782,80,Female,No,Smartphone,SKU1001,5,Completed,Cash,62.25,20.75,3,2024-09-18,Standard,"Extended Warranty,Impulse Item",13.76
+3785,51,Male,Yes,Laptop,SKU1005,3,Completed,Paypal,463.96,463.96,1,2024-09-06,Standard,"Accessory,Impulse Item,Extended Warranty",71.57
+3792,80,Female,No,Smartphone,SKU1004,2,Cancelled,Paypal,2373.57,791.19,3,2024-09-20,Standard,"Extended Warranty,Accessory,Extended Warranty",104.26
+3800,23,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,145.25,20.75,7,2024-09-05,Standard,Impulse Item,40.51
+3806,35,Male,No,Laptop,SKU1005,3,Completed,Debit Card,4639.6,463.96,10,2024-09-09,Express,,0.0
+3810,64,Female,Yes,Smartphone,SKU1001,5,Completed,Credit Card,145.25,20.75,7,2024-09-06,Express,"Impulse Item,Impulse Item",79.42
+3811,41,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,3955.95,791.19,5,2024-09-10,Overnight,"Impulse Item,Extended Warranty,Extended Warranty",102.07
+3857,47,Male,No,Tablet,SKU1002,3,Cancelled,Debit Card,1482.18,247.03,6,2024-09-12,Overnight,Extended Warranty,12.8
+3869,30,Male,No,Tablet,SKU1002,3,Cancelled,Credit Card,1729.21,247.03,7,2024-09-16,Express,Extended Warranty,36.41
+3876,28,Female,No,Laptop,SKU1005,3,Cancelled,Paypal,927.92,463.96,2,2024-09-02,Overnight,"Accessory,Accessory",51.7
+3878,40,Male,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,4224.15,844.83,5,2024-09-11,Express,,0.0
+3901,77,Male,No,Tablet,SKU1002,3,Completed,Cash,1729.21,247.03,7,2024-09-14,Express,Extended Warranty,17.66
+3946,43,Female,No,Laptop,SKU1005,3,Completed,Debit Card,3247.72,463.96,7,2024-09-02,Overnight,"Accessory,Extended Warranty",48.03
+3947,78,Male,No,Smartwatch,SKU1003,3,Completed,Cash,8448.3,844.83,10,2024-09-10,Overnight,,0.0
+3968,64,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,7911.9,791.19,10,2024-09-11,Express,"Extended Warranty,Accessory,Extended Warranty",84.49
+3982,44,Female,No,Tablet,SKU1002,3,Completed,Credit Card,2470.3,247.03,10,2024-09-14,Overnight,"Accessory,Impulse Item",42.48
+3992,67,Male,No,Tablet,SKU1002,3,Completed,Credit Card,494.06,247.03,2,2024-09-14,Express,,0.0
+3994,18,Male,Yes,Laptop,SKU1005,3,Cancelled,Credit Card,463.96,463.96,1,2024-09-08,Standard,"Extended Warranty,Accessory,Accessory",79.67
+4013,41,Male,No,Laptop,SKU1005,3,Completed,Debit Card,3711.68,463.96,8,2024-09-17,Standard,,0.0
+4015,33,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,5538.33,791.19,7,2024-09-17,Express,,0.0
+4031,50,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,7603.47,844.83,9,2024-09-15,Standard,"Extended Warranty,Accessory,Impulse Item",45.91
+4037,27,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,1689.66,844.83,2,2024-09-15,Overnight,"Accessory,Accessory",68.88
+4044,20,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1482.18,247.03,6,2024-09-17,Overnight,"Extended Warranty,Extended Warranty",62.56
+4048,68,Male,No,Smartphone,SKU1004,2,Cancelled,Credit Card,3164.76,791.19,4,2024-09-22,Overnight,,0.0
+4061,61,Male,No,Laptop,SKU1005,3,Completed,Debit Card,463.96,463.96,1,2024-09-15,Overnight,Accessory,33.21
+4064,53,Female,No,Smartphone,SKU1004,2,Completed,Cash,791.19,791.19,1,2024-09-18,Express,,0.0
+4099,44,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-12,Standard,"Accessory,Extended Warranty,Impulse Item",68.08
+4122,36,Female,No,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-19,Overnight,,0.0
+4125,37,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,166.0,20.75,8,2024-09-11,Overnight,,0.0
+4129,69,Male,No,Smartphone,SKU1001,5,Cancelled,Credit Card,186.75,20.75,9,2024-09-10,Standard,"Impulse Item,Accessory",44.36
+4132,43,Male,Yes,Laptop,SKU1005,3,Completed,Debit Card,927.92,463.96,2,2024-09-15,Standard,,0.0
+4152,49,Male,Yes,Tablet,SKU1002,3,Completed,Paypal,2470.3,247.03,10,2024-09-07,Overnight,"Impulse Item,Extended Warranty",81.87
+4160,36,Female,No,Smartphone,SKU1001,5,Completed,Cash,207.5,20.75,10,2024-09-09,Overnight,Extended Warranty,24.19
+4216,21,Female,No,Smartphone,SKU1004,2,Completed,Cash,4747.14,791.19,6,2024-09-04,Standard,,0.0
+4232,46,Female,No,Laptop,SKU1005,3,Completed,Cash,463.96,463.96,1,2024-09-19,Express,Accessory,48.45
+4235,30,Female,No,Laptop,SKU1005,3,Completed,Credit Card,2783.76,463.96,6,2024-09-10,Standard,"Accessory,Impulse Item",81.67
+4236,39,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,20.75,20.75,1,2024-09-18,Express,"Extended Warranty,Impulse Item,Extended Warranty",78.83
+4238,32,Female,Yes,Smartwatch,SKU1003,3,Completed,Paypal,7603.47,844.83,9,2024-09-13,Express,,0.0
+4271,52,Female,Yes,Smartphone,SKU1004,2,Completed,Credit Card,1582.38,791.19,2,2024-09-01,Overnight,"Accessory,Impulse Item",17.43
+4274,58,Female,No,Smartphone,SKU1001,5,Cancelled,Paypal,207.5,20.75,10,2024-09-09,Overnight,"Accessory,Accessory,Impulse Item",90.69
+4293,58,Female,No,Laptop,SKU1005,3,Cancelled,Credit Card,1855.84,463.96,4,2024-09-08,Overnight,,0.0
+4335,56,Male,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,4639.6,463.96,10,2024-09-22,Standard,,0.0
+4363,45,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,1482.18,247.03,6,2024-09-05,Express,,0.0
+4365,36,Male,Yes,Laptop,SKU1005,3,Completed,Credit Card,463.96,463.96,1,2024-09-15,Overnight,"Extended Warranty,Extended Warranty,Extended Warranty",90.56
+4391,47,Female,No,Tablet,SKU1002,3,Cancelled,Cash,1729.21,247.03,7,2024-09-22,Express,"Impulse Item,Impulse Item,Impulse Item",41.64
+4399,25,Male,Yes,Tablet,SKU1002,3,Completed,Debit Card,1729.21,247.03,7,2024-09-23,Standard,"Accessory,Accessory",76.21
+4408,40,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,1729.21,247.03,7,2024-09-20,Express,Impulse Item,29.05
+4426,32,Female,No,Smartphone,SKU1004,2,Completed,Cash,791.19,791.19,1,2024-09-23,Standard,"Accessory,Accessory,Accessory",86.37
+4436,75,Female,Yes,Smartwatch,SKU1003,3,Completed,Credit Card,5913.81,844.83,7,2024-09-22,Express,,0.0
+4441,35,Female,Yes,Smartphone,SKU1001,5,Completed,Debit Card,20.75,20.75,1,2024-09-18,Standard,"Accessory,Accessory",47.65
+4442,71,Male,No,Smartphone,SKU1001,5,Completed,Paypal,62.25,20.75,3,2024-09-21,Standard,Accessory,43.25
+4443,74,Female,No,Laptop,SKU1005,3,Completed,Credit Card,3247.72,463.96,7,2024-09-07,Express,,0.0
+4482,31,Female,No,Smartwatch,SKU1003,3,Cancelled,Paypal,3379.32,844.83,4,2024-09-15,Standard,"Extended Warranty,Extended Warranty,Extended Warranty",97.56
+4491,64,Male,No,Tablet,SKU1002,3,Completed,Debit Card,494.06,247.03,2,2024-09-02,Standard,"Extended Warranty,Accessory,Accessory",76.86
+4495,72,Female,No,Tablet,SKU1002,3,Completed,Cash,2223.27,247.03,9,2024-09-19,Express,"Extended Warranty,Impulse Item,Accessory",115.34
+4499,67,Female,No,Smartphone,SKU1004,2,Completed,Paypal,3955.95,791.19,5,2024-09-05,Express,Extended Warranty,12.96
+4506,51,Female,No,Laptop,SKU1005,3,Completed,Paypal,3711.68,463.96,8,2024-09-09,Express,,0.0
+4520,32,Female,Yes,Laptop,SKU1005,3,Completed,Credit Card,1391.88,463.96,3,2024-09-11,Express,"Impulse Item,Accessory",69.77
+4559,55,Male,No,Tablet,SKU1002,3,Cancelled,Cash,1729.21,247.03,7,2024-09-13,Standard,"Impulse Item,Impulse Item",52.61
+4568,27,Female,Yes,Smartphone,SKU1004,2,Completed,Debit Card,6329.52,791.19,8,2024-09-15,Overnight,Extended Warranty,46.22
+4577,40,Male,Yes,Smartphone,SKU1004,2,Completed,Cash,3955.95,791.19,5,2024-09-08,Standard,"Accessory,Impulse Item,Extended Warranty",94.86
+4629,71,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,2373.57,791.19,3,2024-09-09,Overnight,"Accessory,Accessory,Extended Warranty",65.59
+4655,23,Female,No,Laptop,SKU1005,3,Completed,Credit Card,4175.64,463.96,9,2024-09-08,Overnight,Extended Warranty,18.36
+4662,55,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,124.5,20.75,6,2024-09-10,Express,Extended Warranty,47.07
+4663,52,Male,Yes,Smartphone,SKU1001,5,Completed,Cash,103.75,20.75,5,2024-09-19,Standard,"Impulse Item,Accessory",47.65
+4679,73,Female,No,Laptop,SKU1005,3,Cancelled,Credit Card,4639.6,463.96,10,2024-09-22,Standard,"Impulse Item,Accessory",56.38
+4686,38,Male,No,Smartphone,SKU1001,5,Cancelled,Paypal,20.75,20.75,1,2024-09-09,Standard,"Extended Warranty,Accessory,Accessory",79.67
+4689,70,Male,No,Smartphone,SKU1004,2,Completed,Paypal,7911.9,791.19,10,2024-09-04,Overnight,"Accessory,Impulse Item,Impulse Item",104.62
+4696,23,Female,No,Tablet,SKU1002,3,Completed,Debit Card,494.06,247.03,2,2024-09-10,Express,,0.0
+4709,19,Female,No,Laptop,SKU1005,3,Cancelled,Cash,463.96,463.96,1,2024-09-07,Express,"Accessory,Impulse Item",47.99
+4791,46,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,6758.64,844.83,8,2024-09-21,Overnight,Extended Warranty,47.69
+4841,53,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-08,Overnight,"Impulse Item,Accessory",36.63
+4841,53,Male,Yes,Smartwatch,SKU1003,3,Completed,Paypal,5068.98,844.83,6,2024-09-19,Standard,"Extended Warranty,Accessory",68.87
+4867,19,Male,No,Laptop,SKU1005,3,Cancelled,Cash,463.96,463.96,1,2024-09-02,Overnight,Accessory,19.41
+4881,35,Female,Yes,Laptop,SKU1005,3,Completed,Credit Card,1855.84,463.96,4,2024-09-12,Express,,0.0
+4892,65,Female,No,Smartphone,SKU1001,5,Completed,Cash,166.0,20.75,8,2024-09-09,Express,,0.0
+4902,47,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,1582.38,791.19,2,2024-09-23,Overnight,Impulse Item,40.38
+4910,77,Female,No,Laptop,SKU1005,3,Cancelled,Cash,4639.6,463.96,10,2024-09-23,Standard,Impulse Item,5.66
+4917,43,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-11,Overnight,,0.0
+4920,22,Male,No,Laptop,SKU1005,3,Completed,Credit Card,4639.6,463.96,10,2024-09-05,Standard,"Extended Warranty,Extended Warranty",48.6
+4935,50,Female,Yes,Smartphone,SKU1004,2,Completed,Cash,7120.71,791.19,9,2024-09-16,Standard,Extended Warranty,17.27
+4957,36,Male,No,Laptop,SKU1005,3,Completed,Cash,1391.88,463.96,3,2024-09-16,Overnight,Impulse Item,17.97
+4968,53,Female,No,Tablet,SKU1002,3,Cancelled,Credit Card,2470.3,247.03,10,2024-09-15,Standard,,0.0
+4970,39,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,83.0,20.75,4,2024-09-07,Express,,0.0
+4983,67,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,3379.32,844.83,4,2024-09-10,Standard,,0.0
+4997,26,Male,No,Tablet,SKU1002,3,Completed,Debit Card,988.12,247.03,4,2024-09-09,Express,"Extended Warranty,Accessory,Accessory",102.53
+5015,34,Male,No,Laptop,SKU1005,3,Completed,Cash,3247.72,463.96,7,2024-09-23,Express,,0.0
+5020,62,Female,No,Smartphone,SKU1001,5,Completed,Paypal,124.5,20.75,6,2024-09-18,Standard,"Accessory,Impulse Item",46.87
+5029,27,Female,Yes,Tablet,SKU1002,3,Completed,Paypal,1235.15,247.03,5,2024-09-16,Overnight,,0.0
+5034,60,Male,No,Laptop,SKU1005,3,Cancelled,Debit Card,4639.6,463.96,10,2024-09-21,Standard,,0.0
+5040,47,Female,No,Laptop,SKU1005,3,Cancelled,Credit Card,2319.8,463.96,5,2024-09-17,Express,"Impulse Item,Impulse Item",32.06
+5054,29,Female,No,Smartphone,SKU1004,2,Completed,Paypal,791.19,791.19,1,2024-09-06,Standard,"Accessory,Accessory",54.3
+5070,18,Female,Yes,Smartphone,SKU1001,5,Completed,Credit Card,20.75,20.75,1,2024-09-22,Express,"Impulse Item,Impulse Item",30.27
+5128,57,Female,No,Smartphone,SKU1001,5,Completed,Cash,145.25,20.75,7,2024-09-23,Standard,"Impulse Item,Extended Warranty",66.22
+5169,29,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,1976.24,247.03,8,2024-09-19,Express,,0.0
+5172,43,Male,No,Tablet,SKU1002,3,Completed,Cash,988.12,247.03,4,2024-09-09,Standard,"Extended Warranty,Impulse Item",49.58
+5179,44,Female,No,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-05,Standard,"Extended Warranty,Accessory,Accessory",73.09
+5181,43,Male,No,Laptop,SKU1005,3,Completed,Debit Card,2783.76,463.96,6,2024-09-11,Overnight,"Impulse Item,Accessory",90.84
+5181,43,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,2223.27,247.03,9,2024-09-17,Express,"Extended Warranty,Impulse Item",26.97
+5219,55,Male,No,Smartwatch,SKU1003,3,Completed,Cash,3379.32,844.83,4,2024-09-12,Express,,0.0
+5235,45,Female,Yes,Smartphone,SKU1001,5,Cancelled,Paypal,20.75,20.75,1,2024-09-14,Standard,Impulse Item,48.52
+5242,49,Female,No,Smartphone,SKU1001,5,Cancelled,Cash,83.0,20.75,4,2024-09-07,Express,"Accessory,Extended Warranty,Impulse Item",100.09
+5279,27,Female,No,Tablet,SKU1002,3,Completed,Paypal,1976.24,247.03,8,2024-09-15,Express,,0.0
+5281,76,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,6329.52,791.19,8,2024-09-20,Express,Accessory,48.33
+5283,79,Male,Yes,Smartwatch,SKU1003,3,Completed,Paypal,844.83,844.83,1,2024-09-18,Standard,"Impulse Item,Accessory",63.85
+5322,52,Female,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,3379.32,844.83,4,2024-09-09,Express,Accessory,40.56
+5323,62,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,20.75,20.75,1,2024-09-15,Standard,,0.0
+5335,53,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,3164.76,791.19,4,2024-09-05,Express,,0.0
+5344,45,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,5538.33,791.19,7,2024-09-16,Express,"Extended Warranty,Extended Warranty,Impulse Item",90.21
+5350,62,Male,No,Smartphone,SKU1004,2,Completed,Paypal,2373.57,791.19,3,2024-09-18,Overnight,Impulse Item,20.99
+5354,27,Female,No,Smartphone,SKU1004,2,Cancelled,Paypal,791.19,791.19,1,2024-09-10,Overnight,"Extended Warranty,Extended Warranty,Extended Warranty",86.8
+5371,25,Female,No,Laptop,SKU1005,3,Completed,Cash,1391.88,463.96,3,2024-09-20,Standard,,0.0
+5395,35,Female,No,Laptop,SKU1005,3,Completed,Paypal,2783.76,463.96,6,2024-09-16,Standard,,0.0
+5424,73,Male,No,Smartphone,SKU1004,2,Completed,Paypal,4747.14,791.19,6,2024-09-04,Standard,"Extended Warranty,Extended Warranty,Extended Warranty",91.36
+5458,63,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,5068.98,844.83,6,2024-09-02,Overnight,"Extended Warranty,Accessory",58.19
+5461,43,Male,No,Tablet,SKU1002,3,Cancelled,Credit Card,2223.27,247.03,9,2024-09-08,Express,Accessory,22.08
+5478,22,Female,No,Tablet,SKU1002,3,Completed,Debit Card,2470.3,247.03,10,2024-09-03,Standard,"Extended Warranty,Accessory",18.8
+5479,40,Female,No,Smartphone,SKU1004,2,Completed,Cash,6329.52,791.19,8,2024-09-19,Overnight,Extended Warranty,49.3
+5496,75,Male,No,Smartphone,SKU1004,2,Cancelled,Credit Card,7120.71,791.19,9,2024-09-01,Overnight,"Accessory,Extended Warranty,Impulse Item",134.22
+5502,33,Male,No,Smartphone,SKU1004,2,Cancelled,Credit Card,4747.14,791.19,6,2024-09-09,Express,,0.0
+5516,53,Female,No,Laptop,SKU1005,3,Completed,Debit Card,463.96,463.96,1,2024-09-06,Standard,"Extended Warranty,Extended Warranty",48.0
+5527,28,Female,Yes,Smartphone,SKU1004,2,Completed,Paypal,791.19,791.19,1,2024-09-04,Express,"Impulse Item,Extended Warranty,Impulse Item",86.01
+5539,42,Female,Yes,Tablet,SKU1002,3,Completed,Debit Card,1976.24,247.03,8,2024-09-02,Express,"Accessory,Extended Warranty,Extended Warranty",81.06
+5540,58,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,2373.57,791.19,3,2024-09-03,Standard,"Accessory,Impulse Item,Extended Warranty",42.07
+5555,56,Female,Yes,Smartphone,SKU1001,5,Completed,Cash,124.5,20.75,6,2024-09-19,Standard,,0.0
+5566,67,Female,No,Smartwatch,SKU1003,3,Completed,Debit Card,5068.98,844.83,6,2024-09-20,Express,"Accessory,Accessory,Extended Warranty",41.96
+5579,30,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1976.24,247.03,8,2024-09-14,Overnight,"Accessory,Accessory,Extended Warranty",75.16
+5594,45,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,791.19,791.19,1,2024-09-14,Overnight,Accessory,5.47
+5597,69,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,5538.33,791.19,7,2024-09-12,Overnight,"Impulse Item,Extended Warranty",50.98
+5603,28,Male,No,Laptop,SKU1005,3,Completed,Credit Card,927.92,463.96,2,2024-09-19,Express,Accessory,15.71
+5633,71,Female,No,Smartphone,SKU1004,2,Cancelled,Cash,4747.14,791.19,6,2024-09-10,Standard,,0.0
+5650,21,Female,Yes,Smartwatch,SKU1003,3,Cancelled,Credit Card,5068.98,844.83,6,2024-09-10,Overnight,"Accessory,Extended Warranty",48.8
+5665,32,Female,No,Laptop,SKU1005,3,Completed,Cash,3247.72,463.96,7,2024-09-08,Express,"Extended Warranty,Extended Warranty,Accessory",99.63
+5674,20,Male,No,Smartwatch,SKU1003,3,Completed,Cash,7603.47,844.83,9,2024-09-19,Standard,Extended Warranty,17.93
+5685,23,Male,No,Laptop,SKU1005,3,Completed,Debit Card,3711.68,463.96,8,2024-09-18,Overnight,"Accessory,Accessory",76.94
+5689,52,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,6758.64,844.83,8,2024-09-10,Overnight,Impulse Item,5.63
+5702,72,Male,No,Tablet,SKU1002,3,Completed,Cash,1976.24,247.03,8,2024-09-03,Standard,"Accessory,Extended Warranty,Accessory",52.09
+5709,53,Male,Yes,Smartphone,SKU1004,2,Completed,Credit Card,7120.71,791.19,9,2024-09-11,Standard,Extended Warranty,42.36
+5710,21,Male,No,Smartphone,SKU1001,5,Completed,Cash,103.75,20.75,5,2024-09-08,Express,"Extended Warranty,Accessory,Extended Warranty",59.89
+5722,40,Male,Yes,Tablet,SKU1002,3,Cancelled,Debit Card,494.06,247.03,2,2024-09-12,Express,"Accessory,Extended Warranty",49.9
+5730,40,Male,Yes,Tablet,SKU1002,3,Completed,Paypal,1235.15,247.03,5,2024-09-06,Standard,,0.0
+5786,58,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,2470.3,247.03,10,2024-09-09,Express,"Extended Warranty,Impulse Item,Accessory",110.78
+5789,69,Female,No,Smartphone,SKU1004,2,Completed,Paypal,3955.95,791.19,5,2024-09-20,Standard,"Impulse Item,Impulse Item,Accessory",91.52
+5799,27,Male,No,Tablet,SKU1002,3,Completed,Debit Card,1482.18,247.03,6,2024-09-13,Express,"Accessory,Impulse Item",94.15
+5816,21,Female,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,7603.47,844.83,9,2024-09-21,Overnight,"Impulse Item,Accessory",50.06
+5828,52,Female,No,Smartphone,SKU1004,2,Completed,Paypal,5538.33,791.19,7,2024-09-21,Express,,0.0
+5838,34,Female,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,2319.8,463.96,5,2024-09-23,Standard,"Extended Warranty,Impulse Item",70.41
+5844,30,Male,No,Tablet,SKU1002,3,Completed,Paypal,247.03,247.03,1,2024-09-20,Express,"Accessory,Accessory,Extended Warranty",82.86
+5849,57,Male,No,Tablet,SKU1002,3,Completed,Credit Card,2223.27,247.03,9,2024-09-19,Express,"Extended Warranty,Impulse Item,Impulse Item",103.98
+5864,61,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,3379.32,844.83,4,2024-09-05,Standard,Impulse Item,37.7
+5876,54,Female,No,Smartphone,SKU1004,2,Completed,Cash,3955.95,791.19,5,2024-09-03,Standard,Extended Warranty,45.8
+5879,48,Male,Yes,Laptop,SKU1005,3,Cancelled,Cash,3711.68,463.96,8,2024-09-09,Standard,,0.0
+5892,51,Female,No,Smartphone,SKU1001,5,Cancelled,Paypal,145.25,20.75,7,2024-09-08,Overnight,,0.0
+5899,31,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,927.92,463.96,2,2024-09-11,Express,,0.0
+5911,23,Male,No,Laptop,SKU1005,3,Completed,Paypal,1391.88,463.96,3,2024-09-17,Overnight,,0.0
+5936,22,Male,Yes,Smartwatch,SKU1003,3,Completed,Debit Card,5913.81,844.83,7,2024-09-02,Overnight,"Accessory,Accessory,Accessory",41.87
+5945,36,Female,Yes,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-09,Standard,"Extended Warranty,Extended Warranty,Extended Warranty",81.09
+5957,41,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,5068.98,844.83,6,2024-09-06,Standard,"Extended Warranty,Impulse Item",46.69
+5981,53,Female,No,Tablet,SKU1002,3,Completed,Cash,494.06,247.03,2,2024-09-21,Overnight,,0.0
+5983,30,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,20.75,20.75,1,2024-09-13,Overnight,,0.0
+5985,31,Female,No,Smartphone,SKU1004,2,Cancelled,Debit Card,7120.71,791.19,9,2024-09-04,Standard,Impulse Item,10.1
+5995,49,Female,Yes,Smartphone,SKU1004,2,Completed,Credit Card,3164.76,791.19,4,2024-09-03,Standard,Impulse Item,46.4
+5997,40,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1235.15,247.03,5,2024-09-06,Express,Extended Warranty,41.22
+5999,44,Male,No,Smartphone,SKU1001,5,Completed,Cash,186.75,20.75,9,2024-09-12,Overnight,"Impulse Item,Impulse Item",56.44
+6015,25,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,5068.98,844.83,6,2024-09-02,Overnight,"Impulse Item,Impulse Item,Accessory",78.95
+6028,19,Female,Yes,Smartwatch,SKU1003,3,Completed,Credit Card,844.83,844.83,1,2024-09-09,Overnight,"Extended Warranty,Accessory",50.87
+6029,72,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-04,Overnight,"Impulse Item,Impulse Item",60.79
+6064,42,Female,Yes,Smartphone,SKU1001,5,Completed,Paypal,103.75,20.75,5,2024-09-01,Standard,Accessory,16.56
+6071,57,Male,Yes,Tablet,SKU1002,3,Completed,Debit Card,2223.27,247.03,9,2024-09-22,Express,"Impulse Item,Extended Warranty",54.34
+6077,56,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,207.5,20.75,10,2024-09-18,Standard,,0.0
+6100,50,Female,No,Smartphone,SKU1004,2,Cancelled,Cash,3164.76,791.19,4,2024-09-12,Express,,0.0
+6128,66,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,4175.64,463.96,9,2024-09-19,Standard,"Extended Warranty,Impulse Item,Extended Warranty",37.99
+6137,58,Male,No,Smartphone,SKU1001,5,Cancelled,Cash,145.25,20.75,7,2024-09-06,Overnight,,0.0
+6139,49,Female,No,Laptop,SKU1005,3,Completed,Credit Card,3247.72,463.96,7,2024-09-01,Overnight,,0.0
+6139,49,Female,No,Smartphone,SKU1004,2,Completed,Cash,7120.71,791.19,9,2024-09-22,Express,"Impulse Item,Impulse Item,Extended Warranty",101.11
+6140,22,Male,No,Smartphone,SKU1001,5,Completed,Cash,41.5,20.75,2,2024-09-03,Express,Impulse Item,19.41
+6155,68,Female,No,Smartphone,SKU1001,5,Cancelled,Debit Card,145.25,20.75,7,2024-09-10,Express,"Accessory,Impulse Item",78.38
+6168,38,Female,No,Tablet,SKU1002,3,Completed,Debit Card,741.09,247.03,3,2024-09-20,Overnight,"Impulse Item,Accessory",49.91
+6186,68,Female,No,Smartwatch,SKU1003,3,Completed,Cash,8448.3,844.83,10,2024-09-21,Overnight,"Impulse Item,Extended Warranty",57.65
+6211,48,Female,No,Smartphone,SKU1004,2,Completed,Paypal,1582.38,791.19,2,2024-09-03,Express,,0.0
+6231,59,Male,Yes,Smartphone,SKU1001,5,Completed,Paypal,41.5,20.75,2,2024-09-22,Express,,0.0
+6239,58,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,6758.64,844.83,8,2024-09-12,Express,Accessory,21.96
+6242,76,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,5068.98,844.83,6,2024-09-21,Express,"Accessory,Impulse Item,Extended Warranty",66.5
+6275,29,Female,No,Tablet,SKU1002,3,Completed,Debit Card,1482.18,247.03,6,2024-09-03,Overnight,"Impulse Item,Impulse Item,Extended Warranty",61.54
+6276,57,Female,No,Smartwatch,SKU1003,3,Cancelled,Paypal,7603.47,844.83,9,2024-09-23,Standard,"Extended Warranty,Impulse Item,Accessory",68.11
+6280,26,Female,Yes,Laptop,SKU1005,3,Completed,Credit Card,3711.68,463.96,8,2024-09-20,Overnight,Extended Warranty,16.68
+6281,21,Female,Yes,Smartphone,SKU1004,2,Cancelled,Credit Card,5538.33,791.19,7,2024-09-22,Standard,,0.0
+6297,21,Female,Yes,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-20,Overnight,"Extended Warranty,Impulse Item,Accessory",46.36
+6305,71,Male,No,Laptop,SKU1005,3,Completed,Cash,1391.88,463.96,3,2024-09-14,Overnight,,0.0
+6320,60,Male,No,Tablet,SKU1002,3,Completed,Paypal,741.09,247.03,3,2024-09-18,Overnight,,0.0
+6340,55,Male,Yes,Laptop,SKU1005,3,Completed,Cash,927.92,463.96,2,2024-09-08,Express,Extended Warranty,11.15
+6343,18,Male,No,Laptop,SKU1005,3,Completed,Credit Card,1391.88,463.96,3,2024-09-06,Express,"Impulse Item,Extended Warranty,Impulse Item",109.68
+6345,73,Female,No,Laptop,SKU1005,3,Cancelled,Debit Card,463.96,463.96,1,2024-09-02,Express,,0.0
+6397,30,Male,Yes,Tablet,SKU1002,3,Completed,Paypal,2223.27,247.03,9,2024-09-21,Overnight,,0.0
+6403,61,Male,No,Smartphone,SKU1001,5,Cancelled,Debit Card,124.5,20.75,6,2024-09-21,Express,"Extended Warranty,Impulse Item",37.47
+6416,27,Female,No,Tablet,SKU1002,3,Completed,Cash,741.09,247.03,3,2024-09-13,Overnight,"Accessory,Impulse Item",50.18
+6424,23,Female,No,Tablet,SKU1002,3,Completed,Debit Card,988.12,247.03,4,2024-09-13,Standard,,0.0
+6457,79,Female,Yes,Tablet,SKU1002,3,Completed,Paypal,2470.3,247.03,10,2024-09-17,Standard,,0.0
+6463,63,Male,No,Smartwatch,SKU1003,3,Completed,Cash,6758.64,844.83,8,2024-09-16,Overnight,,0.0
+6487,41,Female,Yes,Tablet,SKU1002,3,Completed,Paypal,494.06,247.03,2,2024-09-07,Standard,,0.0
+6488,22,Male,No,Smartphone,SKU1001,5,Cancelled,Debit Card,166.0,20.75,8,2024-09-01,Overnight,Extended Warranty,10.97
+6489,39,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,207.5,20.75,10,2024-09-20,Overnight,,0.0
+6500,45,Male,No,Smartphone,SKU1004,2,Completed,Paypal,2373.57,791.19,3,2024-09-08,Express,,0.0
+6507,38,Female,Yes,Laptop,SKU1005,3,Completed,Debit Card,3247.72,463.96,7,2024-09-19,Overnight,"Impulse Item,Extended Warranty,Accessory",101.81
+6508,30,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,207.5,20.75,10,2024-09-11,Express,"Impulse Item,Accessory,Extended Warranty",89.87
+6510,41,Male,No,Laptop,SKU1005,3,Completed,Debit Card,3711.68,463.96,8,2024-09-15,Express,"Impulse Item,Extended Warranty",57.53
+6548,65,Male,No,Tablet,SKU1002,3,Completed,Credit Card,741.09,247.03,3,2024-09-22,Express,Impulse Item,34.18
+6557,60,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,1976.24,247.03,8,2024-09-22,Overnight,,0.0
+6574,42,Male,No,Laptop,SKU1005,3,Cancelled,Cash,1855.84,463.96,4,2024-09-22,Express,"Impulse Item,Accessory",36.78
+6602,63,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,4224.15,844.83,5,2024-09-15,Overnight,Accessory,5.04
+6638,44,Male,No,Tablet,SKU1002,3,Completed,Paypal,1235.15,247.03,5,2024-09-02,Express,"Extended Warranty,Impulse Item,Extended Warranty",77.75
+6642,40,Female,No,Smartwatch,SKU1003,3,Completed,Cash,7603.47,844.83,9,2024-09-01,Express,,0.0
+6647,79,Female,Yes,Tablet,SKU1002,3,Completed,Debit Card,1482.18,247.03,6,2024-09-02,Express,,0.0
+6652,73,Male,No,Laptop,SKU1005,3,Completed,Debit Card,2783.76,463.96,6,2024-09-08,Overnight,Impulse Item,30.64
+6678,35,Female,No,Smartphone,SKU1001,5,Completed,Cash,103.75,20.75,5,2024-09-22,Overnight,"Impulse Item,Impulse Item",62.91
+6691,18,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,2373.57,791.19,3,2024-09-02,Overnight,"Accessory,Impulse Item,Impulse Item",40.52
+6698,52,Female,Yes,Tablet,SKU1002,3,Completed,Credit Card,2470.3,247.03,10,2024-09-09,Overnight,"Extended Warranty,Extended Warranty,Accessory",49.27
+6710,69,Female,No,Tablet,SKU1002,3,Completed,Credit Card,2470.3,247.03,10,2024-09-15,Standard,,0.0
+6715,62,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,6758.64,844.83,8,2024-09-18,Overnight,"Impulse Item,Extended Warranty,Impulse Item",102.1
+6716,36,Male,No,Laptop,SKU1005,3,Completed,Credit Card,3247.72,463.96,7,2024-09-13,Standard,"Impulse Item,Accessory,Accessory",21.41
+6719,70,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,103.75,20.75,5,2024-09-18,Standard,,0.0
+6726,77,Male,No,Smartwatch,SKU1003,3,Completed,Cash,5068.98,844.83,6,2024-09-12,Express,,0.0
+6735,20,Male,No,Smartphone,SKU1004,2,Completed,Cash,5538.33,791.19,7,2024-09-09,Standard,,0.0
+6760,22,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,7120.71,791.19,9,2024-09-04,Overnight,"Impulse Item,Accessory",37.44
+6771,68,Male,No,Smartwatch,SKU1003,3,Cancelled,Paypal,1689.66,844.83,2,2024-09-07,Overnight,"Extended Warranty,Accessory,Extended Warranty",87.47
+6789,46,Male,No,Laptop,SKU1005,3,Completed,Cash,927.92,463.96,2,2024-09-03,Overnight,,0.0
+6799,32,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,8448.3,844.83,10,2024-09-05,Standard,"Extended Warranty,Impulse Item,Impulse Item",127.55
+6799,32,Female,No,Laptop,SKU1005,3,Cancelled,Credit Card,3247.72,463.96,7,2024-09-08,Express,Accessory,48.7
+6801,72,Male,No,Smartphone,SKU1004,2,Completed,Cash,7120.71,791.19,9,2024-09-03,Standard,"Impulse Item,Accessory,Accessory",93.55
+6809,47,Male,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,4224.15,844.83,5,2024-09-15,Standard,Impulse Item,28.86
+6831,69,Male,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,8448.3,844.83,10,2024-09-17,Express,"Impulse Item,Impulse Item",71.22
+6845,42,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,1391.88,463.96,3,2024-09-18,Express,,0.0
+6889,46,Male,Yes,Tablet,SKU1002,3,Completed,Debit Card,2470.3,247.03,10,2024-09-08,Standard,"Impulse Item,Accessory,Extended Warranty",84.64
+6913,60,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,5913.81,844.83,7,2024-09-02,Overnight,,0.0
+6914,75,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,8448.3,844.83,10,2024-09-17,Standard,"Accessory,Extended Warranty,Accessory",42.36
+6946,73,Female,No,Laptop,SKU1005,3,Completed,Paypal,1391.88,463.96,3,2024-09-13,Standard,"Accessory,Impulse Item,Impulse Item",61.49
+6964,45,Male,No,Tablet,SKU1002,3,Completed,Paypal,1482.18,247.03,6,2024-09-23,Express,Impulse Item,37.12
+6969,57,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1976.24,247.03,8,2024-09-18,Express,"Extended Warranty,Extended Warranty",79.42
+6972,52,Female,No,Smartphone,SKU1004,2,Cancelled,Credit Card,3955.95,791.19,5,2024-09-03,Standard,"Extended Warranty,Extended Warranty,Extended Warranty",41.13
+6986,18,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,2319.8,463.96,5,2024-09-18,Standard,"Extended Warranty,Extended Warranty",31.8
+6997,30,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,124.5,20.75,6,2024-09-19,Express,,0.0
+7003,64,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,7911.9,791.19,10,2024-09-07,Standard,Impulse Item,19.82
+7010,80,Female,No,Laptop,SKU1005,3,Cancelled,Debit Card,3711.68,463.96,8,2024-09-04,Overnight,Accessory,42.84
+7025,41,Female,No,Smartwatch,SKU1003,3,Completed,Cash,2534.49,844.83,3,2024-09-18,Express,"Extended Warranty,Extended Warranty",91.71
+7034,42,Male,No,Laptop,SKU1005,3,Completed,Paypal,4175.64,463.96,9,2024-09-17,Express,"Accessory,Extended Warranty,Accessory",94.41
+7053,48,Male,No,Smartphone,SKU1004,2,Completed,Paypal,5538.33,791.19,7,2024-09-06,Overnight,"Accessory,Impulse Item",60.53
+7055,58,Male,No,Smartphone,SKU1004,2,Cancelled,Paypal,2373.57,791.19,3,2024-09-22,Standard,,0.0
+7074,30,Female,No,Smartphone,SKU1001,5,Completed,Cash,166.0,20.75,8,2024-09-08,Standard,,0.0
+7125,58,Female,Yes,Smartphone,SKU1001,5,Cancelled,Cash,124.5,20.75,6,2024-09-16,Express,"Accessory,Extended Warranty,Extended Warranty",90.4
+7136,40,Female,No,Tablet,SKU1002,3,Completed,Credit Card,494.06,247.03,2,2024-09-10,Express,"Impulse Item,Impulse Item,Accessory",104.29
+7159,68,Male,No,Smartphone,SKU1004,2,Completed,Cash,7911.9,791.19,10,2024-09-08,Standard,"Impulse Item,Accessory,Accessory",52.28
+7169,75,Male,Yes,Smartphone,SKU1004,2,Completed,Debit Card,4747.14,791.19,6,2024-09-13,Express,"Accessory,Accessory",79.97
+7188,30,Female,No,Laptop,SKU1005,3,Completed,Credit Card,2783.76,463.96,6,2024-09-11,Express,"Impulse Item,Impulse Item,Impulse Item",71.38
+7190,65,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,6758.64,844.83,8,2024-09-02,Express,Accessory,8.94
+7212,75,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,3164.76,791.19,4,2024-09-10,Standard,,0.0
+7240,62,Male,Yes,Smartphone,SKU1001,5,Cancelled,Debit Card,20.75,20.75,1,2024-09-02,Express,Extended Warranty,14.13
+7282,71,Male,No,Smartphone,SKU1001,5,Completed,Paypal,207.5,20.75,10,2024-09-06,Express,,0.0
+7313,70,Female,No,Smartphone,SKU1001,5,Cancelled,Paypal,103.75,20.75,5,2024-09-04,Overnight,"Accessory,Impulse Item",57.52
+7355,60,Female,No,Laptop,SKU1005,3,Cancelled,Debit Card,3247.72,463.96,7,2024-09-07,Express,,0.0
+7358,21,Female,No,Smartwatch,SKU1003,3,Cancelled,Paypal,6758.64,844.83,8,2024-09-05,Standard,Extended Warranty,35.7
+7381,23,Female,No,Smartphone,SKU1001,5,Cancelled,Debit Card,124.5,20.75,6,2024-09-03,Standard,"Accessory,Accessory,Extended Warranty",43.05
+7389,42,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1482.18,247.03,6,2024-09-17,Standard,"Extended Warranty,Extended Warranty,Impulse Item",71.13
+7394,62,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,2534.49,844.83,3,2024-09-03,Express,"Impulse Item,Impulse Item,Impulse Item",95.31
+7397,26,Male,No,Smartphone,SKU1001,5,Cancelled,Cash,41.5,20.75,2,2024-09-05,Standard,,0.0
+7413,52,Female,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,5068.98,844.83,6,2024-09-15,Overnight,"Accessory,Accessory,Impulse Item",54.06
+7420,35,Male,No,Laptop,SKU1005,3,Completed,Debit Card,2319.8,463.96,5,2024-09-01,Express,"Impulse Item,Extended Warranty,Extended Warranty",78.72
+7420,35,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,6758.64,844.83,8,2024-09-15,Standard,Accessory,5.42
+7434,53,Male,No,Tablet,SKU1002,3,Completed,Debit Card,247.03,247.03,1,2024-09-18,Standard,"Accessory,Accessory",34.26
+7440,52,Male,Yes,Smartphone,SKU1004,2,Cancelled,Paypal,791.19,791.19,1,2024-09-22,Express,,0.0
+7446,64,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,7603.47,844.83,9,2024-09-11,Standard,,0.0
+7447,27,Female,No,Laptop,SKU1005,3,Completed,Credit Card,4175.64,463.96,9,2024-09-04,Standard,,0.0
+7518,54,Male,No,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-19,Standard,Extended Warranty,9.83
+7525,40,Male,No,Tablet,SKU1002,3,Completed,Credit Card,1729.21,247.03,7,2024-09-18,Standard,,0.0
+7526,34,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,41.5,20.75,2,2024-09-12,Overnight,"Impulse Item,Accessory",85.55
+7551,43,Female,Yes,Tablet,SKU1002,3,Completed,Cash,247.03,247.03,1,2024-09-18,Standard,"Impulse Item,Extended Warranty,Accessory",95.56
+7562,74,Female,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,2534.49,844.83,3,2024-09-11,Standard,"Extended Warranty,Extended Warranty,Accessory",73.57
+7563,21,Female,No,Laptop,SKU1005,3,Completed,Credit Card,2783.76,463.96,6,2024-09-15,Overnight,"Extended Warranty,Extended Warranty,Impulse Item",56.22
+7566,29,Female,No,Tablet,SKU1002,3,Completed,Credit Card,741.09,247.03,3,2024-09-06,Express,"Accessory,Extended Warranty,Accessory",83.88
+7578,32,Male,Yes,Tablet,SKU1002,3,Completed,Cash,1976.24,247.03,8,2024-09-11,Standard,"Extended Warranty,Extended Warranty,Accessory",88.88
+7584,45,Female,No,Tablet,SKU1002,3,Cancelled,Cash,988.12,247.03,4,2024-09-05,Express,"Extended Warranty,Accessory,Accessory",55.74
+7601,74,Male,No,Tablet,SKU1002,3,Completed,Credit Card,247.03,247.03,1,2024-09-10,Express,Accessory,12.81
+7630,70,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,166.0,20.75,8,2024-09-01,Express,Extended Warranty,41.59
+7632,79,Male,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,463.96,463.96,1,2024-09-20,Express,"Extended Warranty,Extended Warranty",80.74
+7645,69,Female,No,Laptop,SKU1005,3,Completed,Cash,2319.8,463.96,5,2024-09-10,Overnight,Extended Warranty,8.53
+7662,78,Female,Yes,Smartwatch,SKU1003,3,Completed,Debit Card,2534.49,844.83,3,2024-09-18,Overnight,,0.0
+7706,33,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,5538.33,791.19,7,2024-09-03,Standard,"Impulse Item,Impulse Item,Accessory",75.02
+7712,78,Male,No,Smartphone,SKU1001,5,Completed,Paypal,83.0,20.75,4,2024-09-14,Overnight,,0.0
+7716,40,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,145.25,20.75,7,2024-09-01,Express,Extended Warranty,42.18
+7716,40,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,124.5,20.75,6,2024-09-05,Express,,0.0
+7718,62,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,145.25,20.75,7,2024-09-21,Standard,"Extended Warranty,Impulse Item",34.48
+7726,71,Male,No,Smartwatch,SKU1003,3,Completed,Cash,844.83,844.83,1,2024-09-13,Overnight,"Accessory,Impulse Item,Impulse Item",75.01
+7745,25,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,1689.66,844.83,2,2024-09-17,Overnight,,0.0
+7762,46,Male,No,Smartphone,SKU1001,5,Completed,Debit Card,20.75,20.75,1,2024-09-14,Standard,Impulse Item,33.98
+7766,24,Female,No,Tablet,SKU1002,3,Completed,Cash,741.09,247.03,3,2024-09-22,Standard,,0.0
+7773,32,Male,No,Tablet,SKU1002,3,Completed,Credit Card,247.03,247.03,1,2024-09-17,Standard,"Extended Warranty,Extended Warranty,Impulse Item",82.04
+7774,27,Male,No,Tablet,SKU1002,3,Completed,Cash,1235.15,247.03,5,2024-09-08,Overnight,Impulse Item,19.18
+7776,49,Female,No,Smartphone,SKU1004,2,Completed,Credit Card,6329.52,791.19,8,2024-09-02,Overnight,,0.0
+7776,49,Female,No,Tablet,SKU1002,3,Completed,Debit Card,494.06,247.03,2,2024-09-19,Express,"Extended Warranty,Impulse Item",93.39
+7812,78,Female,No,Laptop,SKU1005,3,Completed,Debit Card,1391.88,463.96,3,2024-09-22,Overnight,"Extended Warranty,Accessory,Extended Warranty",74.34
+7842,47,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,103.75,20.75,5,2024-09-15,Overnight,Accessory,45.6
+7872,35,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,2534.49,844.83,3,2024-09-02,Standard,"Impulse Item,Extended Warranty",66.72
+7897,71,Male,No,Laptop,SKU1005,3,Completed,Cash,4175.64,463.96,9,2024-09-16,Overnight,Accessory,21.18
+7907,32,Female,No,Smartphone,SKU1001,5,Completed,Cash,62.25,20.75,3,2024-09-23,Overnight,,0.0
+7908,19,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,166.0,20.75,8,2024-09-04,Standard,"Accessory,Accessory",53.14
+7932,32,Male,No,Laptop,SKU1005,3,Completed,Debit Card,927.92,463.96,2,2024-09-18,Standard,"Impulse Item,Impulse Item",57.41
+7960,58,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,4224.15,844.83,5,2024-09-15,Express,Impulse Item,8.4
+7968,75,Female,No,Smartphone,SKU1001,5,Cancelled,Paypal,41.5,20.75,2,2024-09-11,Standard,"Accessory,Extended Warranty,Accessory",97.49
+7979,49,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,166.0,20.75,8,2024-09-02,Express,Accessory,27.9
+7988,59,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,6758.64,844.83,8,2024-09-14,Overnight,Accessory,38.7
+7989,53,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,145.25,20.75,7,2024-09-14,Standard,Accessory,43.74
+8027,50,Female,No,Tablet,SKU1002,3,Cancelled,Credit Card,247.03,247.03,1,2024-09-05,Overnight,"Impulse Item,Extended Warranty,Impulse Item",113.08
+8035,18,Female,No,Smartphone,SKU1001,5,Completed,Cash,62.25,20.75,3,2024-09-05,Standard,"Accessory,Extended Warranty,Extended Warranty",91.32
+8036,75,Female,No,Smartwatch,SKU1003,3,Completed,Paypal,4224.15,844.83,5,2024-09-05,Express,,0.0
+8039,75,Male,No,Tablet,SKU1002,3,Completed,Cash,741.09,247.03,3,2024-09-18,Express,Impulse Item,39.76
+8064,30,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,2223.27,247.03,9,2024-09-02,Express,"Accessory,Impulse Item,Impulse Item",59.71
+8064,30,Male,No,Smartphone,SKU1001,5,Completed,Cash,166.0,20.75,8,2024-09-11,Express,Impulse Item,45.88
+8067,28,Female,No,Smartphone,SKU1004,2,Cancelled,Cash,7120.71,791.19,9,2024-09-09,Standard,"Impulse Item,Impulse Item,Impulse Item",83.53
+8078,43,Male,No,Smartphone,SKU1001,5,Completed,Credit Card,103.75,20.75,5,2024-09-02,Standard,Accessory,35.97
+8102,21,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,5913.81,844.83,7,2024-09-11,Overnight,Accessory,36.99
+8110,66,Female,No,Tablet,SKU1002,3,Cancelled,Cash,247.03,247.03,1,2024-09-02,Standard,"Impulse Item,Extended Warranty,Extended Warranty",62.45
+8123,61,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,2534.49,844.83,3,2024-09-07,Standard,"Accessory,Extended Warranty,Accessory",93.55
+8142,59,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,4224.15,844.83,5,2024-09-05,Overnight,"Accessory,Impulse Item,Impulse Item",57.49
+8171,66,Male,No,Smartwatch,SKU1003,3,Cancelled,Debit Card,1689.66,844.83,2,2024-09-09,Overnight,Accessory,29.31
+8183,39,Male,No,Smartwatch,SKU1003,3,Completed,Cash,3379.32,844.83,4,2024-09-01,Standard,Extended Warranty,17.64
+8194,33,Female,No,Laptop,SKU1005,3,Cancelled,Credit Card,927.92,463.96,2,2024-09-21,Express,Extended Warranty,5.38
+8218,54,Male,No,Smartphone,SKU1004,2,Completed,Cash,791.19,791.19,1,2024-09-08,Standard,"Impulse Item,Impulse Item,Accessory",49.42
+8249,77,Female,No,Laptop,SKU1005,3,Completed,Cash,4175.64,463.96,9,2024-09-04,Express,"Extended Warranty,Impulse Item",85.01
+8254,27,Male,No,Smartphone,SKU1001,5,Completed,Paypal,186.75,20.75,9,2024-09-09,Overnight,"Extended Warranty,Impulse Item",62.61
+8286,74,Male,No,Tablet,SKU1002,3,Completed,Credit Card,247.03,247.03,1,2024-09-06,Express,"Accessory,Impulse Item",67.44
+8289,43,Female,Yes,Laptop,SKU1005,3,Completed,Debit Card,4639.6,463.96,10,2024-09-01,Standard,Impulse Item,29.17
+8310,23,Male,No,Smartphone,SKU1001,5,Cancelled,Paypal,207.5,20.75,10,2024-09-18,Express,"Impulse Item,Accessory",71.05
+8326,21,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,5068.98,844.83,6,2024-09-01,Standard,"Extended Warranty,Impulse Item",45.21
+8329,75,Female,Yes,Tablet,SKU1002,3,Completed,Paypal,247.03,247.03,1,2024-09-16,Overnight,Accessory,16.68
+8349,70,Male,No,Smartwatch,SKU1003,3,Cancelled,Cash,5913.81,844.83,7,2024-09-11,Overnight,"Extended Warranty,Impulse Item",61.49
+8383,57,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,8448.3,844.83,10,2024-09-07,Overnight,"Accessory,Extended Warranty",57.4
+8400,29,Male,No,Smartphone,SKU1004,2,Completed,Paypal,5538.33,791.19,7,2024-09-17,Standard,"Accessory,Accessory",23.7
+8406,39,Male,No,Smartphone,SKU1001,5,Completed,Paypal,62.25,20.75,3,2024-09-20,Standard,"Extended Warranty,Extended Warranty",66.54
+8438,44,Female,Yes,Smartphone,SKU1004,2,Cancelled,Debit Card,1582.38,791.19,2,2024-09-03,Overnight,,0.0
+8488,46,Female,Yes,Tablet,SKU1002,3,Cancelled,Paypal,1976.24,247.03,8,2024-09-18,Standard,Extended Warranty,26.45
+8492,57,Female,No,Tablet,SKU1002,3,Cancelled,Paypal,2223.27,247.03,9,2024-09-20,Standard,"Extended Warranty,Impulse Item,Accessory",51.21
+8493,43,Female,No,Smartphone,SKU1001,5,Completed,Paypal,62.25,20.75,3,2024-09-22,Express,"Accessory,Accessory,Accessory",51.16
+8496,65,Male,No,Laptop,SKU1005,3,Completed,Debit Card,3247.72,463.96,7,2024-09-13,Overnight,"Extended Warranty,Impulse Item",48.34
+8497,44,Male,No,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-16,Standard,"Accessory,Accessory",57.31
+8498,22,Female,No,Smartwatch,SKU1003,3,Cancelled,Cash,3379.32,844.83,4,2024-09-16,Overnight,,0.0
+8521,35,Female,No,Smartphone,SKU1004,2,Completed,Debit Card,2373.57,791.19,3,2024-09-09,Standard,,0.0
+8523,33,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,5538.33,791.19,7,2024-09-05,Overnight,"Extended Warranty,Accessory,Impulse Item",51.4
+8526,78,Male,No,Tablet,SKU1002,3,Completed,Cash,1729.21,247.03,7,2024-09-21,Overnight,"Impulse Item,Extended Warranty,Impulse Item",110.21
+8527,35,Female,No,Smartwatch,SKU1003,3,Cancelled,Paypal,5913.81,844.83,7,2024-09-15,Express,"Extended Warranty,Accessory",56.09
+8546,27,Male,No,Tablet,SKU1002,3,Completed,Credit Card,494.06,247.03,2,2024-09-17,Standard,"Accessory,Extended Warranty,Impulse Item",59.9
+8553,52,Female,Yes,Smartphone,SKU1001,5,Cancelled,Debit Card,124.5,20.75,6,2024-09-08,Express,Extended Warranty,19.14
+8571,69,Male,No,Laptop,SKU1005,3,Completed,Credit Card,2319.8,463.96,5,2024-09-05,Express,"Accessory,Impulse Item,Extended Warranty",97.18
+8571,69,Male,No,Laptop,SKU1005,3,Cancelled,Cash,927.92,463.96,2,2024-09-12,Standard,"Extended Warranty,Impulse Item,Impulse Item",87.76
+8574,71,Male,No,Tablet,SKU1002,3,Completed,Credit Card,988.12,247.03,4,2024-09-11,Express,"Extended Warranty,Extended Warranty",69.97
+8575,39,Female,Yes,Laptop,SKU1005,3,Completed,Cash,1391.88,463.96,3,2024-09-01,Express,,0.0
+8599,40,Male,No,Tablet,SKU1002,3,Cancelled,Debit Card,1729.21,247.03,7,2024-09-06,Standard,,0.0
+8614,62,Female,No,Smartphone,SKU1004,2,Completed,Cash,1582.38,791.19,2,2024-09-06,Express,"Accessory,Extended Warranty,Impulse Item",92.87
+8617,28,Male,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,6758.64,844.83,8,2024-09-17,Standard,"Accessory,Impulse Item",65.99
+8652,80,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,5068.98,844.83,6,2024-09-16,Standard,,0.0
+8705,45,Male,Yes,Smartwatch,SKU1003,3,Completed,Paypal,844.83,844.83,1,2024-09-04,Standard,"Extended Warranty,Accessory,Extended Warranty",84.78
+8719,36,Female,No,Smartwatch,SKU1003,3,Completed,Debit Card,1689.66,844.83,2,2024-09-10,Express,Impulse Item,9.71
+8725,64,Female,No,Laptop,SKU1005,3,Cancelled,Cash,2319.8,463.96,5,2024-09-07,Express,"Extended Warranty,Extended Warranty,Extended Warranty",60.11
+8731,34,Female,No,Laptop,SKU1005,3,Completed,Debit Card,927.92,463.96,2,2024-09-05,Express,Extended Warranty,47.7
+8731,34,Female,No,Smartphone,SKU1001,5,Completed,Cash,186.75,20.75,9,2024-09-08,Express,Accessory,21.63
+8731,34,Female,No,Tablet,SKU1002,3,Completed,Paypal,1235.15,247.03,5,2024-09-19,Overnight,"Accessory,Impulse Item,Impulse Item",52.48
+8736,42,Male,No,Smartphone,SKU1001,5,Cancelled,Credit Card,20.75,20.75,1,2024-09-13,Overnight,"Accessory,Accessory",30.9
+8746,76,Female,No,Smartwatch,SKU1003,3,Completed,Debit Card,6758.64,844.83,8,2024-09-09,Standard,"Accessory,Impulse Item,Extended Warranty",94.52
+8783,38,Male,No,Smartphone,SKU1001,5,Completed,Paypal,145.25,20.75,7,2024-09-11,Overnight,Impulse Item,30.45
+8807,27,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,791.19,791.19,1,2024-09-17,Express,"Accessory,Extended Warranty",81.16
+8811,47,Female,No,Smartwatch,SKU1003,3,Completed,Cash,7603.47,844.83,9,2024-09-08,Overnight,,0.0
+8840,59,Female,No,Smartphone,SKU1001,5,Cancelled,Paypal,186.75,20.75,9,2024-09-14,Standard,,0.0
+8866,72,Male,Yes,Smartwatch,SKU1003,3,Completed,Cash,1689.66,844.83,2,2024-09-15,Express,"Extended Warranty,Impulse Item",63.69
+8867,75,Female,Yes,Tablet,SKU1002,3,Completed,Debit Card,2223.27,247.03,9,2024-09-03,Standard,"Impulse Item,Extended Warranty,Impulse Item",68.23
+8917,58,Male,Yes,Smartphone,SKU1001,5,Completed,Paypal,186.75,20.75,9,2024-09-22,Standard,"Extended Warranty,Extended Warranty",55.43
+8918,32,Female,No,Laptop,SKU1005,3,Completed,Debit Card,1855.84,463.96,4,2024-09-06,Standard,,0.0
+8951,56,Male,No,Laptop,SKU1005,3,Cancelled,Debit Card,3247.72,463.96,7,2024-09-11,Overnight,"Impulse Item,Accessory",54.71
+8953,70,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,1729.21,247.03,7,2024-09-09,Express,,0.0
+8953,70,Male,No,Smartphone,SKU1004,2,Cancelled,Cash,791.19,791.19,1,2024-09-13,Express,"Accessory,Extended Warranty",65.55
+8983,58,Male,No,Smartwatch,SKU1003,3,Completed,Paypal,844.83,844.83,1,2024-09-19,Overnight,"Extended Warranty,Impulse Item",80.79
+8984,79,Male,No,Smartwatch,SKU1003,3,Completed,Cash,5913.81,844.83,7,2024-09-04,Express,Impulse Item,12.68
+8984,79,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,3955.95,791.19,5,2024-09-17,Standard,"Impulse Item,Impulse Item,Impulse Item",96.22
+8989,49,Female,No,Smartphone,SKU1001,5,Cancelled,Credit Card,103.75,20.75,5,2024-09-18,Overnight,"Accessory,Extended Warranty,Impulse Item",101.66
+8993,76,Male,Yes,Tablet,SKU1002,3,Completed,Credit Card,2470.3,247.03,10,2024-09-21,Standard,"Impulse Item,Accessory,Accessory",60.61
+9005,36,Female,No,Tablet,SKU1002,3,Completed,Paypal,741.09,247.03,3,2024-09-06,Overnight,,0.0
+9012,32,Male,No,Laptop,SKU1005,3,Cancelled,Credit Card,4175.64,463.96,9,2024-09-03,Express,Extended Warranty,44.74
+9064,32,Female,No,Laptop,SKU1005,3,Cancelled,Cash,2319.8,463.96,5,2024-09-04,Overnight,Impulse Item,39.62
+9073,57,Female,No,Smartphone,SKU1004,2,Completed,Cash,5538.33,791.19,7,2024-09-04,Overnight,,0.0
+9075,27,Male,Yes,Smartphone,SKU1004,2,Cancelled,Credit Card,791.19,791.19,1,2024-09-12,Express,"Extended Warranty,Accessory,Extended Warranty",116.12
+9096,57,Female,No,Laptop,SKU1005,3,Completed,Cash,1391.88,463.96,3,2024-09-09,Overnight,,0.0
+9100,18,Male,No,Laptop,SKU1005,3,Completed,Credit Card,1391.88,463.96,3,2024-09-21,Standard,,0.0
+9126,76,Male,No,Laptop,SKU1005,3,Cancelled,Paypal,3247.72,463.96,7,2024-09-07,Standard,"Accessory,Accessory,Accessory",62.58
+9140,41,Female,No,Smartwatch,SKU1003,3,Completed,Debit Card,5913.81,844.83,7,2024-09-09,Express,,0.0
+9144,54,Female,No,Tablet,SKU1002,3,Completed,Debit Card,741.09,247.03,3,2024-09-03,Overnight,"Impulse Item,Extended Warranty",59.32
+9150,53,Male,No,Smartwatch,SKU1003,3,Completed,Debit Card,2534.49,844.83,3,2024-09-04,Standard,"Impulse Item,Impulse Item,Accessory",115.18
+9189,23,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,1582.38,791.19,2,2024-09-02,Standard,Accessory,45.06
+9193,77,Female,Yes,Smartphone,SKU1004,2,Completed,Paypal,3955.95,791.19,5,2024-09-05,Express,Extended Warranty,25.66
+9197,28,Male,No,Laptop,SKU1005,3,Cancelled,Cash,1391.88,463.96,3,2024-09-14,Overnight,"Extended Warranty,Impulse Item,Impulse Item",94.18
+9202,58,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,4747.14,791.19,6,2024-09-22,Express,,0.0
+9215,45,Male,No,Smartphone,SKU1001,5,Cancelled,Debit Card,83.0,20.75,4,2024-09-21,Overnight,"Extended Warranty,Extended Warranty,Accessory",59.76
+9245,36,Male,Yes,Smartphone,SKU1001,5,Cancelled,Debit Card,186.75,20.75,9,2024-09-08,Overnight,"Extended Warranty,Extended Warranty,Impulse Item",62.93
+9263,30,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,186.75,20.75,9,2024-09-16,Overnight,"Accessory,Extended Warranty,Impulse Item",97.14
+9284,21,Male,No,Smartphone,SKU1001,5,Completed,Paypal,166.0,20.75,8,2024-09-04,Express,"Impulse Item,Impulse Item,Accessory",98.67
+9296,49,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,5538.33,791.19,7,2024-09-04,Overnight,"Accessory,Extended Warranty",65.98
+9297,23,Female,No,Smartphone,SKU1001,5,Completed,Debit Card,103.75,20.75,5,2024-09-10,Express,Impulse Item,25.9
+9299,75,Male,No,Smartwatch,SKU1003,3,Cancelled,Credit Card,3379.32,844.83,4,2024-09-20,Standard,"Extended Warranty,Impulse Item",57.57
+9312,79,Male,No,Tablet,SKU1002,3,Completed,Paypal,1729.21,247.03,7,2024-09-04,Overnight,"Accessory,Impulse Item",36.91
+9318,50,Male,Yes,Smartphone,SKU1004,2,Cancelled,Paypal,4747.14,791.19,6,2024-09-20,Standard,Extended Warranty,18.35
+9331,38,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,988.12,247.03,4,2024-09-23,Overnight,,0.0
+9351,50,Female,No,Smartwatch,SKU1003,3,Completed,Credit Card,5913.81,844.83,7,2024-09-05,Express,"Accessory,Extended Warranty,Impulse Item",64.09
+9368,24,Male,No,Smartphone,SKU1004,2,Completed,Debit Card,3955.95,791.19,5,2024-09-06,Express,"Extended Warranty,Impulse Item,Impulse Item",85.41
+9376,54,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,7120.71,791.19,9,2024-09-02,Standard,"Extended Warranty,Extended Warranty",52.76
+9376,54,Male,Yes,Smartwatch,SKU1003,3,Completed,Paypal,844.83,844.83,1,2024-09-16,Standard,Extended Warranty,17.95
+9439,44,Male,No,Smartwatch,SKU1003,3,Completed,Cash,1689.66,844.83,2,2024-09-16,Overnight,,0.0
+9453,59,Female,No,Tablet,SKU1002,3,Cancelled,Debit Card,247.03,247.03,1,2024-09-07,Standard,,0.0
+9462,29,Male,No,Smartphone,SKU1004,2,Completed,Paypal,1582.38,791.19,2,2024-09-05,Express,,0.0
+9471,68,Male,Yes,Laptop,SKU1005,3,Cancelled,Paypal,3711.68,463.96,8,2024-09-15,Standard,"Impulse Item,Impulse Item",61.55
+9479,50,Female,Yes,Laptop,SKU1005,3,Completed,Paypal,1855.84,463.96,4,2024-09-23,Standard,"Extended Warranty,Extended Warranty",51.32
+9485,23,Male,Yes,Smartphone,SKU1001,5,Completed,Cash,166.0,20.75,8,2024-09-14,Overnight,"Accessory,Extended Warranty,Accessory",91.1
+9497,39,Female,No,Tablet,SKU1002,3,Completed,Cash,2223.27,247.03,9,2024-09-21,Standard,,0.0
+9507,63,Female,Yes,Smartphone,SKU1001,5,Completed,Cash,124.5,20.75,6,2024-09-22,Standard,,0.0
+9528,78,Female,Yes,Smartphone,SKU1004,2,Completed,Credit Card,791.19,791.19,1,2024-09-19,Standard,"Extended Warranty,Impulse Item",70.7
+9538,45,Female,No,Smartphone,SKU1004,2,Cancelled,Cash,7911.9,791.19,10,2024-09-17,Overnight,"Impulse Item,Impulse Item,Impulse Item",80.32
+9545,28,Female,Yes,Laptop,SKU1005,3,Cancelled,Debit Card,3247.72,463.96,7,2024-09-04,Overnight,,0.0
+9560,66,Male,No,Tablet,SKU1002,3,Completed,Debit Card,2223.27,247.03,9,2024-09-09,Overnight,Impulse Item,44.83
+9570,50,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,988.12,247.03,4,2024-09-19,Express,"Impulse Item,Impulse Item,Impulse Item",51.39
+9571,76,Male,No,Smartwatch,SKU1003,3,Cancelled,Paypal,1689.66,844.83,2,2024-09-07,Overnight,"Impulse Item,Impulse Item",59.53
+9578,27,Male,No,Laptop,SKU1005,3,Cancelled,Paypal,1855.84,463.96,4,2024-09-03,Overnight,Impulse Item,25.75
+9588,26,Female,No,Tablet,SKU1002,3,Completed,Debit Card,1482.18,247.03,6,2024-09-07,Standard,Impulse Item,11.92
+9592,45,Male,No,Tablet,SKU1002,3,Cancelled,Paypal,1976.24,247.03,8,2024-09-20,Standard,"Impulse Item,Extended Warranty",59.02
+9700,72,Female,No,Smartphone,SKU1001,5,Completed,Cash,83.0,20.75,4,2024-09-17,Standard,"Extended Warranty,Accessory",72.01
+9735,74,Female,No,Laptop,SKU1005,3,Completed,Cash,463.96,463.96,1,2024-09-08,Overnight,"Accessory,Extended Warranty,Accessory",106.55
+9741,44,Female,No,Tablet,SKU1002,3,Completed,Cash,2470.3,247.03,10,2024-09-06,Overnight,,0.0
+9743,59,Female,No,Smartwatch,SKU1003,3,Completed,Cash,4224.15,844.83,5,2024-09-10,Standard,Accessory,33.5
+9759,66,Female,No,Smartphone,SKU1004,2,Cancelled,Paypal,7911.9,791.19,10,2024-09-13,Standard,"Extended Warranty,Impulse Item",56.41
+9760,33,Female,No,Laptop,SKU1005,3,Completed,Paypal,463.96,463.96,1,2024-09-19,Standard,,0.0
+9768,74,Female,No,Smartphone,SKU1004,2,Cancelled,Cash,2373.57,791.19,3,2024-09-16,Standard,,0.0
+9783,53,Female,Yes,Smartwatch,SKU1003,3,Completed,Paypal,844.83,844.83,1,2024-09-13,Overnight,"Accessory,Impulse Item,Extended Warranty",76.05
+9810,46,Male,No,Laptop,SKU1005,3,Completed,Credit Card,1855.84,463.96,4,2024-09-07,Overnight,Accessory,5.5
+9821,74,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,145.25,20.75,7,2024-09-07,Express,Impulse Item,17.83
+9859,74,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,2373.57,791.19,3,2024-09-15,Express,Accessory,24.13
+9866,39,Male,No,Smartphone,SKU1001,5,Completed,Cash,20.75,20.75,1,2024-09-09,Overnight,"Extended Warranty,Extended Warranty",25.08
+9868,58,Male,No,Smartphone,SKU1004,2,Cancelled,Debit Card,3164.76,791.19,4,2024-09-12,Overnight,"Accessory,Extended Warranty",81.87
+9872,45,Female,No,Smartphone,SKU1004,2,Cancelled,Debit Card,6329.52,791.19,8,2024-09-01,Standard,"Impulse Item,Extended Warranty",45.86
+9880,74,Female,No,Smartphone,SKU1004,2,Cancelled,Debit Card,791.19,791.19,1,2024-09-17,Standard,Extended Warranty,42.1
+9892,24,Female,No,Laptop,SKU1005,3,Cancelled,Debit Card,4639.6,463.96,10,2024-09-01,Overnight,"Impulse Item,Accessory",46.0
+9895,67,Male,No,Smartwatch,SKU1003,3,Completed,Credit Card,844.83,844.83,1,2024-09-14,Express,"Extended Warranty,Impulse Item",47.73
+9898,48,Male,No,Smartphone,SKU1004,2,Completed,Credit Card,3164.76,791.19,4,2024-09-07,Express,"Impulse Item,Extended Warranty,Extended Warranty",65.41
+9927,68,Male,No,Tablet,SKU1002,3,Completed,Paypal,1729.21,247.03,7,2024-09-11,Overnight,Impulse Item,9.1
+9927,68,Male,No,Smartphone,SKU1004,2,Completed,Cash,1582.38,791.19,2,2024-09-16,Overnight,"Impulse Item,Extended Warranty",36.07
+9962,38,Female,Yes,Laptop,SKU1005,3,Completed,Credit Card,2783.76,463.96,6,2024-09-05,Standard,"Impulse Item,Extended Warranty,Impulse Item",59.67
+9962,38,Female,No,Smartphone,SKU1001,5,Completed,Credit Card,166.0,20.75,8,2024-09-15,Overnight,"Extended Warranty,Impulse Item",85.39
+9968,30,Male,No,Tablet,SKU1002,3,Cancelled,Credit Card,988.12,247.03,4,2024-09-01,Express,Extended Warranty,15.92
+9976,36,Female,No,Tablet,SKU1002,3,Completed,Paypal,2223.27,247.03,9,2024-09-23,Overnight,Accessory,8.97
+9994,55,Male,No,Smartphone,SKU1001,5,Completed,Paypal,41.5,20.75,2,2024-09-03,Express,"Extended Warranty,Impulse Item,Impulse Item",72.34
+11015,36,Male,No,Smartwatch,SWT567,5,Cancelled,Bank Transfer,4135.5,459.5,9,2024-09-07,Standard,"Impulse Item, Extended Warranty, Extended Warranty",166.47
+11022,26,Male,No,Smartphone,SMP234,3,Cancelled,PayPal,1139.68,1139.68,1,2024-09-03,Expedited,Impulse Item,33.73
+11025,73,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,4558.72,1139.68,4,2024-09-10,Same Day,,0.0
+11029,40,Female,No,Tablet,TBL345,1,Cancelled,Credit Card,7864.1,786.41,10,2024-09-12,Expedited,"Impulse Item, Accessory",32.73
+11050,58,Female,No,Tablet,TBL345,4,Cancelled,Credit Card,7864.1,786.41,10,2024-09-17,Expedited,,0.0
+11062,58,Female,No,Smartphone,SMP234,2,Completed,PayPal,6838.08,1139.68,6,2024-09-20,Standard,"Accessory, Impulse Item, Impulse Item",206.72
+11086,75,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,2697.28,674.32,4,2024-09-12,Standard,"Accessory, Extended Warranty",105.92
+11104,57,Male,No,Tablet,TBL345,1,Cancelled,Credit Card,1572.82,786.41,2,2024-09-19,Same Day,Extended Warranty,47.66
+11105,48,Female,Yes,Smartwatch,SWT567,4,Completed,Credit Card,2297.5,459.5,5,2024-09-02,Expedited,,0.0
+11107,67,Female,No,Smartwatch,SWT567,4,Completed,Bank Transfer,3676.0,459.5,8,2024-09-05,Same Day,,0.0
+11111,70,Female,Yes,Laptop,LTP123,5,Completed,PayPal,6743.2,674.32,10,2024-09-11,Standard,"Extended Warranty, Impulse Item, Impulse Item",138.82
+11133,49,Male,Yes,Tablet,TBL345,1,Cancelled,PayPal,6291.28,786.41,8,2024-09-10,Standard,"Impulse Item, Extended Warranty, Extended Warranty",151.34
+11139,50,Male,No,Smartphone,SMP234,1,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-16,Same Day,Extended Warranty,71.97
+11162,62,Male,No,Smartphone,SMP234,5,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-19,Standard,,0.0
+11175,75,Male,No,Smartphone,SMP234,2,Cancelled,PayPal,2279.36,1139.68,2,2024-09-18,Standard,Extended Warranty,20.66
+11187,51,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,3419.04,1139.68,3,2024-09-06,Same Day,"Extended Warranty, Impulse Item",69.97
+11197,39,Female,No,Laptop,LTP123,3,Completed,PayPal,3371.6,674.32,5,2024-09-07,Standard,Extended Warranty,55.59
+11209,53,Female,No,Smartphone,SMP234,3,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-23,Same Day,,0.0
+11232,25,Male,No,Laptop,LTP123,5,Completed,Bank Transfer,5394.56,674.32,8,2024-09-11,Standard,"Impulse Item, Extended Warranty",43.64
+11237,55,Female,Yes,Headphones,HDP456,4,Completed,Credit Card,361.18,361.18,1,2024-09-04,Standard,"Impulse Item, Extended Warranty",82.35
+11269,65,Male,No,Smartphone,SMP234,5,Completed,PayPal,10257.12,1139.68,9,2024-09-23,Standard,,0.0
+11271,40,Male,No,Headphones,HDP456,4,Completed,PayPal,722.36,361.18,2,2024-09-02,Expedited,"Impulse Item, Accessory, Impulse Item",216.08
+11303,41,Female,Yes,Smartwatch,SWT567,4,Completed,PayPal,1838.0,459.5,4,2024-09-03,Same Day,"Impulse Item, Accessory, Impulse Item",174.67
+11303,41,Female,No,Tablet,TBL345,3,Cancelled,Bank Transfer,1572.82,786.41,2,2024-09-17,Same Day,"Impulse Item, Impulse Item",63.87
+11303,41,Female,Yes,Smartwatch,SWT567,2,Completed,PayPal,3216.5,459.5,7,2024-09-20,Same Day,Extended Warranty,52.5
+11310,63,Male,No,Smartphone,SMP234,1,Completed,Credit Card,9117.44,1139.68,8,2024-09-13,Same Day,Impulse Item,44.42
+11313,47,Female,Yes,Smartphone,SMP234,1,Cancelled,Credit Card,11396.8,1139.68,10,2024-09-17,Same Day,"Accessory, Accessory",145.14
+11318,45,Female,No,Smartphone,SMP234,3,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-18,Same Day,"Impulse Item, Impulse Item",108.99
+11323,24,Male,No,Tablet,TBL345,5,Completed,Credit Card,5504.87,786.41,7,2024-09-12,Expedited,"Impulse Item, Impulse Item",56.74
+11340,38,Female,No,Tablet,TBL345,4,Completed,PayPal,786.41,786.41,1,2024-09-13,Expedited,Accessory,17.3
+11351,78,Female,No,Smartphone,SMP234,2,Completed,PayPal,2279.36,1139.68,2,2024-09-23,Same Day,Impulse Item,50.73
+11375,52,Female,Yes,Smartwatch,SWT567,1,Cancelled,PayPal,3216.5,459.5,7,2024-09-05,Standard,"Extended Warranty, Accessory, Accessory",175.46
+11380,19,Female,No,Headphones,HDP456,4,Cancelled,PayPal,1444.72,361.18,4,2024-09-16,Same Day,"Accessory, Extended Warranty",64.13
+11430,22,Female,No,Smartphone,SMP234,2,Cancelled,Bank Transfer,7977.76,1139.68,7,2024-09-17,Standard,Impulse Item,79.64
+11444,54,Female,No,Tablet,TBL345,5,Cancelled,PayPal,786.41,786.41,1,2024-09-18,Standard,Accessory,86.52
+11458,35,Female,Yes,Smartphone,SMP234,1,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-07,Expedited,"Extended Warranty, Impulse Item, Accessory",219.66
+11459,52,Male,No,Laptop,LTP123,5,Completed,PayPal,4045.92,674.32,6,2024-09-12,Expedited,"Accessory, Accessory",137.67
+11465,46,Female,No,Smartwatch,SWT567,5,Cancelled,PayPal,2297.5,459.5,5,2024-09-19,Same Day,"Accessory, Impulse Item, Extended Warranty",196.33
+11476,24,Female,No,Smartphone,SMP234,3,Completed,Credit Card,11396.8,1139.68,10,2024-09-21,Expedited,Extended Warranty,60.51
+11483,65,Male,Yes,Tablet,TBL345,2,Completed,Credit Card,5504.87,786.41,7,2024-09-19,Standard,,0.0
+11489,27,Male,No,Laptop,LTP123,5,Cancelled,Bank Transfer,2022.96,674.32,3,2024-09-05,Expedited,"Accessory, Extended Warranty",148.22
+11558,19,Female,No,Tablet,TBL345,3,Completed,Bank Transfer,3145.64,786.41,4,2024-09-05,Same Day,"Accessory, Extended Warranty",132.3
+11560,54,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,1838.0,459.5,4,2024-09-21,Same Day,,0.0
+11571,39,Female,No,Smartwatch,SWT567,2,Cancelled,PayPal,4135.5,459.5,9,2024-09-05,Expedited,,0.0
+11575,64,Female,Yes,Headphones,HDP456,5,Completed,Bank Transfer,361.18,361.18,1,2024-09-13,Standard,,0.0
+11578,65,Female,No,Laptop,LTP123,5,Completed,Credit Card,6068.88,674.32,9,2024-09-22,Expedited,,0.0
+11580,35,Female,Yes,Tablet,TBL345,2,Cancelled,Credit Card,2359.23,786.41,3,2024-09-08,Standard,Accessory,34.37
+11581,53,Female,No,Headphones,HDP456,3,Completed,PayPal,2528.26,361.18,7,2024-09-02,Same Day,,0.0
+11599,54,Female,No,Smartphone,SMP234,4,Completed,PayPal,5698.4,1139.68,5,2024-09-14,Expedited,,0.0
+11602,23,Female,No,Smartphone,SMP234,4,Completed,PayPal,4558.72,1139.68,4,2024-09-11,Expedited,"Accessory, Accessory, Extended Warranty",85.09
+11612,22,Male,Yes,Laptop,LTP123,3,Cancelled,Credit Card,4720.24,674.32,7,2024-09-17,Standard,"Extended Warranty, Extended Warranty",53.56
+11617,41,Female,Yes,Smartphone,SMP234,3,Cancelled,Bank Transfer,4558.72,1139.68,4,2024-09-06,Same Day,"Accessory, Impulse Item, Accessory",164.16
+11618,80,Male,No,Laptop,LTP123,2,Completed,Bank Transfer,1348.64,674.32,2,2024-09-05,Standard,"Extended Warranty, Impulse Item, Accessory",152.17
+11625,38,Female,Yes,Headphones,HDP456,5,Completed,PayPal,722.36,361.18,2,2024-09-12,Same Day,,0.0
+11631,47,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,786.41,786.41,1,2024-09-03,Same Day,"Impulse Item, Extended Warranty",116.06
+11631,47,Male,No,Smartwatch,SWT567,3,Completed,Credit Card,1378.5,459.5,3,2024-09-23,Standard,Accessory,83.22
+11640,26,Female,No,Tablet,TBL345,5,Cancelled,PayPal,2359.23,786.41,3,2024-09-02,Standard,"Impulse Item, Accessory",60.86
+11677,39,Female,No,Smartwatch,SWT567,3,Completed,Bank Transfer,919.0,459.5,2,2024-09-11,Standard,Accessory,80.18
+11680,49,Male,Yes,Laptop,LTP123,4,Cancelled,Credit Card,2697.28,674.32,4,2024-09-12,Same Day,"Impulse Item, Extended Warranty, Accessory",148.22
+11684,53,Male,Yes,Smartwatch,SWT567,1,Cancelled,Bank Transfer,1838.0,459.5,4,2024-09-08,Standard,"Accessory, Extended Warranty, Extended Warranty",146.28
+11695,51,Female,No,Tablet,TBL345,4,Cancelled,Bank Transfer,7864.1,786.41,10,2024-09-06,Standard,"Impulse Item, Impulse Item, Impulse Item",162.56
+11701,24,Female,No,Laptop,LTP123,4,Completed,PayPal,6068.88,674.32,9,2024-09-07,Same Day,,0.0
+11712,36,Male,No,Laptop,LTP123,4,Completed,Credit Card,4045.92,674.32,6,2024-09-03,Standard,Impulse Item,33.61
+11730,78,Male,No,Tablet,TBL345,1,Completed,PayPal,3932.05,786.41,5,2024-09-22,Expedited,"Impulse Item, Impulse Item, Impulse Item",166.51
+11739,41,Female,Yes,Smartphone,SMP234,2,Completed,Credit Card,5698.4,1139.68,5,2024-09-06,Same Day,"Accessory, Extended Warranty",95.84
+11743,38,Female,No,Laptop,LTP123,3,Completed,PayPal,3371.6,674.32,5,2024-09-09,Standard,Extended Warranty,87.61
+11745,65,Female,No,Tablet,TBL345,4,Completed,PayPal,6291.28,786.41,8,2024-09-08,Standard,,0.0
+11761,51,Male,No,Smartphone,SMP234,5,Completed,Credit Card,9117.44,1139.68,8,2024-09-09,Expedited,Impulse Item,69.3
+11762,45,Male,No,Smartphone,SMP234,1,Completed,Credit Card,6838.08,1139.68,6,2024-09-02,Standard,,0.0
+11764,75,Female,No,Tablet,TBL345,4,Completed,Bank Transfer,3145.64,786.41,4,2024-09-13,Expedited,Extended Warranty,53.72
+11767,37,Male,No,Laptop,LTP123,1,Completed,PayPal,1348.64,674.32,2,2024-09-09,Expedited,"Extended Warranty, Extended Warranty, Impulse Item",192.27
+11779,36,Male,No,Tablet,TBL345,5,Completed,Bank Transfer,1572.82,786.41,2,2024-09-13,Standard,,0.0
+11782,45,Male,No,Tablet,TBL345,5,Completed,Bank Transfer,1572.82,786.41,2,2024-09-03,Expedited,Extended Warranty,51.12
+11782,45,Male,No,Smartwatch,SWT567,1,Cancelled,PayPal,3676.0,459.5,8,2024-09-15,Expedited,,0.0
+11790,24,Male,No,Smartwatch,SWT567,5,Completed,PayPal,3216.5,459.5,7,2024-09-19,Standard,"Extended Warranty, Accessory, Accessory",187.32
+11809,36,Female,No,Smartwatch,SWT567,2,Cancelled,PayPal,2297.5,459.5,5,2024-09-23,Standard,"Extended Warranty, Extended Warranty, Impulse Item",166.87
+11811,53,Male,No,Smartphone,SMP234,1,Completed,PayPal,10257.12,1139.68,9,2024-09-03,Expedited,Impulse Item,63.59
+11812,76,Male,No,Tablet,TBL345,4,Completed,Bank Transfer,2359.23,786.41,3,2024-09-08,Expedited,"Impulse Item, Impulse Item",136.4
+11816,47,Male,No,Laptop,LTP123,5,Completed,Credit Card,5394.56,674.32,8,2024-09-02,Standard,Accessory,12.01
+11827,39,Female,Yes,Headphones,HDP456,5,Completed,PayPal,3250.62,361.18,9,2024-09-23,Expedited,"Impulse Item, Extended Warranty",109.57
+11829,66,Female,No,Smartwatch,SWT567,2,Completed,Credit Card,919.0,459.5,2,2024-09-20,Standard,,0.0
+11855,40,Female,No,Smartphone,SMP234,3,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-14,Expedited,Accessory,27.56
+11867,39,Male,No,Smartphone,SMP234,3,Cancelled,Bank Transfer,9117.44,1139.68,8,2024-09-01,Expedited,Impulse Item,28.92
+11870,39,Female,No,Headphones,HDP456,1,Completed,Bank Transfer,3250.62,361.18,9,2024-09-01,Same Day,,0.0
+11904,46,Male,No,Smartphone,SMP234,2,Completed,PayPal,10257.12,1139.68,9,2024-09-12,Expedited,"Extended Warranty, Accessory, Extended Warranty",130.32
+11905,32,Female,Yes,Tablet,TBL345,3,Completed,PayPal,7077.69,786.41,9,2024-09-11,Expedited,"Extended Warranty, Impulse Item, Accessory",120.68
+11925,80,Male,No,Laptop,LTP123,1,Cancelled,PayPal,2022.96,674.32,3,2024-09-04,Standard,Accessory,23.58
+11926,22,Female,Yes,Headphones,HDP456,4,Completed,Credit Card,361.18,361.18,1,2024-09-02,Expedited,"Impulse Item, Extended Warranty",187.55
+11943,49,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-15,Expedited,"Extended Warranty, Extended Warranty, Extended Warranty",196.91
+11972,77,Male,No,Headphones,HDP456,3,Completed,Credit Card,722.36,361.18,2,2024-09-12,Expedited,,0.0
+11975,41,Female,Yes,Headphones,HDP456,5,Completed,Credit Card,1805.9,361.18,5,2024-09-15,Expedited,"Accessory, Extended Warranty",129.47
+11987,70,Female,No,Smartphone,SMP234,4,Completed,PayPal,11396.8,1139.68,10,2024-09-20,Expedited,"Accessory, Impulse Item, Impulse Item",181.17
+11989,18,Male,No,Laptop,LTP123,1,Cancelled,PayPal,4720.24,674.32,7,2024-09-05,Same Day,"Impulse Item, Impulse Item",99.37
+11990,18,Female,No,Tablet,TBL345,2,Cancelled,PayPal,4718.46,786.41,6,2024-09-23,Same Day,Accessory,36.03
+12031,35,Male,Yes,Headphones,HDP456,2,Completed,Credit Card,3250.62,361.18,9,2024-09-11,Same Day,,0.0
+12052,43,Male,Yes,Headphones,HDP456,5,Completed,PayPal,1083.54,361.18,3,2024-09-01,Expedited,Accessory,15.61
+12074,57,Female,No,Tablet,TBL345,3,Completed,Bank Transfer,6291.28,786.41,8,2024-09-15,Expedited,"Accessory, Impulse Item, Extended Warranty",171.25
+12109,56,Male,No,Headphones,HDP456,5,Completed,PayPal,3611.8,361.18,10,2024-09-22,Standard,,0.0
+12134,72,Male,No,Laptop,LTP123,5,Completed,PayPal,2022.96,674.32,3,2024-09-22,Expedited,"Impulse Item, Extended Warranty",138.91
+12136,76,Female,No,Smartwatch,SWT567,5,Completed,Credit Card,4135.5,459.5,9,2024-09-06,Expedited,"Extended Warranty, Extended Warranty",174.82
+12147,50,Female,No,Laptop,LTP123,5,Cancelled,Bank Transfer,4045.92,674.32,6,2024-09-09,Expedited,"Extended Warranty, Impulse Item",157.04
+12151,25,Male,No,Headphones,HDP456,1,Cancelled,Credit Card,1805.9,361.18,5,2024-09-21,Standard,,0.0
+12152,32,Male,No,Smartwatch,SWT567,2,Completed,Credit Card,919.0,459.5,2,2024-09-09,Standard,"Impulse Item, Impulse Item, Extended Warranty",237.68
+12156,48,Female,No,Headphones,HDP456,2,Cancelled,Credit Card,2889.44,361.18,8,2024-09-15,Expedited,"Impulse Item, Impulse Item",143.11
+12157,56,Female,No,Smartwatch,SWT567,2,Completed,PayPal,2297.5,459.5,5,2024-09-04,Same Day,"Extended Warranty, Accessory",184.03
+12175,62,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,6291.28,786.41,8,2024-09-11,Expedited,Accessory,77.1
+12186,70,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,6743.2,674.32,10,2024-09-02,Standard,Accessory,54.43
+12191,49,Female,No,Smartwatch,SWT567,2,Cancelled,Credit Card,4135.5,459.5,9,2024-09-02,Same Day,,0.0
+12211,56,Male,Yes,Smartphone,SMP234,2,Completed,Credit Card,1139.68,1139.68,1,2024-09-03,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",158.04
+12211,56,Male,No,Smartphone,SMP234,1,Completed,Credit Card,9117.44,1139.68,8,2024-09-14,Expedited,Accessory,20.81
+12220,24,Female,No,Laptop,LTP123,4,Cancelled,Bank Transfer,3371.6,674.32,5,2024-09-07,Standard,"Impulse Item, Extended Warranty, Impulse Item",152.41
+12233,30,Male,Yes,Smartwatch,SWT567,5,Completed,PayPal,919.0,459.5,2,2024-09-09,Expedited,Accessory,28.06
+12244,79,Female,No,Smartphone,SMP234,2,Completed,Credit Card,3419.04,1139.68,3,2024-09-18,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",210.31
+12249,45,Female,No,Smartwatch,SWT567,2,Cancelled,PayPal,2757.0,459.5,6,2024-09-02,Same Day,Accessory,18.51
+12280,48,Female,No,Tablet,TBL345,3,Cancelled,PayPal,5504.87,786.41,7,2024-09-17,Expedited,Impulse Item,62.51
+12285,39,Male,Yes,Smartwatch,SWT567,4,Completed,Credit Card,4595.0,459.5,10,2024-09-15,Expedited,"Accessory, Extended Warranty",79.33
+12302,36,Female,No,Smartwatch,SWT567,3,Completed,PayPal,2757.0,459.5,6,2024-09-17,Standard,,0.0
+12303,43,Male,Yes,Headphones,HDP456,3,Cancelled,Bank Transfer,1444.72,361.18,4,2024-09-08,Expedited,"Accessory, Accessory",76.83
+12322,33,Male,No,Headphones,HDP456,2,Completed,Bank Transfer,1444.72,361.18,4,2024-09-02,Standard,"Impulse Item, Accessory",84.02
+12325,24,Male,No,Tablet,TBL345,2,Completed,Credit Card,5504.87,786.41,7,2024-09-06,Expedited,"Accessory, Accessory",137.19
+12329,50,Female,No,Smartphone,SMP234,5,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-19,Standard,Impulse Item,11.16
+12341,26,Female,No,Smartwatch,SWT567,3,Completed,Credit Card,3676.0,459.5,8,2024-09-16,Expedited,Impulse Item,12.1
+12344,59,Female,No,Laptop,LTP123,3,Cancelled,PayPal,5394.56,674.32,8,2024-09-07,Same Day,,0.0
+12367,71,Male,No,Tablet,TBL345,1,Cancelled,PayPal,7077.69,786.41,9,2024-09-17,Standard,Accessory,48.66
+12378,79,Male,Yes,Tablet,TBL345,1,Completed,PayPal,5504.87,786.41,7,2024-09-08,Standard,"Extended Warranty, Impulse Item, Impulse Item",245.03
+12407,72,Male,No,Tablet,TBL345,1,Cancelled,Bank Transfer,6291.28,786.41,8,2024-09-16,Expedited,Impulse Item,29.07
+12408,75,Female,Yes,Smartphone,SMP234,2,Completed,PayPal,6838.08,1139.68,6,2024-09-05,Standard,"Extended Warranty, Accessory, Impulse Item",152.23
+12408,75,Female,No,Headphones,HDP456,3,Completed,PayPal,1805.9,361.18,5,2024-09-20,Expedited,Extended Warranty,70.32
+12419,20,Female,Yes,Laptop,LTP123,1,Completed,Bank Transfer,3371.6,674.32,5,2024-09-19,Expedited,"Extended Warranty, Accessory, Impulse Item",117.49
+12424,31,Female,No,Headphones,HDP456,3,Cancelled,PayPal,1805.9,361.18,5,2024-09-04,Same Day,,0.0
+12431,21,Female,Yes,Laptop,LTP123,2,Cancelled,Bank Transfer,674.32,674.32,1,2024-09-13,Standard,"Impulse Item, Extended Warranty",112.53
+12433,22,Male,No,Smartwatch,SWT567,2,Completed,Credit Card,2757.0,459.5,6,2024-09-11,Standard,"Extended Warranty, Extended Warranty, Accessory",210.19
+12441,68,Male,No,Smartwatch,SWT567,5,Cancelled,PayPal,2297.5,459.5,5,2024-09-22,Expedited,"Accessory, Extended Warranty, Extended Warranty",257.54
+12442,56,Female,No,Smartphone,SMP234,5,Completed,Credit Card,1139.68,1139.68,1,2024-09-19,Same Day,"Impulse Item, Extended Warranty",90.2
+12458,46,Female,No,Smartwatch,SWT567,1,Completed,Bank Transfer,3216.5,459.5,7,2024-09-21,Expedited,"Accessory, Extended Warranty",92.28
+12471,62,Male,No,Headphones,HDP456,2,Completed,Credit Card,361.18,361.18,1,2024-09-01,Expedited,"Accessory, Impulse Item, Extended Warranty",135.25
+12473,50,Male,No,Headphones,HDP456,5,Completed,Bank Transfer,2167.08,361.18,6,2024-09-03,Same Day,"Impulse Item, Extended Warranty, Extended Warranty",167.76
+12473,50,Male,No,Smartphone,SMP234,3,Cancelled,Credit Card,3419.04,1139.68,3,2024-09-21,Same Day,"Impulse Item, Extended Warranty, Impulse Item",179.8
+12477,76,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,7864.1,786.41,10,2024-09-20,Same Day,,0.0
+12485,70,Male,Yes,Tablet,TBL345,3,Cancelled,PayPal,6291.28,786.41,8,2024-09-03,Expedited,Accessory,88.43
+12485,70,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,3145.64,786.41,4,2024-09-16,Expedited,"Extended Warranty, Accessory, Extended Warranty",137.54
+12532,51,Male,No,Tablet,TBL345,4,Completed,Credit Card,3145.64,786.41,4,2024-09-22,Expedited,"Impulse Item, Accessory, Impulse Item",99.58
+12545,43,Male,Yes,Laptop,LTP123,2,Completed,Bank Transfer,4045.92,674.32,6,2024-09-16,Same Day,,0.0
+12550,55,Male,No,Smartphone,SMP234,3,Completed,Credit Card,2279.36,1139.68,2,2024-09-22,Expedited,"Extended Warranty, Accessory",133.96
+12556,76,Male,No,Tablet,TBL345,3,Cancelled,PayPal,1572.82,786.41,2,2024-09-03,Expedited,Extended Warranty,84.25
+12565,73,Female,No,Smartwatch,SWT567,2,Cancelled,PayPal,4135.5,459.5,9,2024-09-06,Same Day,"Extended Warranty, Extended Warranty, Extended Warranty",155.21
+12569,64,Male,No,Tablet,TBL345,5,Completed,PayPal,4718.46,786.41,6,2024-09-17,Same Day,"Accessory, Impulse Item",56.82
+12573,74,Male,Yes,Smartwatch,SWT567,1,Cancelled,Credit Card,1838.0,459.5,4,2024-09-16,Same Day,,0.0
+12597,43,Male,No,Smartphone,SMP234,2,Completed,PayPal,2279.36,1139.68,2,2024-09-18,Same Day,"Extended Warranty, Extended Warranty, Extended Warranty",122.74
+12607,73,Male,No,Tablet,TBL345,4,Completed,Bank Transfer,3932.05,786.41,5,2024-09-15,Standard,"Extended Warranty, Extended Warranty, Accessory",158.7
+12613,54,Female,No,Headphones,HDP456,5,Completed,Credit Card,2167.08,361.18,6,2024-09-11,Same Day,"Accessory, Accessory, Extended Warranty",206.19
+12613,54,Female,No,Laptop,LTP123,2,Completed,PayPal,4045.92,674.32,6,2024-09-13,Standard,,0.0
+12615,71,Female,No,Tablet,TBL345,4,Completed,Credit Card,4718.46,786.41,6,2024-09-05,Expedited,"Accessory, Impulse Item",130.77
+12618,55,Female,No,Smartwatch,SWT567,5,Cancelled,Bank Transfer,4595.0,459.5,10,2024-09-03,Standard,,0.0
+12626,78,Female,No,Smartphone,SMP234,5,Completed,Credit Card,5698.4,1139.68,5,2024-09-07,Expedited,"Impulse Item, Accessory, Impulse Item",233.74
+12643,28,Male,No,Tablet,TBL345,4,Completed,PayPal,4718.46,786.41,6,2024-09-14,Standard,Accessory,30.28
+12655,54,Female,Yes,Smartphone,SMP234,1,Completed,PayPal,1139.68,1139.68,1,2024-09-14,Standard,"Extended Warranty, Accessory, Accessory",168.12
+12657,29,Male,No,Headphones,HDP456,5,Completed,Bank Transfer,1805.9,361.18,5,2024-09-03,Same Day,"Accessory, Impulse Item, Accessory",74.2
+12666,71,Male,No,Smartphone,SMP234,1,Completed,PayPal,10257.12,1139.68,9,2024-09-18,Expedited,,0.0
+12667,40,Female,No,Smartphone,SMP234,3,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-16,Standard,Impulse Item,55.15
+12671,22,Female,No,Smartwatch,SWT567,3,Cancelled,Credit Card,2297.5,459.5,5,2024-09-10,Standard,Extended Warranty,64.81
+12687,30,Male,No,Smartwatch,SWT567,2,Completed,Credit Card,3676.0,459.5,8,2024-09-18,Same Day,,0.0
+12700,40,Female,Yes,Headphones,HDP456,2,Cancelled,PayPal,1444.72,361.18,4,2024-09-22,Standard,"Accessory, Impulse Item, Accessory",180.98
+12705,49,Female,No,Smartwatch,SWT567,2,Completed,Bank Transfer,2757.0,459.5,6,2024-09-10,Standard,Extended Warranty,46.99
+12706,79,Male,No,Laptop,LTP123,3,Completed,Bank Transfer,5394.56,674.32,8,2024-09-03,Expedited,Extended Warranty,85.85
+12716,79,Male,Yes,Laptop,LTP123,2,Cancelled,PayPal,5394.56,674.32,8,2024-09-15,Expedited,Impulse Item,91.12
+12755,35,Female,No,Smartphone,SMP234,5,Completed,PayPal,1139.68,1139.68,1,2024-09-16,Expedited,"Extended Warranty, Extended Warranty, Impulse Item",111.38
+12771,74,Male,Yes,Laptop,LTP123,2,Cancelled,Bank Transfer,2022.96,674.32,3,2024-09-10,Same Day,"Accessory, Extended Warranty",73.52
+12787,36,Female,No,Headphones,HDP456,3,Completed,PayPal,3250.62,361.18,9,2024-09-14,Same Day,"Extended Warranty, Extended Warranty, Impulse Item",186.17
+12796,28,Male,No,Laptop,LTP123,5,Completed,Bank Transfer,2697.28,674.32,4,2024-09-04,Standard,,0.0
+12799,31,Female,Yes,Headphones,HDP456,3,Completed,PayPal,2528.26,361.18,7,2024-09-03,Expedited,,0.0
+12813,19,Female,No,Tablet,TBL345,2,Completed,Bank Transfer,786.41,786.41,1,2024-09-03,Same Day,"Accessory, Impulse Item",103.8
+12831,77,Female,No,Smartphone,SMP234,4,Cancelled,PayPal,1139.68,1139.68,1,2024-09-11,Same Day,"Accessory, Extended Warranty",126.91
+12831,77,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,7977.76,1139.68,7,2024-09-16,Same Day,Impulse Item,10.04
+12865,52,Female,No,Headphones,HDP456,3,Completed,Credit Card,2167.08,361.18,6,2024-09-18,Same Day,"Extended Warranty, Accessory, Accessory",214.49
+12881,23,Female,No,Laptop,LTP123,2,Cancelled,PayPal,3371.6,674.32,5,2024-09-07,Standard,"Extended Warranty, Impulse Item, Extended Warranty",166.83
+12881,23,Female,Yes,Smartphone,SMP234,5,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-09,Expedited,,0.0
+12883,51,Female,No,Smartphone,SMP234,5,Completed,PayPal,11396.8,1139.68,10,2024-09-23,Standard,"Extended Warranty, Accessory",78.92
+12884,45,Male,No,Smartphone,SMP234,1,Cancelled,Bank Transfer,11396.8,1139.68,10,2024-09-18,Standard,Extended Warranty,34.7
+12897,35,Male,No,Smartphone,SMP234,2,Completed,PayPal,1139.68,1139.68,1,2024-09-06,Standard,Impulse Item,37.43
+12917,39,Male,No,Smartwatch,SWT567,2,Completed,PayPal,2297.5,459.5,5,2024-09-04,Same Day,Impulse Item,32.34
+12925,64,Female,No,Headphones,HDP456,2,Completed,Credit Card,2889.44,361.18,8,2024-09-02,Expedited,"Accessory, Impulse Item",74.87
+12929,29,Male,Yes,Tablet,TBL345,4,Completed,PayPal,7077.69,786.41,9,2024-09-08,Same Day,,0.0
+12932,55,Male,Yes,Headphones,HDP456,2,Completed,Bank Transfer,3250.62,361.18,9,2024-09-10,Same Day,Accessory,22.27
+12953,76,Female,No,Smartphone,SMP234,2,Completed,Credit Card,4558.72,1139.68,4,2024-09-01,Same Day,"Accessory, Extended Warranty",87.7
+12956,36,Male,Yes,Smartphone,SMP234,3,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-08,Standard,"Extended Warranty, Extended Warranty, Impulse Item",133.92
+12990,41,Male,Yes,Headphones,HDP456,1,Cancelled,Bank Transfer,722.36,361.18,2,2024-09-17,Expedited,,0.0
+13001,72,Male,No,Laptop,LTP123,1,Cancelled,Bank Transfer,2022.96,674.32,3,2024-09-08,Standard,,0.0
+13004,80,Male,No,Smartwatch,SWT567,2,Completed,PayPal,1838.0,459.5,4,2024-09-06,Expedited,"Extended Warranty, Impulse Item, Impulse Item",186.02
+13012,65,Female,No,Headphones,HDP456,3,Completed,Bank Transfer,361.18,361.18,1,2024-09-04,Same Day,"Accessory, Extended Warranty, Extended Warranty",169.45
+13014,54,Male,No,Tablet,TBL345,5,Cancelled,PayPal,6291.28,786.41,8,2024-09-14,Expedited,Accessory,41.23
+13023,24,Female,No,Smartwatch,SWT567,2,Completed,Credit Card,4135.5,459.5,9,2024-09-02,Same Day,"Extended Warranty, Extended Warranty, Accessory",168.78
+13024,73,Male,No,Smartwatch,SWT567,3,Completed,PayPal,1838.0,459.5,4,2024-09-02,Standard,"Extended Warranty, Extended Warranty",119.74
+13037,25,Female,Yes,Smartphone,SMP234,2,Cancelled,Bank Transfer,3419.04,1139.68,3,2024-09-01,Standard,Accessory,88.69
+13055,72,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,3216.5,459.5,7,2024-09-10,Same Day,"Accessory, Extended Warranty, Extended Warranty",139.45
+13074,49,Female,No,Smartphone,SMP234,2,Completed,Credit Card,11396.8,1139.68,10,2024-09-19,Same Day,,0.0
+13078,27,Female,No,Laptop,LTP123,1,Completed,PayPal,2697.28,674.32,4,2024-09-17,Expedited,"Extended Warranty, Accessory",116.18
+13081,18,Female,No,Headphones,HDP456,3,Cancelled,Credit Card,2528.26,361.18,7,2024-09-18,Expedited,,0.0
+13090,69,Female,No,Smartwatch,SWT567,4,Completed,PayPal,1378.5,459.5,3,2024-09-07,Expedited,Extended Warranty,86.96
+13096,56,Male,No,Tablet,TBL345,1,Completed,Bank Transfer,7077.69,786.41,9,2024-09-04,Standard,,0.0
+13125,42,Female,No,Smartphone,SMP234,2,Cancelled,Bank Transfer,3419.04,1139.68,3,2024-09-13,Standard,"Impulse Item, Impulse Item, Accessory",134.75
+13147,53,Female,No,Headphones,HDP456,4,Cancelled,Credit Card,1083.54,361.18,3,2024-09-10,Same Day,Impulse Item,54.79
+13151,61,Female,No,Smartphone,SMP234,4,Completed,PayPal,4558.72,1139.68,4,2024-09-08,Standard,"Impulse Item, Accessory",128.12
+13162,29,Male,No,Headphones,HDP456,3,Completed,Credit Card,3611.8,361.18,10,2024-09-18,Standard,"Impulse Item, Impulse Item",86.2
+13184,68,Male,Yes,Smartphone,SMP234,2,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-10,Standard,"Accessory, Impulse Item",119.58
+13184,68,Male,No,Tablet,TBL345,5,Cancelled,Credit Card,6291.28,786.41,8,2024-09-18,Expedited,Impulse Item,23.45
+13190,50,Male,No,Tablet,TBL345,5,Completed,Credit Card,7864.1,786.41,10,2024-09-20,Expedited,"Accessory, Extended Warranty",114.98
+13202,51,Male,Yes,Tablet,TBL345,1,Cancelled,Bank Transfer,786.41,786.41,1,2024-09-07,Same Day,"Impulse Item, Accessory, Extended Warranty",129.34
+13212,45,Male,No,Headphones,HDP456,4,Completed,Bank Transfer,2889.44,361.18,8,2024-09-09,Expedited,,0.0
+13214,36,Female,No,Smartphone,SMP234,2,Completed,Credit Card,11396.8,1139.68,10,2024-09-11,Standard,Extended Warranty,30.88
+13230,44,Male,No,Laptop,LTP123,4,Cancelled,Credit Card,3371.6,674.32,5,2024-09-09,Expedited,"Impulse Item, Accessory",112.33
+13276,64,Male,Yes,Smartwatch,SWT567,4,Completed,Bank Transfer,3676.0,459.5,8,2024-09-05,Standard,,0.0
+13283,41,Female,No,Laptop,LTP123,4,Completed,PayPal,674.32,674.32,1,2024-09-01,Same Day,"Accessory, Impulse Item",129.22
+13287,44,Female,No,Laptop,LTP123,1,Completed,PayPal,1348.64,674.32,2,2024-09-12,Same Day,Accessory,84.38
+13299,20,Male,No,Smartwatch,SWT567,5,Completed,PayPal,3216.5,459.5,7,2024-09-05,Same Day,Impulse Item,81.16
+13303,79,Female,No,Smartphone,SMP234,3,Cancelled,Bank Transfer,1139.68,1139.68,1,2024-09-01,Expedited,Accessory,90.74
+13329,65,Female,No,Tablet,TBL345,3,Cancelled,Credit Card,3145.64,786.41,4,2024-09-06,Standard,"Accessory, Extended Warranty, Accessory",236.53
+13332,60,Female,No,Headphones,HDP456,1,Cancelled,Bank Transfer,3611.8,361.18,10,2024-09-12,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",138.29
+13334,30,Male,No,Smartwatch,SWT567,2,Cancelled,Credit Card,1378.5,459.5,3,2024-09-05,Expedited,"Accessory, Impulse Item, Extended Warranty",250.05
+13351,49,Male,No,Headphones,HDP456,5,Completed,PayPal,1083.54,361.18,3,2024-09-04,Expedited,,0.0
+13358,54,Male,No,Smartphone,SMP234,4,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-17,Same Day,"Accessory, Impulse Item",106.18
+13369,38,Male,No,Tablet,TBL345,2,Completed,Bank Transfer,2359.23,786.41,3,2024-09-12,Standard,,0.0
+13412,47,Male,No,Smartphone,SMP234,3,Cancelled,Bank Transfer,3419.04,1139.68,3,2024-09-01,Same Day,Extended Warranty,10.71
+13413,24,Female,No,Smartwatch,SWT567,2,Completed,Bank Transfer,1378.5,459.5,3,2024-09-23,Expedited,Extended Warranty,60.63
+13414,63,Female,Yes,Headphones,HDP456,1,Completed,Credit Card,3250.62,361.18,9,2024-09-06,Same Day,"Accessory, Extended Warranty, Impulse Item",74.51
+13414,63,Female,Yes,Tablet,TBL345,3,Cancelled,Bank Transfer,786.41,786.41,1,2024-09-10,Standard,Accessory,48.33
+13417,57,Male,No,Headphones,HDP456,1,Cancelled,Credit Card,2167.08,361.18,6,2024-09-13,Expedited,Accessory,23.65
+13431,22,Male,No,Tablet,TBL345,5,Cancelled,Bank Transfer,4718.46,786.41,6,2024-09-07,Same Day,Extended Warranty,54.07
+13435,59,Male,No,Smartwatch,SWT567,4,Completed,Bank Transfer,919.0,459.5,2,2024-09-22,Same Day,,0.0
+13439,77,Female,No,Smartphone,SMP234,5,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-19,Standard,,0.0
+13448,70,Female,No,Smartphone,SMP234,5,Completed,Credit Card,5698.4,1139.68,5,2024-09-04,Standard,"Impulse Item, Accessory",106.86
+13463,55,Male,No,Laptop,LTP123,5,Cancelled,Credit Card,3371.6,674.32,5,2024-09-21,Standard,Accessory,35.84
+13469,61,Female,No,Headphones,HDP456,2,Cancelled,Credit Card,2167.08,361.18,6,2024-09-10,Same Day,Accessory,60.02
+13514,72,Male,No,Laptop,LTP123,4,Completed,Credit Card,4720.24,674.32,7,2024-09-09,Expedited,Accessory,79.88
+13535,69,Male,No,Smartphone,SMP234,5,Completed,Bank Transfer,3419.04,1139.68,3,2024-09-12,Expedited,Impulse Item,21.49
+13549,67,Male,No,Headphones,HDP456,3,Cancelled,Bank Transfer,1444.72,361.18,4,2024-09-18,Expedited,Impulse Item,92.54
+13555,49,Male,No,Laptop,LTP123,4,Completed,PayPal,4720.24,674.32,7,2024-09-14,Same Day,Impulse Item,75.12
+13562,36,Male,No,Smartphone,SMP234,4,Completed,Credit Card,5698.4,1139.68,5,2024-09-05,Same Day,"Impulse Item, Impulse Item, Accessory",206.42
+13568,39,Male,No,Tablet,TBL345,5,Cancelled,PayPal,7864.1,786.41,10,2024-09-15,Expedited,"Accessory, Impulse Item",65.11
+13569,38,Female,No,Smartphone,SMP234,4,Completed,PayPal,3419.04,1139.68,3,2024-09-11,Expedited,,0.0
+13572,69,Male,No,Tablet,TBL345,5,Completed,Bank Transfer,1572.82,786.41,2,2024-09-06,Standard,"Extended Warranty, Accessory",134.74
+13579,37,Female,No,Smartphone,SMP234,5,Completed,Credit Card,4558.72,1139.68,4,2024-09-12,Expedited,Accessory,87.43
+13579,37,Female,No,Tablet,TBL345,1,Completed,Bank Transfer,5504.87,786.41,7,2024-09-18,Expedited,"Extended Warranty, Accessory, Impulse Item",173.21
+13580,67,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,3419.04,1139.68,3,2024-09-03,Expedited,"Impulse Item, Accessory",97.06
+13609,55,Male,Yes,Laptop,LTP123,3,Cancelled,PayPal,2022.96,674.32,3,2024-09-21,Standard,,0.0
+13616,65,Female,No,Smartphone,SMP234,3,Completed,PayPal,1139.68,1139.68,1,2024-09-01,Same Day,"Impulse Item, Extended Warranty",124.4
+13630,24,Male,Yes,Headphones,HDP456,5,Completed,Bank Transfer,1805.9,361.18,5,2024-09-07,Same Day,"Impulse Item, Extended Warranty",108.02
+13632,71,Female,No,Smartphone,SMP234,4,Cancelled,Bank Transfer,7977.76,1139.68,7,2024-09-20,Expedited,Extended Warranty,10.77
+13636,57,Male,No,Smartphone,SMP234,1,Cancelled,PayPal,3419.04,1139.68,3,2024-09-23,Same Day,"Impulse Item, Extended Warranty",57.92
+13664,72,Female,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,919.0,459.5,2,2024-09-01,Same Day,"Extended Warranty, Impulse Item",139.14
+13665,29,Female,No,Tablet,TBL345,3,Completed,Bank Transfer,2359.23,786.41,3,2024-09-12,Same Day,Impulse Item,81.4
+13666,65,Female,No,Tablet,TBL345,1,Completed,Bank Transfer,6291.28,786.41,8,2024-09-03,Same Day,"Extended Warranty, Impulse Item",99.85
+13670,47,Female,No,Tablet,TBL345,5,Completed,PayPal,3145.64,786.41,4,2024-09-05,Same Day,"Impulse Item, Accessory",109.84
+13672,37,Male,No,Smartphone,SMP234,3,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-11,Expedited,,0.0
+13673,50,Male,No,Laptop,LTP123,1,Cancelled,Credit Card,2697.28,674.32,4,2024-09-12,Standard,"Accessory, Extended Warranty",99.19
+13673,50,Male,No,Laptop,LTP123,2,Cancelled,Credit Card,3371.6,674.32,5,2024-09-18,Same Day,"Extended Warranty, Impulse Item",142.66
+13686,35,Female,No,Smartwatch,SWT567,2,Completed,Credit Card,2297.5,459.5,5,2024-09-08,Expedited,"Extended Warranty, Impulse Item, Accessory",96.21
+13686,35,Female,No,Laptop,LTP123,2,Completed,Bank Transfer,3371.6,674.32,5,2024-09-11,Standard,"Impulse Item, Extended Warranty",48.71
+13715,38,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,5698.4,1139.68,5,2024-09-18,Standard,,0.0
+13726,31,Female,No,Headphones,HDP456,2,Completed,PayPal,1444.72,361.18,4,2024-09-11,Standard,,0.0
+13728,68,Female,No,Headphones,HDP456,1,Completed,PayPal,2889.44,361.18,8,2024-09-13,Standard,,0.0
+13732,60,Male,No,Smartphone,SMP234,4,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-09,Same Day,,0.0
+13743,28,Male,No,Tablet,TBL345,5,Cancelled,Bank Transfer,3145.64,786.41,4,2024-09-02,Expedited,"Impulse Item, Impulse Item, Accessory",199.68
+13776,52,Male,No,Laptop,LTP123,4,Completed,PayPal,5394.56,674.32,8,2024-09-20,Expedited,Accessory,40.83
+13820,73,Male,No,Tablet,TBL345,5,Completed,Credit Card,7077.69,786.41,9,2024-09-03,Expedited,"Extended Warranty, Impulse Item",71.31
+13823,33,Male,No,Tablet,TBL345,5,Completed,Bank Transfer,3932.05,786.41,5,2024-09-12,Same Day,,0.0
+13824,71,Male,No,Headphones,HDP456,2,Completed,Credit Card,2167.08,361.18,6,2024-09-05,Same Day,"Extended Warranty, Accessory, Impulse Item",160.32
+13827,26,Female,No,Headphones,HDP456,1,Completed,Credit Card,3611.8,361.18,10,2024-09-01,Expedited,"Impulse Item, Extended Warranty",79.73
+13834,78,Female,No,Headphones,HDP456,5,Cancelled,PayPal,2167.08,361.18,6,2024-09-07,Same Day,Impulse Item,31.94
+13838,26,Male,No,Smartphone,SMP234,5,Completed,Credit Card,6838.08,1139.68,6,2024-09-11,Standard,"Accessory, Impulse Item",39.96
+13840,42,Female,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,459.5,459.5,1,2024-09-01,Standard,,0.0
+13860,28,Female,No,Smartphone,SMP234,5,Completed,PayPal,2279.36,1139.68,2,2024-09-14,Expedited,Extended Warranty,91.74
+13870,60,Male,No,Tablet,TBL345,3,Completed,Credit Card,7077.69,786.41,9,2024-09-21,Same Day,"Accessory, Extended Warranty, Accessory",142.74
+13877,43,Female,No,Smartphone,SMP234,5,Completed,PayPal,3419.04,1139.68,3,2024-09-14,Same Day,"Extended Warranty, Extended Warranty, Accessory",183.59
+13879,36,Female,No,Smartphone,SMP234,1,Cancelled,Credit Card,2279.36,1139.68,2,2024-09-07,Same Day,,0.0
+13883,42,Male,Yes,Smartwatch,SWT567,5,Cancelled,PayPal,1378.5,459.5,3,2024-09-11,Standard,"Impulse Item, Impulse Item, Extended Warranty",126.84
+13888,32,Female,No,Smartwatch,SWT567,3,Completed,Credit Card,4595.0,459.5,10,2024-09-06,Standard,Accessory,87.36
+13888,32,Female,No,Headphones,HDP456,3,Completed,Credit Card,1805.9,361.18,5,2024-09-19,Same Day,Extended Warranty,16.89
+13900,19,Male,No,Tablet,TBL345,4,Completed,PayPal,4718.46,786.41,6,2024-09-04,Expedited,"Extended Warranty, Accessory",105.1
+13909,42,Female,Yes,Tablet,TBL345,5,Completed,PayPal,1572.82,786.41,2,2024-09-19,Standard,,0.0
+13932,38,Female,No,Laptop,LTP123,3,Completed,PayPal,6743.2,674.32,10,2024-09-23,Same Day,"Impulse Item, Extended Warranty, Accessory",76.14
+13934,44,Male,No,Headphones,HDP456,2,Completed,Credit Card,361.18,361.18,1,2024-09-23,Same Day,"Accessory, Impulse Item, Extended Warranty",192.22
+13939,79,Female,Yes,Smartwatch,SWT567,1,Completed,PayPal,459.5,459.5,1,2024-09-09,Expedited,Accessory,57.36
+13964,50,Male,No,Laptop,LTP123,3,Cancelled,Bank Transfer,1348.64,674.32,2,2024-09-20,Expedited,,0.0
+13976,29,Female,No,Smartphone,SMP234,5,Cancelled,PayPal,5698.4,1139.68,5,2024-09-19,Same Day,"Extended Warranty, Extended Warranty",92.54
+13997,49,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-14,Same Day,,0.0
+13998,60,Female,Yes,Headphones,HDP456,1,Cancelled,Credit Card,1805.9,361.18,5,2024-09-03,Expedited,"Accessory, Accessory",55.98
+14001,67,Male,No,Tablet,TBL345,1,Cancelled,Bank Transfer,5504.87,786.41,7,2024-09-05,Standard,"Impulse Item, Extended Warranty, Impulse Item",212.63
+14021,61,Male,No,Tablet,TBL345,5,Completed,Credit Card,5504.87,786.41,7,2024-09-22,Expedited,"Impulse Item, Extended Warranty",90.8
+14027,29,Male,Yes,Tablet,TBL345,3,Completed,PayPal,3932.05,786.41,5,2024-09-04,Expedited,"Accessory, Extended Warranty",134.32
+14028,35,Male,No,Tablet,TBL345,4,Completed,PayPal,7864.1,786.41,10,2024-09-09,Standard,Impulse Item,16.93
+14028,35,Male,No,Smartphone,SMP234,1,Cancelled,Credit Card,3419.04,1139.68,3,2024-09-19,Standard,,0.0
+14048,26,Female,No,Smartphone,SMP234,3,Completed,PayPal,3419.04,1139.68,3,2024-09-04,Expedited,,0.0
+14052,78,Female,No,Tablet,TBL345,3,Completed,Bank Transfer,7077.69,786.41,9,2024-09-18,Standard,,0.0
+14058,66,Male,No,Smartwatch,SWT567,5,Completed,Bank Transfer,3216.5,459.5,7,2024-09-17,Expedited,"Impulse Item, Impulse Item, Accessory",224.0
+14084,49,Female,No,Smartphone,SMP234,1,Completed,Credit Card,6838.08,1139.68,6,2024-09-16,Standard,"Accessory, Impulse Item, Accessory",222.55
+14108,75,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,7864.1,786.41,10,2024-09-05,Standard,"Extended Warranty, Accessory, Accessory",142.0
+14112,63,Male,No,Smartwatch,SWT567,5,Cancelled,Bank Transfer,1838.0,459.5,4,2024-09-12,Same Day,"Accessory, Extended Warranty",88.46
+14126,21,Female,Yes,Laptop,LTP123,4,Completed,Bank Transfer,1348.64,674.32,2,2024-09-07,Standard,Impulse Item,57.71
+14135,23,Female,No,Laptop,LTP123,4,Cancelled,Bank Transfer,6743.2,674.32,10,2024-09-09,Same Day,"Extended Warranty, Impulse Item",63.53
+14144,38,Female,No,Tablet,TBL345,3,Cancelled,Bank Transfer,3145.64,786.41,4,2024-09-14,Same Day,"Accessory, Impulse Item, Impulse Item",73.83
+14153,69,Female,No,Smartphone,SMP234,4,Completed,PayPal,10257.12,1139.68,9,2024-09-17,Same Day,"Extended Warranty, Impulse Item",98.44
+14179,67,Male,Yes,Tablet,TBL345,4,Completed,Credit Card,1572.82,786.41,2,2024-09-09,Expedited,Accessory,22.82
+14194,78,Female,No,Smartwatch,SWT567,3,Completed,Bank Transfer,3676.0,459.5,8,2024-09-20,Same Day,"Impulse Item, Accessory, Extended Warranty",198.44
+14208,40,Male,No,Headphones,HDP456,5,Completed,PayPal,1083.54,361.18,3,2024-09-01,Expedited,"Accessory, Accessory, Extended Warranty",212.03
+14211,62,Female,No,Smartwatch,SWT567,3,Cancelled,PayPal,2297.5,459.5,5,2024-09-13,Standard,,0.0
+14213,50,Male,Yes,Tablet,TBL345,1,Completed,Credit Card,7864.1,786.41,10,2024-09-21,Standard,Impulse Item,39.87
+14233,70,Male,No,Tablet,TBL345,1,Completed,PayPal,6291.28,786.41,8,2024-09-06,Expedited,,0.0
+14236,41,Male,Yes,Smartwatch,SWT567,2,Completed,Bank Transfer,4135.5,459.5,9,2024-09-18,Standard,,0.0
+14264,36,Male,No,Smartphone,SMP234,2,Completed,Credit Card,11396.8,1139.68,10,2024-09-23,Standard,"Impulse Item, Impulse Item",163.65
+14267,21,Female,Yes,Smartphone,SMP234,1,Cancelled,PayPal,3419.04,1139.68,3,2024-09-20,Same Day,"Extended Warranty, Extended Warranty, Accessory",116.04
+14274,43,Female,No,Smartwatch,SWT567,2,Cancelled,Bank Transfer,2297.5,459.5,5,2024-09-16,Expedited,"Extended Warranty, Impulse Item, Accessory",238.3
+14288,21,Male,No,Smartphone,SMP234,3,Cancelled,Bank Transfer,9117.44,1139.68,8,2024-09-11,Standard,,0.0
+14289,43,Female,No,Headphones,HDP456,1,Cancelled,Credit Card,1083.54,361.18,3,2024-09-22,Expedited,Accessory,29.37
+14292,41,Female,No,Headphones,HDP456,4,Completed,PayPal,1444.72,361.18,4,2024-09-15,Same Day,,0.0
+14303,28,Male,No,Laptop,LTP123,4,Completed,PayPal,2697.28,674.32,4,2024-09-02,Expedited,"Extended Warranty, Accessory",77.63
+14311,57,Female,No,Tablet,TBL345,3,Completed,PayPal,2359.23,786.41,3,2024-09-08,Standard,,0.0
+14322,31,Male,No,Tablet,TBL345,3,Completed,Credit Card,1572.82,786.41,2,2024-09-06,Expedited,Impulse Item,84.07
+14350,37,Male,No,Smartphone,SMP234,4,Cancelled,PayPal,4558.72,1139.68,4,2024-09-14,Expedited,"Extended Warranty, Impulse Item",127.69
+14359,35,Female,Yes,Headphones,HDP456,5,Completed,Credit Card,2889.44,361.18,8,2024-09-02,Expedited,"Accessory, Impulse Item, Impulse Item",174.36
+14373,30,Female,No,Laptop,LTP123,2,Completed,PayPal,3371.6,674.32,5,2024-09-05,Same Day,"Impulse Item, Impulse Item, Extended Warranty",160.21
+14376,18,Male,Yes,Tablet,TBL345,5,Completed,Credit Card,2359.23,786.41,3,2024-09-07,Standard,Accessory,11.4
+14380,42,Female,No,Laptop,LTP123,4,Completed,PayPal,4045.92,674.32,6,2024-09-03,Same Day,"Extended Warranty, Extended Warranty, Extended Warranty",231.31
+14383,21,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-10,Standard,,0.0
+14391,75,Male,No,Headphones,HDP456,3,Completed,PayPal,3611.8,361.18,10,2024-09-01,Expedited,,0.0
+14399,76,Female,No,Smartwatch,SWT567,1,Completed,Credit Card,4595.0,459.5,10,2024-09-07,Same Day,"Accessory, Accessory, Extended Warranty",176.81
+14420,55,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,1378.5,459.5,3,2024-09-02,Standard,"Impulse Item, Impulse Item, Extended Warranty",130.35
+14435,58,Male,No,Smartwatch,SWT567,2,Completed,Credit Card,3216.5,459.5,7,2024-09-01,Same Day,Accessory,42.51
+14439,36,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,2022.96,674.32,3,2024-09-19,Expedited,"Extended Warranty, Accessory",136.37
+14445,38,Male,No,Laptop,LTP123,3,Cancelled,Credit Card,5394.56,674.32,8,2024-09-11,Standard,,0.0
+14449,53,Male,No,Tablet,TBL345,2,Cancelled,Bank Transfer,3932.05,786.41,5,2024-09-23,Standard,"Impulse Item, Impulse Item, Impulse Item",201.03
+14452,35,Male,No,Tablet,TBL345,2,Completed,Credit Card,786.41,786.41,1,2024-09-12,Expedited,Accessory,38.35
+14463,44,Female,Yes,Tablet,TBL345,3,Completed,PayPal,2359.23,786.41,3,2024-09-09,Same Day,Impulse Item,96.81
+14465,42,Male,No,Smartphone,SMP234,1,Completed,Credit Card,10257.12,1139.68,9,2024-09-02,Same Day,,0.0
+14490,18,Male,No,Headphones,HDP456,4,Completed,Bank Transfer,1444.72,361.18,4,2024-09-02,Same Day,"Impulse Item, Impulse Item",83.74
+14490,18,Male,Yes,Laptop,LTP123,3,Completed,Credit Card,3371.6,674.32,5,2024-09-12,Same Day,"Extended Warranty, Accessory",102.33
+14496,62,Male,No,Smartphone,SMP234,4,Completed,PayPal,10257.12,1139.68,9,2024-09-10,Expedited,,0.0
+14497,18,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,7077.69,786.41,9,2024-09-12,Expedited,,0.0
+14497,18,Female,No,Tablet,TBL345,5,Cancelled,PayPal,6291.28,786.41,8,2024-09-19,Same Day,"Extended Warranty, Extended Warranty, Accessory",100.27
+14520,34,Male,No,Tablet,TBL345,2,Completed,Bank Transfer,5504.87,786.41,7,2024-09-11,Expedited,"Accessory, Extended Warranty",147.86
+14521,19,Female,No,Laptop,LTP123,4,Completed,PayPal,6743.2,674.32,10,2024-09-06,Standard,"Impulse Item, Accessory, Accessory",212.55
+14521,19,Female,No,Laptop,LTP123,3,Cancelled,Credit Card,6068.88,674.32,9,2024-09-22,Same Day,"Impulse Item, Impulse Item",119.4
+14558,51,Female,No,Laptop,LTP123,4,Completed,Credit Card,4045.92,674.32,6,2024-09-20,Same Day,Extended Warranty,58.33
+14563,51,Female,No,Smartwatch,SWT567,1,Completed,Credit Card,3216.5,459.5,7,2024-09-20,Same Day,,0.0
+14569,36,Male,No,Tablet,TBL345,3,Cancelled,Credit Card,786.41,786.41,1,2024-09-18,Standard,,0.0
+14574,63,Female,No,Smartwatch,SWT567,5,Completed,PayPal,3676.0,459.5,8,2024-09-08,Same Day,"Accessory, Accessory",65.42
+14609,34,Female,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,1378.5,459.5,3,2024-09-11,Same Day,"Accessory, Accessory",75.16
+14623,77,Female,No,Smartwatch,SWT567,5,Completed,Bank Transfer,3676.0,459.5,8,2024-09-02,Same Day,"Impulse Item, Impulse Item, Accessory",265.09
+14632,57,Male,No,Laptop,LTP123,2,Completed,PayPal,2022.96,674.32,3,2024-09-19,Standard,Accessory,77.73
+14633,30,Female,No,Smartwatch,SWT567,4,Completed,PayPal,919.0,459.5,2,2024-09-21,Standard,,0.0
+14647,62,Female,No,Tablet,TBL345,4,Cancelled,Credit Card,5504.87,786.41,7,2024-09-17,Expedited,,0.0
+14648,73,Female,No,Tablet,TBL345,1,Completed,Credit Card,3145.64,786.41,4,2024-09-06,Standard,"Impulse Item, Extended Warranty",123.23
+14649,29,Female,No,Smartwatch,SWT567,3,Completed,PayPal,4595.0,459.5,10,2024-09-10,Expedited,,0.0
+14657,19,Male,No,Headphones,HDP456,1,Cancelled,Credit Card,1083.54,361.18,3,2024-09-09,Same Day,Extended Warranty,77.71
+14689,39,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,3932.05,786.41,5,2024-09-07,Expedited,"Impulse Item, Extended Warranty",145.07
+14690,18,Male,No,Tablet,TBL345,2,Completed,Credit Card,3932.05,786.41,5,2024-09-21,Same Day,,0.0
+14697,66,Female,No,Tablet,TBL345,5,Completed,PayPal,7864.1,786.41,10,2024-09-08,Standard,Impulse Item,85.48
+14697,66,Female,No,Smartphone,SMP234,3,Cancelled,Credit Card,1139.68,1139.68,1,2024-09-16,Standard,"Impulse Item, Extended Warranty",122.15
+14703,52,Male,No,Smartwatch,SWT567,3,Completed,Credit Card,4135.5,459.5,9,2024-09-06,Same Day,"Extended Warranty, Extended Warranty, Impulse Item",163.3
+14711,38,Male,No,Laptop,LTP123,1,Completed,PayPal,6743.2,674.32,10,2024-09-10,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",102.17
+14712,26,Male,No,Headphones,HDP456,4,Completed,Bank Transfer,3611.8,361.18,10,2024-09-04,Standard,,0.0
+14717,59,Male,No,Headphones,HDP456,1,Cancelled,Credit Card,1805.9,361.18,5,2024-09-21,Standard,"Accessory, Impulse Item, Impulse Item",195.5
+14744,65,Male,Yes,Tablet,TBL345,4,Cancelled,Bank Transfer,5504.87,786.41,7,2024-09-13,Standard,"Accessory, Accessory",50.58
+14772,64,Female,No,Smartphone,SMP234,5,Cancelled,Bank Transfer,2279.36,1139.68,2,2024-09-17,Standard,"Extended Warranty, Accessory",86.7
+14774,27,Female,No,Smartphone,SMP234,3,Cancelled,Credit Card,6838.08,1139.68,6,2024-09-01,Expedited,"Impulse Item, Accessory, Accessory",170.23
+14780,19,Female,No,Laptop,LTP123,4,Completed,Credit Card,4720.24,674.32,7,2024-09-02,Standard,"Impulse Item, Impulse Item",35.1
+14784,76,Male,Yes,Smartphone,SMP234,1,Cancelled,Bank Transfer,9117.44,1139.68,8,2024-09-17,Expedited,"Impulse Item, Extended Warranty",86.66
+14791,70,Male,Yes,Smartwatch,SWT567,5,Completed,Bank Transfer,2297.5,459.5,5,2024-09-15,Same Day,"Extended Warranty, Extended Warranty",126.48
+14793,41,Male,No,Laptop,LTP123,2,Cancelled,Bank Transfer,674.32,674.32,1,2024-09-23,Expedited,"Extended Warranty, Impulse Item",57.51
+14798,45,Female,No,Tablet,TBL345,3,Completed,PayPal,1572.82,786.41,2,2024-09-10,Same Day,"Accessory, Impulse Item",102.95
+14805,28,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,4595.0,459.5,10,2024-09-05,Same Day,"Impulse Item, Extended Warranty",65.18
+14808,24,Female,No,Headphones,HDP456,2,Completed,Bank Transfer,3250.62,361.18,9,2024-09-11,Standard,"Accessory, Accessory, Impulse Item",173.31
+14815,78,Female,No,Smartwatch,SWT567,2,Completed,PayPal,1838.0,459.5,4,2024-09-22,Standard,"Accessory, Impulse Item, Extended Warranty",140.95
+14825,28,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,7864.1,786.41,10,2024-09-08,Same Day,Accessory,70.99
+14836,18,Male,Yes,Laptop,LTP123,4,Cancelled,Credit Card,6743.2,674.32,10,2024-09-18,Expedited,"Impulse Item, Impulse Item, Impulse Item",102.09
+14845,77,Female,Yes,Smartwatch,SWT567,5,Completed,Bank Transfer,3216.5,459.5,7,2024-09-09,Same Day,Extended Warranty,24.91
+14856,46,Female,No,Tablet,TBL345,2,Completed,PayPal,7077.69,786.41,9,2024-09-19,Same Day,Accessory,49.04
+14895,46,Male,Yes,Headphones,HDP456,5,Cancelled,PayPal,1083.54,361.18,3,2024-09-16,Same Day,,0.0
+14899,66,Female,Yes,Smartwatch,SWT567,4,Completed,Bank Transfer,919.0,459.5,2,2024-09-08,Expedited,"Extended Warranty, Extended Warranty",124.52
+14902,24,Female,Yes,Headphones,HDP456,3,Completed,PayPal,1805.9,361.18,5,2024-09-14,Standard,,0.0
+14906,59,Male,No,Smartphone,SMP234,3,Completed,PayPal,6838.08,1139.68,6,2024-09-02,Standard,,0.0
+14983,32,Female,No,Smartphone,SMP234,1,Completed,PayPal,7977.76,1139.68,7,2024-09-17,Expedited,,0.0
+14988,49,Male,No,Smartwatch,SWT567,4,Cancelled,Credit Card,2297.5,459.5,5,2024-09-07,Same Day,"Impulse Item, Accessory, Accessory",208.45
+15007,19,Male,No,Laptop,LTP123,1,Cancelled,Credit Card,1348.64,674.32,2,2024-09-03,Expedited,"Impulse Item, Impulse Item, Accessory",140.85
+15031,70,Male,No,Laptop,LTP123,2,Completed,Credit Card,2022.96,674.32,3,2024-09-19,Expedited,Extended Warranty,72.38
+15059,38,Male,Yes,Headphones,HDP456,1,Completed,Credit Card,1083.54,361.18,3,2024-09-21,Expedited,Extended Warranty,42.49
+15067,77,Male,Yes,Smartphone,SMP234,5,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-16,Expedited,Impulse Item,74.69
+15083,38,Male,No,Headphones,HDP456,1,Completed,PayPal,3611.8,361.18,10,2024-09-02,Standard,"Accessory, Impulse Item, Impulse Item",127.48
+15088,27,Female,Yes,Laptop,LTP123,4,Completed,Bank Transfer,5394.56,674.32,8,2024-09-21,Expedited,,0.0
+15100,80,Male,No,Laptop,LTP123,2,Completed,PayPal,2697.28,674.32,4,2024-09-16,Same Day,"Extended Warranty, Extended Warranty",129.08
+15114,64,Female,No,Laptop,LTP123,5,Completed,PayPal,4045.92,674.32,6,2024-09-05,Same Day,,0.0
+15125,60,Male,No,Smartphone,SMP234,5,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-22,Standard,Impulse Item,49.06
+15128,72,Female,Yes,Smartphone,SMP234,3,Cancelled,Bank Transfer,9117.44,1139.68,8,2024-09-07,Same Day,"Extended Warranty, Accessory, Accessory",86.77
+15148,34,Male,No,Tablet,TBL345,3,Cancelled,PayPal,6291.28,786.41,8,2024-09-04,Same Day,,0.0
+15151,28,Male,Yes,Smartphone,SMP234,4,Cancelled,Bank Transfer,6838.08,1139.68,6,2024-09-05,Expedited,"Impulse Item, Accessory",175.4
+15159,18,Female,No,Laptop,LTP123,2,Completed,Credit Card,4045.92,674.32,6,2024-09-15,Same Day,Extended Warranty,82.66
+15162,40,Female,Yes,Headphones,HDP456,5,Cancelled,PayPal,361.18,361.18,1,2024-09-04,Standard,,0.0
+15168,44,Female,No,Laptop,LTP123,2,Completed,Bank Transfer,6068.88,674.32,9,2024-09-05,Same Day,"Accessory, Accessory",99.35
+15169,68,Female,No,Headphones,HDP456,1,Completed,PayPal,1444.72,361.18,4,2024-09-04,Expedited,,0.0
+15174,66,Female,No,Laptop,LTP123,1,Cancelled,PayPal,4720.24,674.32,7,2024-09-16,Same Day,"Accessory, Accessory",61.37
+15195,37,Female,No,Laptop,LTP123,5,Completed,Bank Transfer,2697.28,674.32,4,2024-09-03,Expedited,,0.0
+15198,32,Male,Yes,Headphones,HDP456,5,Completed,PayPal,361.18,361.18,1,2024-09-18,Expedited,Impulse Item,34.57
+15207,50,Female,No,Laptop,LTP123,2,Completed,PayPal,2022.96,674.32,3,2024-09-15,Standard,"Impulse Item, Accessory",144.91
+15210,28,Female,No,Smartphone,SMP234,3,Completed,Credit Card,10257.12,1139.68,9,2024-09-05,Standard,Impulse Item,87.71
+15212,80,Female,Yes,Smartwatch,SWT567,3,Cancelled,PayPal,3216.5,459.5,7,2024-09-18,Same Day,"Extended Warranty, Extended Warranty",67.84
+15225,20,Female,Yes,Laptop,LTP123,3,Completed,Bank Transfer,6068.88,674.32,9,2024-09-08,Standard,"Extended Warranty, Extended Warranty",189.97
+15226,56,Male,No,Laptop,LTP123,5,Completed,PayPal,674.32,674.32,1,2024-09-03,Standard,"Accessory, Extended Warranty",81.48
+15231,68,Female,No,Laptop,LTP123,2,Completed,PayPal,5394.56,674.32,8,2024-09-21,Standard,"Impulse Item, Extended Warranty, Extended Warranty",177.3
+15238,73,Female,No,Tablet,TBL345,4,Completed,Credit Card,3932.05,786.41,5,2024-09-11,Standard,"Accessory, Impulse Item, Accessory",179.46
+15242,49,Female,No,Headphones,HDP456,1,Cancelled,Credit Card,722.36,361.18,2,2024-09-19,Standard,"Extended Warranty, Impulse Item",122.16
+15245,40,Male,No,Headphones,HDP456,5,Cancelled,Bank Transfer,2167.08,361.18,6,2024-09-22,Standard,Impulse Item,18.8
+15259,79,Female,Yes,Tablet,TBL345,2,Completed,Credit Card,7077.69,786.41,9,2024-09-18,Expedited,Extended Warranty,98.23
+15271,74,Female,No,Smartphone,SMP234,2,Cancelled,PayPal,6838.08,1139.68,6,2024-09-10,Same Day,Impulse Item,20.38
+15285,34,Male,No,Smartphone,SMP234,3,Cancelled,Credit Card,3419.04,1139.68,3,2024-09-12,Same Day,Extended Warranty,97.06
+15289,35,Female,No,Laptop,LTP123,3,Completed,Bank Transfer,5394.56,674.32,8,2024-09-05,Standard,Impulse Item,54.89
+15292,21,Male,No,Headphones,HDP456,2,Cancelled,PayPal,722.36,361.18,2,2024-09-12,Standard,,0.0
+15295,50,Male,Yes,Headphones,HDP456,5,Completed,PayPal,3250.62,361.18,9,2024-09-03,Same Day,"Accessory, Accessory, Extended Warranty",111.93
+15297,68,Male,No,Headphones,HDP456,3,Completed,PayPal,3250.62,361.18,9,2024-09-11,Same Day,Accessory,78.49
+15299,63,Female,Yes,Smartphone,SMP234,3,Completed,PayPal,5698.4,1139.68,5,2024-09-04,Standard,"Impulse Item, Extended Warranty",190.57
+15332,76,Male,No,Smartphone,SMP234,4,Completed,Bank Transfer,4558.72,1139.68,4,2024-09-15,Same Day,"Impulse Item, Accessory, Accessory",140.55
+15344,74,Male,No,Smartphone,SMP234,2,Completed,Bank Transfer,11396.8,1139.68,10,2024-09-13,Standard,Extended Warranty,43.58
+15345,66,Female,No,Tablet,TBL345,3,Completed,Credit Card,4718.46,786.41,6,2024-09-22,Standard,,0.0
+15349,43,Male,No,Smartwatch,SWT567,4,Cancelled,PayPal,919.0,459.5,2,2024-09-01,Expedited,"Impulse Item, Accessory",160.67
+15350,18,Male,No,Laptop,LTP123,4,Completed,Bank Transfer,6068.88,674.32,9,2024-09-20,Standard,Impulse Item,78.45
+15356,73,Female,No,Headphones,HDP456,3,Completed,Credit Card,361.18,361.18,1,2024-09-17,Standard,,0.0
+15368,44,Female,Yes,Smartphone,SMP234,4,Cancelled,Credit Card,3419.04,1139.68,3,2024-09-04,Standard,Accessory,71.95
+15385,23,Female,No,Smartphone,SMP234,5,Completed,Credit Card,7977.76,1139.68,7,2024-09-23,Same Day,"Impulse Item, Accessory",117.85
+15386,29,Male,No,Laptop,LTP123,2,Completed,Credit Card,5394.56,674.32,8,2024-09-17,Same Day,"Impulse Item, Impulse Item",169.11
+15391,40,Male,Yes,Smartphone,SMP234,4,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-13,Same Day,"Accessory, Accessory, Extended Warranty",133.17
+15394,40,Male,No,Smartphone,SMP234,3,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-21,Expedited,,0.0
+15399,61,Male,No,Smartphone,SMP234,3,Completed,PayPal,11396.8,1139.68,10,2024-09-10,Expedited,"Impulse Item, Impulse Item, Extended Warranty",149.02
+15410,67,Male,Yes,Smartphone,SMP234,3,Completed,Credit Card,1139.68,1139.68,1,2024-09-07,Expedited,Extended Warranty,46.46
+15417,22,Male,No,Smartphone,SMP234,1,Completed,Bank Transfer,9117.44,1139.68,8,2024-09-03,Same Day,"Impulse Item, Accessory",119.08
+15459,74,Female,No,Headphones,HDP456,5,Cancelled,Credit Card,361.18,361.18,1,2024-09-15,Same Day,,0.0
+15462,75,Female,Yes,Headphones,HDP456,2,Cancelled,Bank Transfer,1083.54,361.18,3,2024-09-13,Expedited,"Impulse Item, Extended Warranty, Accessory",193.04
+15476,48,Female,No,Smartwatch,SWT567,4,Completed,PayPal,3676.0,459.5,8,2024-09-15,Expedited,Impulse Item,67.06
+15480,31,Male,No,Smartphone,SMP234,1,Completed,PayPal,1139.68,1139.68,1,2024-09-22,Same Day,"Impulse Item, Accessory",146.56
+15485,70,Female,Yes,Tablet,TBL345,1,Completed,Credit Card,786.41,786.41,1,2024-09-10,Same Day,Impulse Item,77.51
+15489,58,Male,No,Laptop,LTP123,5,Completed,Credit Card,2022.96,674.32,3,2024-09-20,Expedited,,0.0
+15491,66,Female,Yes,Smartwatch,SWT567,5,Cancelled,PayPal,1378.5,459.5,3,2024-09-22,Expedited,"Extended Warranty, Extended Warranty, Accessory",107.98
+15509,46,Female,No,Tablet,TBL345,5,Completed,PayPal,6291.28,786.41,8,2024-09-07,Expedited,"Accessory, Accessory",46.62
+15518,53,Female,Yes,Smartwatch,SWT567,3,Cancelled,Credit Card,4595.0,459.5,10,2024-09-13,Standard,"Impulse Item, Extended Warranty, Extended Warranty",68.65
+15538,79,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,3145.64,786.41,4,2024-09-02,Standard,"Accessory, Accessory",81.19
+15540,66,Female,Yes,Smartwatch,SWT567,3,Cancelled,PayPal,1378.5,459.5,3,2024-09-16,Standard,"Accessory, Extended Warranty, Impulse Item",84.88
+15542,63,Male,No,Laptop,LTP123,3,Cancelled,Credit Card,4720.24,674.32,7,2024-09-04,Same Day,Accessory,64.66
+15549,42,Male,No,Smartwatch,SWT567,1,Cancelled,Credit Card,1378.5,459.5,3,2024-09-10,Expedited,"Extended Warranty, Accessory",167.09
+15557,43,Female,No,Smartwatch,SWT567,1,Completed,Bank Transfer,4135.5,459.5,9,2024-09-06,Standard,,0.0
+15558,34,Male,No,Smartwatch,SWT567,3,Completed,Credit Card,1838.0,459.5,4,2024-09-06,Standard,,0.0
+15577,57,Male,No,Tablet,TBL345,5,Cancelled,Bank Transfer,786.41,786.41,1,2024-09-03,Standard,"Accessory, Impulse Item, Extended Warranty",203.56
+15599,65,Male,No,Smartphone,SMP234,3,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-16,Expedited,,0.0
+15609,68,Male,Yes,Smartwatch,SWT567,4,Completed,Bank Transfer,459.5,459.5,1,2024-09-17,Expedited,"Accessory, Accessory, Impulse Item",162.62
+15610,70,Male,No,Headphones,HDP456,4,Cancelled,Bank Transfer,2167.08,361.18,6,2024-09-06,Same Day,"Accessory, Extended Warranty",153.81
+15610,70,Male,No,Headphones,HDP456,3,Completed,Bank Transfer,722.36,361.18,2,2024-09-15,Same Day,"Extended Warranty, Extended Warranty, Extended Warranty",162.09
+15634,39,Female,Yes,Headphones,HDP456,1,Completed,Bank Transfer,1805.9,361.18,5,2024-09-17,Expedited,,0.0
+15637,58,Female,No,Laptop,LTP123,4,Cancelled,PayPal,1348.64,674.32,2,2024-09-04,Same Day,"Extended Warranty, Extended Warranty, Extended Warranty",250.39
+15639,18,Male,No,Smartphone,SMP234,3,Completed,PayPal,10257.12,1139.68,9,2024-09-23,Standard,,0.0
+15641,27,Male,Yes,Laptop,LTP123,3,Cancelled,Bank Transfer,2697.28,674.32,4,2024-09-10,Expedited,Impulse Item,89.95
+15656,18,Female,No,Smartphone,SMP234,3,Completed,Credit Card,3419.04,1139.68,3,2024-09-13,Expedited,"Impulse Item, Accessory, Accessory",236.02
+15656,18,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,3932.05,786.41,5,2024-09-18,Expedited,Extended Warranty,10.46
+15672,79,Male,No,Smartwatch,SWT567,4,Completed,Bank Transfer,1838.0,459.5,4,2024-09-02,Same Day,"Impulse Item, Impulse Item",154.8
+15679,63,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,4135.5,459.5,9,2024-09-09,Standard,"Impulse Item, Impulse Item",155.02
+15682,41,Female,No,Headphones,HDP456,4,Completed,Bank Transfer,1805.9,361.18,5,2024-09-05,Standard,"Extended Warranty, Accessory",129.88
+15695,41,Female,Yes,Smartwatch,SWT567,5,Cancelled,Bank Transfer,3676.0,459.5,8,2024-09-03,Standard,"Impulse Item, Accessory, Impulse Item",175.2
+15738,55,Male,Yes,Laptop,LTP123,5,Cancelled,PayPal,1348.64,674.32,2,2024-09-01,Standard,"Accessory, Accessory, Accessory",99.55
+15748,79,Female,No,Tablet,TBL345,2,Cancelled,Credit Card,4718.46,786.41,6,2024-09-17,Expedited,"Extended Warranty, Accessory, Impulse Item",164.15
+15759,39,Female,No,Smartwatch,SWT567,3,Completed,Credit Card,1378.5,459.5,3,2024-09-02,Expedited,,0.0
+15776,60,Male,No,Headphones,HDP456,2,Completed,Credit Card,722.36,361.18,2,2024-09-17,Expedited,,0.0
+15779,58,Male,No,Tablet,TBL345,3,Completed,Credit Card,3145.64,786.41,4,2024-09-21,Same Day,Impulse Item,63.02
+15808,49,Female,No,Laptop,LTP123,3,Cancelled,Bank Transfer,6068.88,674.32,9,2024-09-05,Standard,Accessory,30.15
+15810,53,Male,Yes,Headphones,HDP456,1,Completed,PayPal,2889.44,361.18,8,2024-09-06,Expedited,"Extended Warranty, Accessory",154.42
+15812,25,Male,No,Smartwatch,SWT567,5,Completed,Bank Transfer,1838.0,459.5,4,2024-09-02,Standard,"Extended Warranty, Extended Warranty",47.47
+15875,76,Male,No,Headphones,HDP456,3,Completed,Bank Transfer,1083.54,361.18,3,2024-09-06,Same Day,"Accessory, Extended Warranty, Accessory",153.45
+15878,39,Male,No,Smartphone,SMP234,3,Completed,Bank Transfer,9117.44,1139.68,8,2024-09-17,Standard,,0.0
+15879,21,Female,Yes,Smartwatch,SWT567,2,Completed,Bank Transfer,1838.0,459.5,4,2024-09-18,Standard,"Extended Warranty, Extended Warranty, Impulse Item",163.62
+15889,75,Female,No,Smartphone,SMP234,5,Cancelled,PayPal,7977.76,1139.68,7,2024-09-08,Expedited,"Extended Warranty, Impulse Item",93.77
+15902,73,Male,Yes,Headphones,HDP456,2,Cancelled,PayPal,2889.44,361.18,8,2024-09-02,Expedited,Accessory,76.78
+15935,78,Female,No,Tablet,TBL345,4,Completed,Credit Card,5504.87,786.41,7,2024-09-02,Expedited,"Accessory, Accessory, Accessory",47.16
+15941,68,Male,No,Headphones,HDP456,5,Completed,Credit Card,361.18,361.18,1,2024-09-21,Standard,"Accessory, Extended Warranty, Extended Warranty",166.01
+15944,56,Female,Yes,Tablet,TBL345,5,Completed,Credit Card,2359.23,786.41,3,2024-09-10,Same Day,Extended Warranty,16.3
+15982,79,Male,No,Headphones,HDP456,5,Completed,Credit Card,722.36,361.18,2,2024-09-16,Same Day,"Impulse Item, Accessory",105.84
+15996,42,Male,No,Tablet,TBL345,2,Completed,Bank Transfer,3932.05,786.41,5,2024-09-03,Same Day,"Extended Warranty, Accessory, Extended Warranty",90.91
+16018,68,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,459.5,459.5,1,2024-09-15,Same Day,Accessory,37.33
+16020,51,Male,Yes,Tablet,TBL345,3,Completed,Credit Card,7077.69,786.41,9,2024-09-20,Same Day,"Accessory, Extended Warranty, Accessory",58.77
+16036,43,Female,Yes,Smartwatch,SWT567,4,Completed,Bank Transfer,459.5,459.5,1,2024-09-18,Expedited,"Impulse Item, Extended Warranty",89.07
+16068,19,Male,Yes,Smartwatch,SWT567,3,Completed,Credit Card,919.0,459.5,2,2024-09-02,Same Day,"Impulse Item, Impulse Item, Accessory",221.0
+16070,71,Male,Yes,Smartwatch,SWT567,2,Completed,PayPal,1378.5,459.5,3,2024-09-02,Standard,,0.0
+16077,53,Female,Yes,Headphones,HDP456,1,Completed,Credit Card,2167.08,361.18,6,2024-09-04,Expedited,,0.0
+16095,35,Female,Yes,Laptop,LTP123,2,Completed,Credit Card,674.32,674.32,1,2024-09-02,Standard,Impulse Item,86.26
+16105,37,Male,Yes,Headphones,HDP456,1,Cancelled,PayPal,2889.44,361.18,8,2024-09-20,Expedited,Accessory,37.0
+16130,38,Female,Yes,Smartphone,SMP234,5,Cancelled,Bank Transfer,5698.4,1139.68,5,2024-09-19,Standard,,0.0
+16132,66,Male,No,Tablet,TBL345,2,Completed,Credit Card,2359.23,786.41,3,2024-09-13,Expedited,Accessory,21.62
+16139,58,Female,No,Smartphone,SMP234,5,Cancelled,Bank Transfer,1139.68,1139.68,1,2024-09-20,Expedited,"Impulse Item, Impulse Item, Accessory",196.72
+16179,40,Female,No,Headphones,HDP456,2,Completed,Credit Card,3250.62,361.18,9,2024-09-16,Same Day,,0.0
+16179,40,Female,Yes,Laptop,LTP123,2,Completed,Credit Card,1348.64,674.32,2,2024-09-18,Standard,,0.0
+16187,27,Female,No,Tablet,TBL345,3,Cancelled,Bank Transfer,4718.46,786.41,6,2024-09-03,Same Day,"Extended Warranty, Impulse Item",96.96
+16194,76,Female,Yes,Smartphone,SMP234,4,Completed,PayPal,3419.04,1139.68,3,2024-09-03,Same Day,Extended Warranty,62.1
+16200,43,Male,No,Laptop,LTP123,4,Cancelled,Credit Card,2697.28,674.32,4,2024-09-05,Expedited,"Extended Warranty, Extended Warranty, Impulse Item",128.26
+16201,51,Male,Yes,Smartphone,SMP234,5,Cancelled,PayPal,7977.76,1139.68,7,2024-09-02,Same Day,"Extended Warranty, Extended Warranty",123.53
+16207,45,Female,No,Smartphone,SMP234,4,Completed,PayPal,5698.4,1139.68,5,2024-09-16,Same Day,"Extended Warranty, Impulse Item, Extended Warranty",214.46
+16211,80,Male,Yes,Tablet,TBL345,1,Completed,Bank Transfer,3932.05,786.41,5,2024-09-01,Standard,"Impulse Item, Accessory",93.85
+16216,50,Female,No,Smartwatch,SWT567,1,Cancelled,Credit Card,2297.5,459.5,5,2024-09-21,Standard,Accessory,79.89
+16278,19,Female,No,Tablet,TBL345,1,Completed,Credit Card,3145.64,786.41,4,2024-09-02,Standard,Accessory,67.88
+16283,43,Female,No,Headphones,HDP456,4,Completed,PayPal,2167.08,361.18,6,2024-09-02,Expedited,,0.0
+16284,70,Male,No,Smartphone,SMP234,2,Completed,Credit Card,7977.76,1139.68,7,2024-09-14,Same Day,Impulse Item,99.69
+16285,32,Female,Yes,Tablet,TBL345,1,Completed,PayPal,6291.28,786.41,8,2024-09-13,Same Day,"Extended Warranty, Accessory, Impulse Item",200.79
+16294,66,Female,No,Laptop,LTP123,4,Completed,PayPal,2022.96,674.32,3,2024-09-07,Expedited,"Accessory, Impulse Item, Accessory",81.77
+16315,18,Female,No,Laptop,LTP123,5,Cancelled,Credit Card,1348.64,674.32,2,2024-09-10,Standard,,0.0
+16331,43,Female,No,Tablet,TBL345,2,Completed,Credit Card,7077.69,786.41,9,2024-09-16,Expedited,"Impulse Item, Accessory, Extended Warranty",171.95
+16344,50,Male,No,Laptop,LTP123,5,Cancelled,PayPal,4045.92,674.32,6,2024-09-16,Standard,Extended Warranty,37.82
+16376,25,Male,No,Laptop,LTP123,3,Completed,Credit Card,6068.88,674.32,9,2024-09-04,Standard,Extended Warranty,26.68
+16381,68,Male,No,Tablet,TBL345,5,Completed,Bank Transfer,3932.05,786.41,5,2024-09-04,Standard,,0.0
+16382,75,Male,No,Smartwatch,SWT567,2,Cancelled,PayPal,4135.5,459.5,9,2024-09-16,Expedited,,0.0
+16386,31,Female,No,Laptop,LTP123,1,Completed,PayPal,6068.88,674.32,9,2024-09-03,Expedited,"Impulse Item, Extended Warranty, Impulse Item",165.7
+16405,65,Female,Yes,Headphones,HDP456,3,Cancelled,PayPal,722.36,361.18,2,2024-09-23,Standard,"Impulse Item, Accessory",172.77
+16414,37,Male,No,Smartwatch,SWT567,5,Cancelled,PayPal,919.0,459.5,2,2024-09-15,Same Day,"Extended Warranty, Accessory",67.82
+16418,76,Male,No,Tablet,TBL345,1,Cancelled,Bank Transfer,7077.69,786.41,9,2024-09-23,Same Day,Extended Warranty,66.74
+16450,26,Female,Yes,Smartwatch,SWT567,2,Cancelled,Bank Transfer,919.0,459.5,2,2024-09-03,Same Day,"Accessory, Impulse Item",182.54
+16452,41,Female,No,Laptop,LTP123,4,Completed,Credit Card,2697.28,674.32,4,2024-09-13,Same Day,Extended Warranty,66.51
+16454,63,Female,No,Headphones,HDP456,2,Cancelled,Bank Transfer,1805.9,361.18,5,2024-09-06,Expedited,,0.0
+16462,36,Female,No,Smartwatch,SWT567,5,Completed,Credit Card,3216.5,459.5,7,2024-09-14,Standard,"Impulse Item, Extended Warranty, Accessory",173.87
+16509,53,Male,No,Laptop,LTP123,1,Completed,Credit Card,5394.56,674.32,8,2024-09-21,Expedited,Accessory,82.49
+16513,75,Female,No,Smartphone,SMP234,4,Cancelled,PayPal,5698.4,1139.68,5,2024-09-22,Same Day,"Accessory, Impulse Item",94.8
+16522,36,Male,No,Smartphone,SMP234,5,Cancelled,PayPal,11396.8,1139.68,10,2024-09-03,Same Day,,0.0
+16532,45,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,1378.5,459.5,3,2024-09-03,Same Day,,0.0
+16553,56,Female,No,Headphones,HDP456,2,Cancelled,Bank Transfer,2528.26,361.18,7,2024-09-06,Standard,Impulse Item,18.45
+16556,50,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,4558.72,1139.68,4,2024-09-01,Expedited,"Accessory, Extended Warranty, Extended Warranty",118.05
+16574,32,Female,Yes,Headphones,HDP456,4,Completed,PayPal,2167.08,361.18,6,2024-09-08,Same Day,"Extended Warranty, Impulse Item",125.14
+16609,65,Male,Yes,Tablet,TBL345,4,Completed,Bank Transfer,3145.64,786.41,4,2024-09-09,Same Day,"Impulse Item, Accessory",82.9
+16611,28,Male,No,Laptop,LTP123,4,Cancelled,Bank Transfer,4045.92,674.32,6,2024-09-01,Same Day,"Accessory, Extended Warranty",126.87
+16616,53,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,1838.0,459.5,4,2024-09-04,Expedited,,0.0
+16628,72,Male,No,Headphones,HDP456,1,Cancelled,PayPal,1444.72,361.18,4,2024-09-19,Standard,"Accessory, Extended Warranty",75.09
+16629,63,Male,Yes,Tablet,TBL345,3,Completed,PayPal,786.41,786.41,1,2024-09-12,Expedited,"Impulse Item, Accessory, Extended Warranty",217.86
+16629,63,Male,Yes,Smartwatch,SWT567,5,Cancelled,Credit Card,3216.5,459.5,7,2024-09-15,Same Day,"Extended Warranty, Impulse Item, Accessory",134.37
+16646,66,Male,No,Headphones,HDP456,2,Completed,Credit Card,361.18,361.18,1,2024-09-09,Standard,"Extended Warranty, Accessory",128.42
+16655,26,Female,No,Laptop,LTP123,2,Completed,Credit Card,2697.28,674.32,4,2024-09-07,Same Day,"Accessory, Impulse Item",127.87
+16667,54,Male,No,Smartwatch,SWT567,1,Cancelled,PayPal,4595.0,459.5,10,2024-09-02,Standard,Accessory,76.33
+16707,22,Male,Yes,Tablet,TBL345,4,Completed,PayPal,786.41,786.41,1,2024-09-12,Expedited,"Accessory, Accessory",108.66
+16708,71,Female,No,Smartwatch,SWT567,2,Completed,PayPal,2297.5,459.5,5,2024-09-11,Standard,"Impulse Item, Accessory",187.66
+16729,55,Male,No,Smartphone,SMP234,1,Cancelled,Bank Transfer,2279.36,1139.68,2,2024-09-15,Expedited,"Extended Warranty, Accessory, Accessory",147.28
+16731,53,Female,Yes,Laptop,LTP123,3,Cancelled,Credit Card,2022.96,674.32,3,2024-09-23,Expedited,,0.0
+16769,77,Female,No,Laptop,LTP123,5,Completed,Credit Card,4720.24,674.32,7,2024-09-03,Same Day,"Accessory, Impulse Item, Extended Warranty",113.68
+16788,80,Male,No,Smartwatch,SWT567,1,Completed,Bank Transfer,1378.5,459.5,3,2024-09-04,Standard,"Impulse Item, Impulse Item, Impulse Item",116.53
+16798,47,Male,Yes,Tablet,TBL345,5,Completed,Bank Transfer,7864.1,786.41,10,2024-09-09,Standard,"Impulse Item, Extended Warranty",159.61
+16805,73,Female,No,Smartphone,SMP234,1,Completed,Bank Transfer,11396.8,1139.68,10,2024-09-16,Same Day,"Accessory, Accessory",108.01
+16823,40,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,4720.24,674.32,7,2024-09-09,Standard,"Extended Warranty, Accessory",61.1
+16825,75,Male,No,Laptop,LTP123,1,Cancelled,Credit Card,2022.96,674.32,3,2024-09-14,Standard,,0.0
+16836,30,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,3371.6,674.32,5,2024-09-17,Same Day,"Extended Warranty, Impulse Item",117.1
+16863,33,Male,No,Smartphone,SMP234,3,Cancelled,PayPal,9117.44,1139.68,8,2024-09-23,Same Day,"Impulse Item, Impulse Item, Impulse Item",205.48
+16864,29,Male,No,Laptop,LTP123,3,Completed,Bank Transfer,1348.64,674.32,2,2024-09-12,Standard,"Impulse Item, Impulse Item",104.56
+16881,50,Female,No,Tablet,TBL345,5,Completed,PayPal,1572.82,786.41,2,2024-09-15,Standard,"Accessory, Extended Warranty",162.74
+16885,79,Male,No,Smartphone,SMP234,1,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-23,Expedited,Impulse Item,35.93
+16896,79,Male,No,Laptop,LTP123,2,Completed,Bank Transfer,6068.88,674.32,9,2024-09-07,Standard,"Impulse Item, Extended Warranty",132.41
+16903,74,Female,No,Headphones,HDP456,4,Completed,PayPal,2528.26,361.18,7,2024-09-07,Same Day,"Impulse Item, Impulse Item",154.2
+16911,74,Female,No,Smartwatch,SWT567,5,Completed,Bank Transfer,1378.5,459.5,3,2024-09-21,Same Day,"Accessory, Extended Warranty",107.03
+16917,20,Female,No,Headphones,HDP456,2,Cancelled,Credit Card,2528.26,361.18,7,2024-09-10,Same Day,"Accessory, Extended Warranty, Impulse Item",125.32
+16924,45,Male,No,Smartwatch,SWT567,2,Completed,Credit Card,1838.0,459.5,4,2024-09-04,Same Day,,0.0
+16926,53,Male,No,Smartphone,SMP234,1,Cancelled,PayPal,6838.08,1139.68,6,2024-09-07,Standard,"Accessory, Impulse Item, Extended Warranty",171.73
+16929,45,Female,No,Headphones,HDP456,3,Completed,PayPal,2528.26,361.18,7,2024-09-16,Standard,Accessory,29.27
+16970,23,Female,No,Tablet,TBL345,2,Completed,PayPal,2359.23,786.41,3,2024-09-21,Same Day,"Extended Warranty, Impulse Item, Extended Warranty",142.42
+16982,25,Female,No,Tablet,TBL345,5,Cancelled,Credit Card,4718.46,786.41,6,2024-09-02,Same Day,Extended Warranty,62.51
+16990,23,Female,No,Laptop,LTP123,5,Cancelled,PayPal,6743.2,674.32,10,2024-09-22,Standard,,0.0
+16995,70,Male,No,Headphones,HDP456,1,Cancelled,PayPal,1083.54,361.18,3,2024-09-13,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",151.58
+17058,41,Female,No,Smartwatch,SWT567,5,Completed,Credit Card,4135.5,459.5,9,2024-09-14,Same Day,Extended Warranty,66.42
+17091,71,Female,Yes,Headphones,HDP456,1,Completed,Bank Transfer,1444.72,361.18,4,2024-09-21,Standard,,0.0
+17096,68,Male,No,Headphones,HDP456,3,Completed,Credit Card,3611.8,361.18,10,2024-09-06,Same Day,Impulse Item,87.02
+17096,68,Male,No,Smartphone,SMP234,1,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-07,Standard,"Accessory, Extended Warranty, Impulse Item",91.24
+17100,51,Male,No,Smartphone,SMP234,4,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-05,Same Day,,0.0
+17113,51,Male,No,Smartphone,SMP234,3,Cancelled,Credit Card,7977.76,1139.68,7,2024-09-10,Standard,"Accessory, Accessory",111.79
+17117,39,Male,Yes,Tablet,TBL345,1,Completed,Credit Card,786.41,786.41,1,2024-09-08,Same Day,"Impulse Item, Impulse Item, Accessory",210.52
+17128,34,Female,No,Laptop,LTP123,4,Cancelled,Credit Card,5394.56,674.32,8,2024-09-23,Standard,"Impulse Item, Accessory",34.07
+17141,53,Male,No,Laptop,LTP123,2,Completed,Bank Transfer,6068.88,674.32,9,2024-09-18,Same Day,"Accessory, Accessory, Extended Warranty",251.53
+17169,21,Female,No,Headphones,HDP456,4,Completed,PayPal,2167.08,361.18,6,2024-09-03,Same Day,"Extended Warranty, Accessory",114.19
+17174,67,Female,Yes,Tablet,TBL345,4,Completed,PayPal,6291.28,786.41,8,2024-09-19,Standard,"Accessory, Accessory, Impulse Item",90.55
+17186,47,Female,Yes,Headphones,HDP456,5,Cancelled,Bank Transfer,1444.72,361.18,4,2024-09-09,Expedited,Accessory,59.2
+17192,69,Female,No,Tablet,TBL345,2,Completed,Bank Transfer,1572.82,786.41,2,2024-09-15,Standard,"Impulse Item, Impulse Item, Impulse Item",109.03
+17192,69,Female,Yes,Headphones,HDP456,1,Completed,Credit Card,3611.8,361.18,10,2024-09-22,Expedited,Impulse Item,15.89
+17198,53,Female,No,Smartphone,SMP234,1,Completed,PayPal,2279.36,1139.68,2,2024-09-15,Expedited,"Accessory, Extended Warranty, Impulse Item",86.62
+17211,41,Female,No,Laptop,LTP123,3,Completed,PayPal,6068.88,674.32,9,2024-09-23,Expedited,"Accessory, Impulse Item, Impulse Item",204.37
+17232,39,Female,No,Laptop,LTP123,5,Completed,PayPal,3371.6,674.32,5,2024-09-08,Standard,Impulse Item,82.17
+17237,18,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,1838.0,459.5,4,2024-09-04,Same Day,"Accessory, Extended Warranty, Impulse Item",93.95
+17247,35,Female,No,Smartwatch,SWT567,3,Cancelled,Bank Transfer,459.5,459.5,1,2024-09-17,Expedited,"Extended Warranty, Extended Warranty, Impulse Item",134.52
+17250,78,Male,No,Tablet,TBL345,5,Cancelled,Bank Transfer,5504.87,786.41,7,2024-09-22,Expedited,,0.0
+17253,74,Female,Yes,Smartwatch,SWT567,1,Completed,PayPal,3216.5,459.5,7,2024-09-04,Same Day,"Accessory, Impulse Item, Extended Warranty",220.83
+17265,35,Female,No,Smartphone,SMP234,5,Cancelled,Bank Transfer,11396.8,1139.68,10,2024-09-01,Standard,"Impulse Item, Impulse Item, Impulse Item",218.26
+17266,73,Female,No,Smartwatch,SWT567,3,Cancelled,PayPal,3216.5,459.5,7,2024-09-07,Same Day,Extended Warranty,98.43
+17272,51,Male,No,Smartwatch,SWT567,5,Cancelled,PayPal,919.0,459.5,2,2024-09-18,Expedited,,0.0
+17285,21,Male,Yes,Headphones,HDP456,4,Completed,Credit Card,361.18,361.18,1,2024-09-17,Same Day,,0.0
+17302,68,Female,No,Tablet,TBL345,1,Completed,Credit Card,7864.1,786.41,10,2024-09-07,Expedited,"Impulse Item, Impulse Item",121.1
+17309,35,Female,No,Smartphone,SMP234,5,Completed,PayPal,3419.04,1139.68,3,2024-09-13,Expedited,,0.0
+17311,31,Male,No,Smartphone,SMP234,2,Cancelled,PayPal,11396.8,1139.68,10,2024-09-22,Expedited,"Impulse Item, Accessory, Accessory",170.62
+17314,77,Female,Yes,Headphones,HDP456,1,Completed,PayPal,2528.26,361.18,7,2024-09-19,Standard,"Impulse Item, Accessory, Impulse Item",157.49
+17317,44,Female,No,Tablet,TBL345,3,Completed,Credit Card,5504.87,786.41,7,2024-09-16,Standard,Accessory,13.43
+17330,34,Female,No,Headphones,HDP456,3,Cancelled,PayPal,361.18,361.18,1,2024-09-03,Standard,"Accessory, Impulse Item",63.74
+17343,23,Male,No,Tablet,TBL345,2,Completed,Credit Card,5504.87,786.41,7,2024-09-19,Same Day,"Impulse Item, Impulse Item",85.06
+17349,48,Female,No,Headphones,HDP456,3,Cancelled,PayPal,1805.9,361.18,5,2024-09-09,Expedited,"Impulse Item, Extended Warranty, Extended Warranty",159.6
+17365,34,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,6291.28,786.41,8,2024-09-13,Expedited,Impulse Item,54.29
+17367,23,Female,Yes,Tablet,TBL345,2,Completed,Credit Card,5504.87,786.41,7,2024-09-20,Standard,"Impulse Item, Accessory",102.33
+17403,39,Male,No,Smartphone,SMP234,1,Completed,PayPal,4558.72,1139.68,4,2024-09-01,Standard,"Impulse Item, Impulse Item, Impulse Item",233.35
+17418,69,Male,No,Smartphone,SMP234,1,Cancelled,Credit Card,10257.12,1139.68,9,2024-09-15,Expedited,"Impulse Item, Impulse Item",161.58
+17422,28,Male,No,Headphones,HDP456,2,Completed,PayPal,1805.9,361.18,5,2024-09-18,Standard,"Extended Warranty, Extended Warranty",78.81
+17460,62,Female,No,Tablet,TBL345,4,Cancelled,PayPal,7864.1,786.41,10,2024-09-08,Standard,,0.0
+17467,53,Female,No,Smartphone,SMP234,5,Cancelled,PayPal,5698.4,1139.68,5,2024-09-08,Standard,Accessory,34.19
+17481,37,Female,No,Smartwatch,SWT567,3,Completed,Credit Card,4135.5,459.5,9,2024-09-03,Expedited,"Accessory, Extended Warranty",80.65
+17482,71,Female,No,Tablet,TBL345,2,Cancelled,PayPal,7077.69,786.41,9,2024-09-12,Same Day,"Impulse Item, Extended Warranty, Accessory",123.06
+17536,29,Male,No,Smartphone,SMP234,3,Completed,Bank Transfer,9117.44,1139.68,8,2024-09-15,Expedited,"Impulse Item, Extended Warranty",165.13
+17539,44,Female,Yes,Smartphone,SMP234,5,Completed,Credit Card,10257.12,1139.68,9,2024-09-09,Expedited,"Extended Warranty, Accessory",158.54
+17561,41,Female,No,Smartphone,SMP234,4,Cancelled,PayPal,4558.72,1139.68,4,2024-09-07,Standard,Extended Warranty,65.19
+17569,53,Male,No,Smartphone,SMP234,4,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-16,Standard,,0.0
+17578,28,Male,No,Smartwatch,SWT567,5,Cancelled,Credit Card,4595.0,459.5,10,2024-09-15,Same Day,"Accessory, Accessory",129.9
+17586,42,Female,Yes,Tablet,TBL345,4,Cancelled,Bank Transfer,786.41,786.41,1,2024-09-09,Expedited,,0.0
+17591,50,Male,Yes,Tablet,TBL345,4,Cancelled,Credit Card,7864.1,786.41,10,2024-09-07,Standard,Impulse Item,95.94
+17596,79,Female,No,Smartphone,SMP234,4,Completed,Credit Card,9117.44,1139.68,8,2024-09-07,Same Day,"Accessory, Extended Warranty",188.42
+17615,52,Male,Yes,Tablet,TBL345,4,Completed,PayPal,7077.69,786.41,9,2024-09-17,Expedited,,0.0
+17616,40,Male,No,Smartwatch,SWT567,5,Completed,Credit Card,3216.5,459.5,7,2024-09-15,Expedited,"Accessory, Impulse Item, Extended Warranty",160.47
+17629,53,Female,No,Smartwatch,SWT567,1,Completed,Bank Transfer,4135.5,459.5,9,2024-09-15,Same Day,,0.0
+17641,21,Male,No,Laptop,LTP123,3,Completed,Bank Transfer,6068.88,674.32,9,2024-09-01,Expedited,"Accessory, Impulse Item, Accessory",182.16
+17647,68,Female,No,Smartphone,SMP234,3,Completed,Credit Card,7977.76,1139.68,7,2024-09-11,Expedited,Extended Warranty,93.14
+17658,79,Male,Yes,Headphones,HDP456,1,Completed,PayPal,1444.72,361.18,4,2024-09-14,Expedited,"Accessory, Impulse Item",70.02
+17677,76,Female,Yes,Smartphone,SMP234,4,Completed,Bank Transfer,4558.72,1139.68,4,2024-09-23,Standard,"Impulse Item, Impulse Item, Impulse Item",183.48
+17682,59,Male,No,Headphones,HDP456,5,Cancelled,Bank Transfer,3250.62,361.18,9,2024-09-21,Standard,,0.0
+17683,63,Female,No,Laptop,LTP123,4,Completed,Credit Card,3371.6,674.32,5,2024-09-03,Same Day,"Accessory, Extended Warranty, Extended Warranty",135.2
+17701,39,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-22,Expedited,"Accessory, Impulse Item",111.41
+17715,59,Female,No,Tablet,TBL345,4,Completed,Bank Transfer,1572.82,786.41,2,2024-09-02,Expedited,Impulse Item,37.33
+17717,19,Male,No,Headphones,HDP456,4,Cancelled,Credit Card,2889.44,361.18,8,2024-09-11,Expedited,"Impulse Item, Impulse Item, Impulse Item",141.93
+17729,19,Female,Yes,Headphones,HDP456,3,Completed,Bank Transfer,2889.44,361.18,8,2024-09-22,Standard,"Accessory, Impulse Item",143.36
+17730,68,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,4595.0,459.5,10,2024-09-03,Expedited,"Accessory, Extended Warranty, Accessory",106.18
+17731,55,Female,No,Headphones,HDP456,5,Cancelled,PayPal,2889.44,361.18,8,2024-09-04,Standard,,0.0
+17744,61,Male,Yes,Smartwatch,SWT567,2,Completed,Credit Card,1378.5,459.5,3,2024-09-05,Same Day,"Accessory, Impulse Item, Extended Warranty",175.79
+17778,63,Female,No,Smartwatch,SWT567,4,Completed,PayPal,2297.5,459.5,5,2024-09-20,Standard,Extended Warranty,92.81
+17780,32,Female,Yes,Smartphone,SMP234,4,Completed,Bank Transfer,9117.44,1139.68,8,2024-09-18,Standard,,0.0
+17783,31,Male,No,Laptop,LTP123,5,Cancelled,PayPal,3371.6,674.32,5,2024-09-07,Standard,,0.0
+17788,37,Female,No,Headphones,HDP456,2,Completed,Credit Card,3250.62,361.18,9,2024-09-09,Same Day,"Extended Warranty, Impulse Item, Extended Warranty",130.6
+17792,73,Female,No,Smartphone,SMP234,2,Completed,PayPal,5698.4,1139.68,5,2024-09-11,Same Day,Extended Warranty,35.32
+17798,51,Female,No,Smartwatch,SWT567,2,Completed,PayPal,459.5,459.5,1,2024-09-05,Standard,"Impulse Item, Impulse Item",52.65
+17802,38,Male,No,Headphones,HDP456,4,Cancelled,Credit Card,3611.8,361.18,10,2024-09-08,Standard,"Extended Warranty, Accessory",178.27
+17820,47,Male,Yes,Headphones,HDP456,3,Completed,Credit Card,1805.9,361.18,5,2024-09-07,Expedited,Impulse Item,67.09
+17843,25,Female,No,Smartphone,SMP234,3,Cancelled,Credit Card,7977.76,1139.68,7,2024-09-04,Expedited,"Impulse Item, Extended Warranty",110.47
+17862,57,Male,No,Headphones,HDP456,1,Cancelled,PayPal,361.18,361.18,1,2024-09-17,Standard,,0.0
+17883,18,Male,No,Headphones,HDP456,2,Completed,PayPal,2167.08,361.18,6,2024-09-18,Standard,,0.0
+17886,37,Male,No,Smartwatch,SWT567,2,Cancelled,Credit Card,459.5,459.5,1,2024-09-07,Same Day,"Accessory, Extended Warranty",70.65
+17888,77,Female,Yes,Laptop,LTP123,3,Completed,PayPal,3371.6,674.32,5,2024-09-09,Standard,"Impulse Item, Extended Warranty, Accessory",179.15
+17890,41,Male,No,Smartphone,SMP234,3,Completed,Credit Card,11396.8,1139.68,10,2024-09-04,Expedited,,0.0
+17897,59,Male,No,Headphones,HDP456,5,Completed,Credit Card,1083.54,361.18,3,2024-09-14,Expedited,"Impulse Item, Impulse Item",130.54
+17915,58,Female,No,Tablet,TBL345,5,Completed,Bank Transfer,2359.23,786.41,3,2024-09-18,Standard,"Extended Warranty, Extended Warranty, Impulse Item",119.1
+17922,29,Female,No,Smartphone,SMP234,2,Cancelled,PayPal,9117.44,1139.68,8,2024-09-07,Same Day,Extended Warranty,52.38
+17930,74,Male,No,Laptop,LTP123,3,Cancelled,PayPal,4045.92,674.32,6,2024-09-23,Same Day,,0.0
+17939,51,Male,No,Laptop,LTP123,2,Completed,PayPal,2022.96,674.32,3,2024-09-10,Expedited,"Impulse Item, Extended Warranty, Accessory",101.94
+17946,72,Male,No,Smartphone,SMP234,3,Completed,Bank Transfer,3419.04,1139.68,3,2024-09-11,Standard,,0.0
+17954,43,Male,Yes,Smartwatch,SWT567,4,Cancelled,Bank Transfer,2757.0,459.5,6,2024-09-07,Standard,Accessory,25.3
+17974,61,Female,No,Smartphone,SMP234,3,Completed,PayPal,1139.68,1139.68,1,2024-09-23,Expedited,,0.0
+17992,35,Female,No,Smartwatch,SWT567,4,Completed,Bank Transfer,919.0,459.5,2,2024-09-13,Standard,,0.0
+17992,35,Female,No,Headphones,HDP456,4,Completed,Credit Card,1083.54,361.18,3,2024-09-17,Same Day,"Extended Warranty, Accessory",175.9
+18004,58,Male,Yes,Tablet,TBL345,4,Completed,Bank Transfer,786.41,786.41,1,2024-09-15,Same Day,,0.0
+18014,28,Female,No,Smartphone,SMP234,5,Completed,Credit Card,4558.72,1139.68,4,2024-09-22,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",118.76
+18022,48,Male,No,Headphones,HDP456,2,Completed,PayPal,2528.26,361.18,7,2024-09-06,Standard,,0.0
+18022,48,Male,No,Headphones,HDP456,4,Completed,Bank Transfer,1083.54,361.18,3,2024-09-19,Expedited,,0.0
+18026,57,Female,Yes,Tablet,TBL345,4,Completed,PayPal,5504.87,786.41,7,2024-09-19,Expedited,,0.0
+18036,61,Female,Yes,Smartwatch,SWT567,1,Completed,Credit Card,1838.0,459.5,4,2024-09-17,Standard,Accessory,31.31
+18053,26,Female,No,Laptop,LTP123,4,Completed,Credit Card,2022.96,674.32,3,2024-09-15,Expedited,Impulse Item,46.52
+18062,29,Male,Yes,Smartwatch,SWT567,4,Completed,PayPal,4135.5,459.5,9,2024-09-15,Expedited,,0.0
+18070,70,Male,Yes,Laptop,LTP123,2,Cancelled,Bank Transfer,1348.64,674.32,2,2024-09-23,Same Day,,0.0
+18082,28,Female,No,Laptop,LTP123,5,Completed,Credit Card,6743.2,674.32,10,2024-09-13,Expedited,Impulse Item,42.75
+18084,78,Female,No,Headphones,HDP456,3,Cancelled,PayPal,1805.9,361.18,5,2024-09-13,Expedited,,0.0
+18103,38,Male,No,Tablet,TBL345,5,Completed,PayPal,6291.28,786.41,8,2024-09-07,Same Day,Impulse Item,58.26
+18114,56,Female,Yes,Smartwatch,SWT567,1,Completed,PayPal,1378.5,459.5,3,2024-09-12,Standard,Accessory,68.3
+18114,56,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,4135.5,459.5,9,2024-09-15,Expedited,Accessory,50.96
+18127,71,Female,No,Smartphone,SMP234,5,Completed,Credit Card,5698.4,1139.68,5,2024-09-19,Expedited,"Accessory, Impulse Item",120.0
+18141,23,Female,No,Laptop,LTP123,2,Completed,PayPal,3371.6,674.32,5,2024-09-07,Standard,Impulse Item,41.31
+18143,60,Female,No,Tablet,TBL345,4,Cancelled,Credit Card,4718.46,786.41,6,2024-09-17,Expedited,Impulse Item,19.5
+18149,68,Female,Yes,Tablet,TBL345,5,Cancelled,Bank Transfer,6291.28,786.41,8,2024-09-10,Standard,"Impulse Item, Extended Warranty, Impulse Item",197.92
+18156,62,Male,No,Tablet,TBL345,2,Completed,PayPal,7077.69,786.41,9,2024-09-17,Standard,,0.0
+18178,51,Male,No,Tablet,TBL345,2,Completed,Credit Card,5504.87,786.41,7,2024-09-16,Expedited,Accessory,99.1
+18181,66,Female,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,459.5,459.5,1,2024-09-02,Expedited,"Extended Warranty, Accessory, Extended Warranty",237.12
+18194,56,Male,No,Smartphone,SMP234,1,Completed,Credit Card,3419.04,1139.68,3,2024-09-05,Same Day,"Impulse Item, Extended Warranty",160.06
+18198,21,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-06,Expedited,"Impulse Item, Extended Warranty, Impulse Item",241.35
+18200,31,Male,No,Headphones,HDP456,3,Cancelled,Credit Card,722.36,361.18,2,2024-09-23,Expedited,"Impulse Item, Impulse Item",141.66
+18221,19,Male,No,Tablet,TBL345,3,Cancelled,PayPal,3145.64,786.41,4,2024-09-11,Expedited,"Impulse Item, Extended Warranty, Extended Warranty",203.34
+18226,34,Male,No,Headphones,HDP456,2,Completed,Bank Transfer,1805.9,361.18,5,2024-09-08,Same Day,Impulse Item,44.7
+18243,69,Male,No,Smartphone,SMP234,2,Completed,Bank Transfer,9117.44,1139.68,8,2024-09-02,Same Day,"Accessory, Impulse Item, Accessory",123.1
+18262,66,Male,No,Smartwatch,SWT567,3,Completed,Credit Card,1838.0,459.5,4,2024-09-10,Same Day,Extended Warranty,17.26
+18266,26,Female,Yes,Laptop,LTP123,1,Completed,PayPal,3371.6,674.32,5,2024-09-21,Expedited,,0.0
+18277,29,Male,No,Smartphone,SMP234,4,Cancelled,Bank Transfer,10257.12,1139.68,9,2024-09-15,Standard,"Extended Warranty, Impulse Item, Extended Warranty",120.95
+18283,22,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,786.41,786.41,1,2024-09-01,Same Day,"Impulse Item, Accessory, Impulse Item",129.6
+18285,43,Male,No,Headphones,HDP456,5,Cancelled,Credit Card,361.18,361.18,1,2024-09-16,Same Day,"Impulse Item, Extended Warranty, Accessory",126.31
+18304,33,Female,No,Headphones,HDP456,5,Completed,Bank Transfer,3250.62,361.18,9,2024-09-16,Same Day,"Impulse Item, Accessory, Impulse Item",231.68
+18306,50,Female,No,Laptop,LTP123,3,Cancelled,Bank Transfer,6743.2,674.32,10,2024-09-14,Standard,"Extended Warranty, Impulse Item, Accessory",213.63
+18312,18,Female,No,Headphones,HDP456,2,Cancelled,Credit Card,361.18,361.18,1,2024-09-05,Same Day,"Impulse Item, Extended Warranty",135.83
+18319,34,Male,No,Laptop,LTP123,5,Completed,Bank Transfer,6743.2,674.32,10,2024-09-14,Expedited,"Extended Warranty, Impulse Item, Impulse Item",106.34
+18324,29,Female,Yes,Headphones,HDP456,4,Completed,Bank Transfer,361.18,361.18,1,2024-09-01,Same Day,"Extended Warranty, Impulse Item, Impulse Item",196.23
+18324,29,Female,No,Laptop,LTP123,2,Completed,Credit Card,6068.88,674.32,9,2024-09-05,Standard,Extended Warranty,57.97
+18329,26,Female,No,Laptop,LTP123,2,Completed,Bank Transfer,2697.28,674.32,4,2024-09-12,Same Day,"Impulse Item, Impulse Item",163.94
+18352,78,Male,No,Smartphone,SMP234,5,Completed,PayPal,2279.36,1139.68,2,2024-09-23,Standard,"Extended Warranty, Accessory, Accessory",152.95
+18373,76,Male,No,Tablet,TBL345,4,Cancelled,Bank Transfer,7077.69,786.41,9,2024-09-17,Standard,"Extended Warranty, Extended Warranty, Impulse Item",186.0
+18384,42,Male,Yes,Smartphone,SMP234,5,Completed,PayPal,5698.4,1139.68,5,2024-09-01,Expedited,,0.0
+18384,42,Male,No,Tablet,TBL345,4,Completed,PayPal,5504.87,786.41,7,2024-09-05,Standard,"Impulse Item, Extended Warranty, Impulse Item",105.13
+18386,69,Female,No,Smartwatch,SWT567,4,Completed,PayPal,1378.5,459.5,3,2024-09-07,Same Day,Accessory,14.21
+18398,26,Female,No,Headphones,HDP456,4,Completed,PayPal,2889.44,361.18,8,2024-09-21,Same Day,"Extended Warranty, Extended Warranty",127.39
+18403,54,Female,No,Smartwatch,SWT567,2,Completed,Credit Card,2757.0,459.5,6,2024-09-19,Standard,,0.0
+18407,20,Female,No,Tablet,TBL345,1,Completed,Credit Card,3932.05,786.41,5,2024-09-02,Same Day,"Accessory, Extended Warranty",58.68
+18407,20,Female,No,Smartphone,SMP234,4,Completed,Bank Transfer,7977.76,1139.68,7,2024-09-09,Standard,"Impulse Item, Extended Warranty, Impulse Item",245.34
+18426,32,Male,No,Headphones,HDP456,2,Completed,Credit Card,3250.62,361.18,9,2024-09-08,Same Day,,0.0
+18449,33,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,459.5,459.5,1,2024-09-14,Expedited,"Accessory, Accessory, Accessory",156.32
+18490,48,Female,No,Headphones,HDP456,3,Cancelled,Credit Card,1083.54,361.18,3,2024-09-19,Same Day,"Accessory, Accessory",83.67
+18501,66,Female,No,Smartphone,SMP234,5,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-16,Same Day,"Accessory, Impulse Item, Extended Warranty",110.26
+18513,24,Female,No,Tablet,TBL345,5,Cancelled,PayPal,3932.05,786.41,5,2024-09-13,Expedited,"Impulse Item, Accessory",169.91
+18548,61,Female,No,Smartphone,SMP234,4,Completed,Credit Card,11396.8,1139.68,10,2024-09-02,Same Day,"Extended Warranty, Accessory, Extended Warranty",218.57
+18557,28,Female,Yes,Smartphone,SMP234,5,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-15,Standard,Extended Warranty,26.4
+18594,63,Male,No,Headphones,HDP456,5,Cancelled,Credit Card,3611.8,361.18,10,2024-09-17,Same Day,"Impulse Item, Accessory, Impulse Item",198.16
+18629,80,Male,No,Tablet,TBL345,3,Completed,Credit Card,3932.05,786.41,5,2024-09-12,Standard,Accessory,81.17
+18635,80,Male,No,Smartphone,SMP234,2,Completed,Bank Transfer,3419.04,1139.68,3,2024-09-02,Standard,,0.0
+18653,57,Male,No,Smartphone,SMP234,1,Completed,Credit Card,1139.68,1139.68,1,2024-09-13,Same Day,Accessory,26.55
+18658,34,Male,No,Tablet,TBL345,2,Cancelled,Bank Transfer,6291.28,786.41,8,2024-09-10,Standard,Extended Warranty,60.19
+18662,43,Male,No,Smartwatch,SWT567,2,Cancelled,Bank Transfer,3676.0,459.5,8,2024-09-22,Expedited,Extended Warranty,93.61
+18664,54,Male,No,Laptop,LTP123,2,Cancelled,Credit Card,2022.96,674.32,3,2024-09-08,Same Day,"Accessory, Impulse Item",91.92
+18679,43,Female,No,Headphones,HDP456,1,Completed,PayPal,2889.44,361.18,8,2024-09-20,Standard,"Extended Warranty, Impulse Item",94.15
+18681,39,Male,Yes,Laptop,LTP123,1,Completed,Credit Card,6068.88,674.32,9,2024-09-07,Expedited,Impulse Item,38.76
+18690,73,Female,No,Laptop,LTP123,5,Cancelled,Credit Card,4045.92,674.32,6,2024-09-22,Same Day,"Impulse Item, Extended Warranty",89.01
+18703,55,Male,No,Headphones,HDP456,1,Completed,PayPal,2889.44,361.18,8,2024-09-18,Same Day,"Extended Warranty, Extended Warranty",151.91
+18715,20,Male,No,Smartwatch,SWT567,5,Cancelled,Bank Transfer,3676.0,459.5,8,2024-09-18,Expedited,"Impulse Item, Extended Warranty, Impulse Item",126.98
+18735,35,Female,Yes,Headphones,HDP456,4,Completed,Bank Transfer,2528.26,361.18,7,2024-09-07,Expedited,Impulse Item,17.28
+18735,35,Female,No,Smartwatch,SWT567,1,Completed,Bank Transfer,919.0,459.5,2,2024-09-16,Standard,"Accessory, Accessory",83.28
+18767,54,Female,No,Tablet,TBL345,2,Cancelled,Credit Card,7077.69,786.41,9,2024-09-17,Standard,"Extended Warranty, Extended Warranty",86.66
+18774,53,Female,No,Headphones,HDP456,1,Completed,Credit Card,2167.08,361.18,6,2024-09-14,Expedited,,0.0
+18783,34,Male,No,Headphones,HDP456,4,Completed,Bank Transfer,2528.26,361.18,7,2024-09-20,Standard,"Accessory, Impulse Item",124.79
+18784,63,Female,No,Smartwatch,SWT567,4,Completed,PayPal,1838.0,459.5,4,2024-09-18,Standard,Extended Warranty,40.83
+18788,27,Male,No,Tablet,TBL345,4,Completed,PayPal,786.41,786.41,1,2024-09-09,Same Day,"Impulse Item, Extended Warranty, Accessory",134.66
+18788,27,Male,Yes,Smartphone,SMP234,5,Completed,Bank Transfer,1139.68,1139.68,1,2024-09-21,Same Day,"Impulse Item, Extended Warranty",145.15
+18794,43,Male,No,Smartphone,SMP234,1,Completed,PayPal,6838.08,1139.68,6,2024-09-04,Expedited,"Accessory, Extended Warranty",85.6
+18797,22,Female,No,Smartwatch,SWT567,4,Completed,Credit Card,4135.5,459.5,9,2024-09-20,Standard,"Impulse Item, Extended Warranty",68.18
+18801,72,Male,No,Laptop,LTP123,3,Completed,Bank Transfer,4720.24,674.32,7,2024-09-03,Standard,,0.0
+18808,71,Male,No,Smartwatch,SWT567,3,Completed,PayPal,1838.0,459.5,4,2024-09-13,Standard,Extended Warranty,16.51
+18819,20,Female,No,Headphones,HDP456,1,Completed,Bank Transfer,3250.62,361.18,9,2024-09-13,Expedited,"Accessory, Accessory",56.93
+18832,35,Male,No,Laptop,LTP123,5,Cancelled,Credit Card,2697.28,674.32,4,2024-09-17,Standard,"Impulse Item, Extended Warranty",141.44
+18833,53,Male,Yes,Headphones,HDP456,1,Completed,PayPal,722.36,361.18,2,2024-09-02,Expedited,"Impulse Item, Extended Warranty, Impulse Item",199.39
+18840,20,Male,Yes,Smartwatch,SWT567,5,Completed,Credit Card,1838.0,459.5,4,2024-09-14,Expedited,"Extended Warranty, Impulse Item",131.16
+18843,78,Male,No,Smartwatch,SWT567,1,Completed,Credit Card,919.0,459.5,2,2024-09-11,Same Day,"Extended Warranty, Impulse Item",137.3
+18858,34,Female,No,Smartwatch,SWT567,4,Completed,PayPal,1378.5,459.5,3,2024-09-08,Same Day,"Accessory, Impulse Item",171.35
+18867,45,Male,No,Tablet,TBL345,5,Completed,PayPal,3145.64,786.41,4,2024-09-15,Same Day,,0.0
+18871,33,Male,No,Headphones,HDP456,1,Completed,Bank Transfer,1805.9,361.18,5,2024-09-22,Expedited,"Accessory, Extended Warranty",31.88
+18877,19,Female,No,Smartphone,SMP234,4,Completed,Credit Card,2279.36,1139.68,2,2024-09-14,Standard,"Impulse Item, Accessory, Impulse Item",175.62
+18882,41,Female,No,Tablet,TBL345,1,Completed,PayPal,7864.1,786.41,10,2024-09-01,Expedited,"Impulse Item, Impulse Item, Accessory",180.18
+18883,53,Male,Yes,Smartwatch,SWT567,1,Cancelled,PayPal,2757.0,459.5,6,2024-09-22,Same Day,"Accessory, Impulse Item, Impulse Item",150.07
+18892,26,Male,No,Laptop,LTP123,2,Cancelled,Credit Card,674.32,674.32,1,2024-09-10,Same Day,Impulse Item,41.81
+18897,58,Male,Yes,Smartphone,SMP234,1,Completed,PayPal,6838.08,1139.68,6,2024-09-14,Expedited,"Impulse Item, Extended Warranty",164.38
+18909,69,Male,Yes,Headphones,HDP456,4,Cancelled,Credit Card,2528.26,361.18,7,2024-09-14,Expedited,,0.0
+18928,75,Female,No,Smartwatch,SWT567,5,Completed,Credit Card,2757.0,459.5,6,2024-09-07,Same Day,"Accessory, Extended Warranty",149.08
+18939,69,Male,No,Tablet,TBL345,3,Completed,Credit Card,7864.1,786.41,10,2024-09-14,Expedited,"Extended Warranty, Impulse Item, Extended Warranty",106.68
+18943,80,Male,No,Tablet,TBL345,4,Completed,PayPal,6291.28,786.41,8,2024-09-19,Expedited,Impulse Item,95.53
+18955,55,Female,No,Headphones,HDP456,5,Cancelled,Credit Card,2528.26,361.18,7,2024-09-22,Expedited,"Extended Warranty, Accessory, Impulse Item",164.13
+18972,21,Female,No,Smartwatch,SWT567,2,Cancelled,Credit Card,3676.0,459.5,8,2024-09-06,Same Day,"Impulse Item, Accessory, Accessory",161.27
+18982,67,Female,No,Tablet,TBL345,1,Completed,Bank Transfer,1572.82,786.41,2,2024-09-19,Standard,"Extended Warranty, Impulse Item",96.73
+18984,58,Male,No,Headphones,HDP456,2,Cancelled,Bank Transfer,3250.62,361.18,9,2024-09-16,Expedited,"Accessory, Extended Warranty",112.7
+18987,45,Female,No,Headphones,HDP456,2,Completed,Bank Transfer,2167.08,361.18,6,2024-09-16,Expedited,"Impulse Item, Impulse Item",81.8
+18996,48,Male,No,Headphones,HDP456,3,Completed,PayPal,3250.62,361.18,9,2024-09-19,Standard,"Impulse Item, Impulse Item, Extended Warranty",121.54
+19012,43,Female,No,Smartwatch,SWT567,3,Completed,Bank Transfer,459.5,459.5,1,2024-09-05,Same Day,"Impulse Item, Extended Warranty",99.58
+19014,45,Female,No,Smartwatch,SWT567,2,Completed,PayPal,4595.0,459.5,10,2024-09-19,Expedited,"Extended Warranty, Accessory",65.6
+19028,68,Female,No,Laptop,LTP123,3,Completed,Bank Transfer,6743.2,674.32,10,2024-09-06,Standard,Accessory,33.67
+19033,47,Female,No,Tablet,TBL345,4,Completed,Bank Transfer,4718.46,786.41,6,2024-09-23,Standard,"Impulse Item, Impulse Item",187.94
+19042,69,Female,No,Laptop,LTP123,1,Completed,Bank Transfer,6743.2,674.32,10,2024-09-08,Same Day,"Impulse Item, Impulse Item",152.23
+19049,42,Male,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,4595.0,459.5,10,2024-09-01,Expedited,"Extended Warranty, Accessory",54.68
+19059,59,Male,No,Tablet,TBL345,3,Completed,Bank Transfer,6291.28,786.41,8,2024-09-08,Standard,,0.0
+19066,52,Male,No,Tablet,TBL345,4,Cancelled,Credit Card,5504.87,786.41,7,2024-09-06,Standard,"Accessory, Extended Warranty, Impulse Item",165.38
+19081,62,Female,No,Tablet,TBL345,4,Cancelled,Bank Transfer,5504.87,786.41,7,2024-09-17,Standard,"Accessory, Impulse Item, Impulse Item",111.66
+19086,72,Male,No,Headphones,HDP456,1,Completed,PayPal,1444.72,361.18,4,2024-09-04,Expedited,,0.0
+19097,68,Male,No,Laptop,LTP123,1,Completed,Bank Transfer,6068.88,674.32,9,2024-09-06,Same Day,Impulse Item,27.8
+19109,20,Male,No,Headphones,HDP456,5,Completed,Bank Transfer,3250.62,361.18,9,2024-09-16,Expedited,"Impulse Item, Accessory",89.85
+19118,21,Male,No,Headphones,HDP456,5,Cancelled,PayPal,2528.26,361.18,7,2024-09-04,Expedited,"Impulse Item, Accessory, Impulse Item",81.43
+19139,34,Female,Yes,Headphones,HDP456,4,Completed,Credit Card,2889.44,361.18,8,2024-09-03,Same Day,"Extended Warranty, Extended Warranty, Impulse Item",137.74
+19182,80,Male,No,Headphones,HDP456,2,Completed,Bank Transfer,3611.8,361.18,10,2024-09-22,Standard,"Impulse Item, Impulse Item",111.09
+19190,76,Male,No,Smartwatch,SWT567,3,Cancelled,Credit Card,459.5,459.5,1,2024-09-08,Expedited,,0.0
+19191,44,Male,No,Smartphone,SMP234,2,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-13,Standard,"Accessory, Accessory, Impulse Item",144.61
+19204,58,Male,Yes,Smartphone,SMP234,5,Completed,Bank Transfer,2279.36,1139.68,2,2024-09-17,Same Day,"Accessory, Impulse Item, Impulse Item",171.72
+19213,32,Male,No,Headphones,HDP456,4,Cancelled,Bank Transfer,2167.08,361.18,6,2024-09-20,Expedited,,0.0
+19214,80,Male,Yes,Smartphone,SMP234,1,Completed,PayPal,10257.12,1139.68,9,2024-09-21,Same Day,Extended Warranty,85.29
+19222,39,Female,No,Laptop,LTP123,3,Cancelled,Bank Transfer,3371.6,674.32,5,2024-09-11,Expedited,"Accessory, Impulse Item",126.59
+19223,69,Female,No,Smartwatch,SWT567,2,Cancelled,Credit Card,459.5,459.5,1,2024-09-21,Same Day,Accessory,80.63
+19228,69,Female,No,Headphones,HDP456,5,Cancelled,Bank Transfer,1805.9,361.18,5,2024-09-09,Expedited,"Extended Warranty, Impulse Item, Accessory",166.39
+19252,66,Male,No,Tablet,TBL345,2,Cancelled,Credit Card,1572.82,786.41,2,2024-09-14,Expedited,"Accessory, Impulse Item",53.71
+19257,38,Female,No,Headphones,HDP456,4,Completed,PayPal,1444.72,361.18,4,2024-09-02,Same Day,"Impulse Item, Accessory",134.66
+19276,64,Female,No,Smartwatch,SWT567,3,Completed,PayPal,3676.0,459.5,8,2024-09-15,Same Day,Accessory,10.88
+19277,23,Male,No,Tablet,TBL345,2,Cancelled,PayPal,4718.46,786.41,6,2024-09-11,Expedited,Accessory,70.18
+19286,42,Female,No,Laptop,LTP123,4,Cancelled,Credit Card,5394.56,674.32,8,2024-09-10,Same Day,"Accessory, Extended Warranty",117.11
+19295,74,Male,No,Laptop,LTP123,4,Completed,Bank Transfer,674.32,674.32,1,2024-09-16,Same Day,"Accessory, Impulse Item",102.41
+19298,48,Male,Yes,Laptop,LTP123,2,Completed,Credit Card,2022.96,674.32,3,2024-09-10,Same Day,,0.0
+19339,64,Female,No,Headphones,HDP456,5,Completed,PayPal,2167.08,361.18,6,2024-09-22,Expedited,,0.0
+19341,36,Male,Yes,Laptop,LTP123,4,Completed,Credit Card,4720.24,674.32,7,2024-09-23,Standard,Accessory,47.75
+19351,50,Male,No,Smartphone,SMP234,2,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-12,Same Day,"Accessory, Impulse Item, Extended Warranty",194.92
+19373,69,Male,No,Tablet,TBL345,1,Cancelled,Credit Card,786.41,786.41,1,2024-09-11,Expedited,,0.0
+19378,30,Male,No,Smartphone,SMP234,3,Completed,Credit Card,3419.04,1139.68,3,2024-09-11,Standard,"Accessory, Extended Warranty, Accessory",136.91
+19409,47,Male,No,Tablet,TBL345,4,Completed,PayPal,7864.1,786.41,10,2024-09-07,Standard,"Accessory, Impulse Item, Extended Warranty",170.51
+19450,43,Female,No,Headphones,HDP456,3,Completed,Credit Card,3611.8,361.18,10,2024-09-09,Same Day,,0.0
+19463,75,Male,No,Laptop,LTP123,2,Completed,Bank Transfer,2697.28,674.32,4,2024-09-16,Same Day,"Impulse Item, Accessory, Accessory",141.21
+19471,54,Female,No,Tablet,TBL345,3,Cancelled,Credit Card,3145.64,786.41,4,2024-09-23,Same Day,"Extended Warranty, Extended Warranty",145.55
+19474,20,Female,No,Headphones,HDP456,2,Completed,Bank Transfer,361.18,361.18,1,2024-09-13,Same Day,"Impulse Item, Accessory, Extended Warranty",108.75
+19475,61,Male,No,Headphones,HDP456,4,Cancelled,PayPal,2528.26,361.18,7,2024-09-13,Standard,"Impulse Item, Impulse Item",152.24
+19479,27,Female,No,Laptop,LTP123,3,Completed,PayPal,2697.28,674.32,4,2024-09-03,Same Day,"Extended Warranty, Accessory, Impulse Item",224.7
+19510,28,Male,No,Smartphone,SMP234,5,Completed,Credit Card,5698.4,1139.68,5,2024-09-03,Same Day,,0.0
+19517,54,Female,No,Smartwatch,SWT567,1,Cancelled,PayPal,919.0,459.5,2,2024-09-13,Expedited,"Extended Warranty, Extended Warranty, Accessory",180.67
+19529,26,Male,No,Smartwatch,SWT567,4,Cancelled,Credit Card,919.0,459.5,2,2024-09-18,Same Day,,0.0
+19537,36,Female,No,Smartwatch,SWT567,5,Cancelled,Bank Transfer,2757.0,459.5,6,2024-09-16,Same Day,"Accessory, Accessory, Accessory",189.6
+19555,51,Female,No,Smartphone,SMP234,1,Cancelled,PayPal,4558.72,1139.68,4,2024-09-04,Same Day,Impulse Item,17.55
+19559,45,Female,No,Laptop,LTP123,2,Cancelled,PayPal,2022.96,674.32,3,2024-09-05,Expedited,"Accessory, Impulse Item, Impulse Item",235.89
+19568,60,Female,No,Headphones,HDP456,4,Completed,Credit Card,1083.54,361.18,3,2024-09-02,Same Day,Impulse Item,37.66
+19569,28,Male,No,Smartphone,SMP234,5,Completed,PayPal,9117.44,1139.68,8,2024-09-12,Expedited,Extended Warranty,87.72
+19576,57,Female,No,Smartwatch,SWT567,5,Completed,Bank Transfer,919.0,459.5,2,2024-09-04,Standard,"Extended Warranty, Accessory, Impulse Item",181.16
+19593,30,Female,Yes,Smartphone,SMP234,5,Completed,Credit Card,11396.8,1139.68,10,2024-09-14,Same Day,Accessory,17.96
+19605,62,Female,No,Smartwatch,SWT567,1,Cancelled,Bank Transfer,4595.0,459.5,10,2024-09-18,Expedited,Extended Warranty,42.51
+19610,67,Male,Yes,Smartwatch,SWT567,3,Completed,Bank Transfer,459.5,459.5,1,2024-09-19,Same Day,"Impulse Item, Extended Warranty",90.94
+19657,33,Male,No,Smartphone,SMP234,4,Completed,Bank Transfer,1139.68,1139.68,1,2024-09-02,Standard,,0.0
+19671,53,Female,No,Smartphone,SMP234,1,Cancelled,Credit Card,9117.44,1139.68,8,2024-09-17,Expedited,"Accessory, Accessory, Impulse Item",253.11
+19672,25,Female,No,Smartwatch,SWT567,4,Completed,PayPal,1378.5,459.5,3,2024-09-21,Standard,"Extended Warranty, Extended Warranty, Extended Warranty",146.71
+19714,43,Female,No,Smartwatch,SWT567,5,Cancelled,PayPal,459.5,459.5,1,2024-09-08,Same Day,"Impulse Item, Extended Warranty, Accessory",102.68
+19723,38,Male,Yes,Smartphone,SMP234,2,Cancelled,Credit Card,11396.8,1139.68,10,2024-09-12,Same Day,"Accessory, Accessory, Impulse Item",223.79
+19732,33,Male,Yes,Laptop,LTP123,3,Completed,Bank Transfer,6068.88,674.32,9,2024-09-14,Same Day,Extended Warranty,32.27
+19742,37,Male,No,Tablet,TBL345,4,Cancelled,PayPal,786.41,786.41,1,2024-09-08,Same Day,"Accessory, Extended Warranty, Accessory",194.11
+19743,32,Female,Yes,Smartwatch,SWT567,4,Cancelled,Credit Card,459.5,459.5,1,2024-09-05,Standard,Impulse Item,12.28
+19754,34,Male,Yes,Smartwatch,SWT567,2,Completed,PayPal,2297.5,459.5,5,2024-09-09,Expedited,Extended Warranty,78.9
+19763,30,Male,No,Smartphone,SMP234,4,Cancelled,Bank Transfer,9117.44,1139.68,8,2024-09-09,Standard,"Accessory, Accessory, Extended Warranty",160.17
+19772,48,Female,No,Smartphone,SMP234,5,Completed,PayPal,5698.4,1139.68,5,2024-09-21,Same Day,"Accessory, Extended Warranty",74.88
+19782,56,Female,Yes,Laptop,LTP123,2,Cancelled,PayPal,4720.24,674.32,7,2024-09-06,Expedited,Impulse Item,98.78
+19784,22,Male,No,Smartphone,SMP234,1,Completed,Bank Transfer,6838.08,1139.68,6,2024-09-08,Same Day,Accessory,97.44
+19786,22,Female,No,Smartwatch,SWT567,4,Completed,PayPal,3676.0,459.5,8,2024-09-08,Standard,Extended Warranty,36.29
+19787,19,Female,No,Headphones,HDP456,2,Completed,Bank Transfer,3611.8,361.18,10,2024-09-03,Standard,"Extended Warranty, Extended Warranty",109.71
+19791,59,Female,No,Headphones,HDP456,2,Completed,Bank Transfer,361.18,361.18,1,2024-09-13,Same Day,,0.0
+19793,80,Female,No,Tablet,TBL345,2,Cancelled,PayPal,3145.64,786.41,4,2024-09-09,Same Day,"Extended Warranty, Extended Warranty",130.67
+19795,46,Male,No,Headphones,HDP456,2,Cancelled,PayPal,3611.8,361.18,10,2024-09-11,Standard,Accessory,44.74
+19807,56,Female,No,Headphones,HDP456,5,Completed,PayPal,2528.26,361.18,7,2024-09-19,Same Day,"Extended Warranty, Impulse Item",117.45
+19820,32,Female,Yes,Smartwatch,SWT567,3,Completed,Credit Card,4135.5,459.5,9,2024-09-20,Same Day,,0.0
+19824,76,Male,No,Tablet,TBL345,1,Completed,Credit Card,3145.64,786.41,4,2024-09-12,Same Day,Extended Warranty,76.73
+19853,55,Male,Yes,Laptop,LTP123,5,Cancelled,Bank Transfer,1348.64,674.32,2,2024-09-06,Standard,,0.0
+19879,68,Female,Yes,Smartphone,SMP234,4,Completed,Bank Transfer,10257.12,1139.68,9,2024-09-03,Expedited,"Impulse Item, Accessory",125.22
+19880,63,Female,No,Smartwatch,SWT567,4,Cancelled,Credit Card,1378.5,459.5,3,2024-09-19,Expedited,"Impulse Item, Accessory",51.75
+19882,22,Male,No,Smartphone,SMP234,3,Completed,Bank Transfer,5698.4,1139.68,5,2024-09-23,Standard,,0.0
+19890,28,Male,No,Smartwatch,SWT567,1,Completed,PayPal,3676.0,459.5,8,2024-09-03,Same Day,"Impulse Item, Extended Warranty, Extended Warranty",172.38
+19892,45,Female,No,Laptop,LTP123,2,Completed,Credit Card,1348.64,674.32,2,2024-09-03,Standard,Impulse Item,27.0
+19901,80,Female,Yes,Tablet,TBL345,3,Completed,Credit Card,3145.64,786.41,4,2024-09-21,Standard,,0.0
+19905,76,Male,No,Laptop,LTP123,3,Completed,Credit Card,4045.92,674.32,6,2024-09-17,Expedited,"Accessory, Accessory, Accessory",190.67
+19906,40,Female,No,Smartwatch,SWT567,4,Completed,Bank Transfer,3216.5,459.5,7,2024-09-14,Expedited,Accessory,67.46
+19909,44,Male,No,Tablet,TBL345,1,Completed,PayPal,1572.82,786.41,2,2024-09-18,Expedited,"Accessory, Extended Warranty",76.34
+19918,71,Female,Yes,Tablet,TBL345,3,Cancelled,Bank Transfer,3145.64,786.41,4,2024-09-12,Standard,"Accessory, Impulse Item",134.88
+19943,55,Male,Yes,Tablet,TBL345,4,Completed,Bank Transfer,2359.23,786.41,3,2024-09-05,Standard,"Accessory, Impulse Item",72.38
+19960,78,Male,Yes,Laptop,LTP123,2,Completed,PayPal,5394.56,674.32,8,2024-09-19,Same Day,Impulse Item,71.23
+19969,67,Male,No,Headphones,HDP456,3,Completed,Bank Transfer,2528.26,361.18,7,2024-09-22,Standard,Extended Warranty,23.96
+19971,56,Male,No,Smartphone,SMP234,4,Completed,Credit Card,3419.04,1139.68,3,2024-09-02,Same Day,"Impulse Item, Extended Warranty, Impulse Item",172.43
+19984,62,Male,No,Laptop,LTP123,1,Completed,PayPal,674.32,674.32,1,2024-09-22,Expedited,"Extended Warranty, Accessory",135.71
+19991,75,Male,Yes,Smartphone,SMP234,5,Completed,PayPal,9117.44,1139.68,8,2024-09-08,Same Day,,0.0
