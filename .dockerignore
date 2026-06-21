@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.git/
+.gitignore
+*.ipynb
+sales_fluctuation_eda.png

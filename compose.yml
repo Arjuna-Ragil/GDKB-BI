@@ -1,0 +1,7 @@
+services:
+  restock-optimizer:
+    build: .
+    container_name: GDKB_BI_Restock_Optimizer
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
